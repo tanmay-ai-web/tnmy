@@ -1,0 +1,24 @@
+export type EventHandler<T = any> = (data: T) => Promise<void> | void;
+
+export class EventEmitter {
+  private handlers = new Map<string, Set<EventHandler>>();
+
+  public on<T = any>(event: string, handler: EventHandler<T>): () => void {
+    if (!this.handlers.has(event)) {
+      this.handlers.set(event, new Set());
+    }
+    this.handlers.get(event)!.add(handler);
+    return () => this.off(event, handler);
+  }
+
+  public off<T = any>(event: string, handler: EventHandler<T>): void {
+    this.handlers.get(event)?.delete(handler);
+  }
+
+  public async emit<T = any>(event: string, data: T): Promise<void> {
+    const list = this.handlers.get(event);
+    if (!list || list.size === 0) return;
+    const promises = Array.from(list).map(h => Promise.resolve(h(data)));
+    await Promise.all(promises);
+  }
+}
