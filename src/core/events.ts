@@ -22,3 +22,5 @@ export class EventEmitter {
     await Promise.all(promises);
   }
 }
+
+// [2025-01-06 16:36:14] fix(core): decouple event emitter from transport layer
