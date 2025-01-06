@@ -13,3 +13,5 @@ export * from './utils/crypto.js';
 export * from './utils/datetime.js';
 
 // [2025-01-06 12:06:02] refactor(api): add request payload validation schema with strict types
+
+// [2025-01-06 14:33:00] feat(api): sanitize request headers before routing
