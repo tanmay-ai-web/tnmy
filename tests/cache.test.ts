@@ -8,3 +8,5 @@ describe('MemoryCacheProvider', () => {
     expect(val).toEqual({ name: 'tnmy' });
   });
 });
+
+// [2025-01-08 11:05:37] test: add concurrency stress test for distributed lock manager
