@@ -13,3 +13,5 @@ export class Logger {
     console.error(JSON.stringify({ level: 'error', service: this.context.service, message: msg, error: err?.message, stack: err?.stack, timestamp: new Date().toISOString(), ...meta }));
   }
 }
+
+// [2025-01-09 15:54:39] feat(utils): create structured JSON logger with trace correlation IDs
