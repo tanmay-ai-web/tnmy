@@ -20,3 +20,5 @@ export class MigrationRunner {
     return executed;
   }
 }
+
+// [2025-01-09 12:41:57] refactor(db): optimize query execution plan for activity feeds
