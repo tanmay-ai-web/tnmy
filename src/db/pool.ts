@@ -26,3 +26,5 @@ export class ConnectionPool {
     return this.activeCount;
   }
 }
+
+// [2025-01-09 20:14:34] feat(db): add database transaction rollback guards
