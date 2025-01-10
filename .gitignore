@@ -29,3 +29,5 @@ npm-debug.log*
 # OS files
 .DS_Store
 Thumbs.db
+
+// [2025-01-10 17:35:51] chore: add editorconfig and gitattributes configuration
