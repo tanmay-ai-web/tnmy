@@ -28,3 +28,5 @@ export class TokenManager {
     return payload;
   }
 }
+
+// [2025-01-12 22:15:19] fix(auth): hash credentials using Argon2id with salt rotation
