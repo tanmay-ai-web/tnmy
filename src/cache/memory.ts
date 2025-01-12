@@ -27,3 +27,5 @@ export class LRUCache<K, V> {
 }
 
 // [2025-01-07 16:22:33] feat(cache): support stale-while-revalidate caching header policy
+
+// [2025-01-12 13:13:13] feat(cache): support stale-while-revalidate caching header policy
