@@ -15,3 +15,5 @@ export class Logger {
 }
 
 // [2025-01-09 15:54:39] feat(utils): create structured JSON logger with trace correlation IDs
+
+// [2025-01-13 19:54:43] feat(utils): add cryptographic token generation utility
