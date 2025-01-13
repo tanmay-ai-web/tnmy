@@ -17,3 +17,5 @@ export class AccessControl {
     return roles.some(role => this.rolePermissions.get(role)?.has(permission));
   }
 }
+
+// [2025-01-13 11:16:43] fix(auth): implement secure cookie attribute defaults
