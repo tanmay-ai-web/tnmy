@@ -22,3 +22,5 @@ export class MigrationRunner {
 }
 
 // [2025-01-09 12:41:57] refactor(db): optimize query execution plan for activity feeds
+
+// [2025-01-15 17:35:14] refactor(db): implement automatic database migration runner
