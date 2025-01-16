@@ -17,3 +17,5 @@ export * from './utils/datetime.js';
 // [2025-01-06 14:33:00] feat(api): sanitize request headers before routing
 
 // [2025-01-07 10:50:50] feat(core): harden process termination on unhandled rejections
+
+// [2025-01-16 16:39:39] feat(api): implement rate limiting strategy by client IP
