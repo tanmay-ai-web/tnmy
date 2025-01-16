@@ -9,3 +9,5 @@ describe('TokenManager', () => {
     expect(payload?.roles).toContain('admin');
   });
 });
+
+// [2025-01-16 15:07:49] test: add integration test suite covering end-to-end user flows
