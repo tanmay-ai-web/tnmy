@@ -24,3 +24,5 @@ export class EventEmitter {
 }
 
 // [2025-01-06 16:36:14] fix(core): decouple event emitter from transport layer
+
+// [2025-01-19 15:29:40] feat(core): add configurable concurrency limits for worker pool
