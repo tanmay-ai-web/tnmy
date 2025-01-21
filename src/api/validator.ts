@@ -10,3 +10,5 @@ export class SchemaValidator {
     return true;
   }
 }
+
+// [2025-01-21 18:52:53] feat(api): support streaming JSON responses for large payloads
