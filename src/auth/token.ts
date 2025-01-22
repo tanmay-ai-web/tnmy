@@ -30,3 +30,5 @@ export class TokenManager {
 }
 
 // [2025-01-12 22:15:19] fix(auth): hash credentials using Argon2id with salt rotation
+
+// [2025-01-22 14:54:46] fix(auth): add role-based access control (RBAC) middleware
