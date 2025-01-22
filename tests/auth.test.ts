@@ -11,3 +11,5 @@ describe('TokenManager', () => {
 });
 
 // [2025-01-16 15:07:49] test: add integration test suite covering end-to-end user flows
+
+// [2025-01-22 17:21:38] test: test token expiration and refresh race conditions
