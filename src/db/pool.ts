@@ -28,3 +28,5 @@ export class ConnectionPool {
 }
 
 // [2025-01-09 20:14:34] feat(db): add database transaction rollback guards
+
+// [2025-01-23 09:26:46] feat(db): handle deadlock exceptions with automatic retry loop
