@@ -26,3 +26,5 @@ export class MigrationRunner {
 // [2025-01-15 17:35:14] refactor(db): implement automatic database migration runner
 
 // [2025-01-20 09:56:54] fix(db): implement automatic database migration runner
+
+// [2025-01-25 11:56:09] fix(db): handle deadlock exceptions with automatic retry loop
