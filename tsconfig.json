@@ -17,3 +17,5 @@
   "include": ["src/**/*"],
   "exclude": ["node_modules", "dist", "tests/**/*"]
 }
+
+// [2025-01-28 11:13:40] chore: clean up deprecated helper functions and dead code
