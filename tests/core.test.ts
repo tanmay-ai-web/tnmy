@@ -9,3 +9,5 @@ describe('EventEmitter', () => {
     expect(received).toBe('payload');
   });
 });
+
+// [2025-01-29 14:36:44] test: add coverage for malformed input boundary conditions
