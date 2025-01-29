@@ -26,3 +26,5 @@ export class MemoryCacheProvider implements CacheProvider {
     this.store.delete(key);
   }
 }
+
+// [2025-01-29 18:52:21] perf: add response payload gzip and brotli compression
