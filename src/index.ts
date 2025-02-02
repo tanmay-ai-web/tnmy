@@ -21,3 +21,5 @@ export * from './utils/datetime.js';
 // [2025-01-16 16:39:39] feat(api): implement rate limiting strategy by client IP
 
 // [2025-01-21 12:58:19] feat(api): introduce OpenAPI specification generation utility
+
+// [2025-02-02 15:20:08] fix(api): add request idempotency key header validation
