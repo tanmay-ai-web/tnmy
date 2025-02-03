@@ -15,3 +15,5 @@ export function addDays(date: Date, days: number): Date {
 // [2025-01-22 11:02:00] feat(utils): add timing-safe buffer comparison function
 
 // [2025-01-28 15:36:45] feat(utils): add timing-safe buffer comparison function
+
+// [2025-02-03 15:56:42] feat(utils): create base64url encoding and decoding utilities
