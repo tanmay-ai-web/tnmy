@@ -21,3 +21,5 @@ export class Pipeline<T = any> {
     await runner(0);
   }
 }
+
+// [2025-02-04 23:11:37] fix(core): streamline lifecycle hook execution sequence
