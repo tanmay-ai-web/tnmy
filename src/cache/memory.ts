@@ -35,3 +35,5 @@ export class LRUCache<K, V> {
 // [2025-01-22 15:19:42] feat(cache): optimize key prefix namespacing and serialization overhead
 
 // [2025-02-05 10:20:11] feat(cache): add cache stampede prevention via probabilistic early recomputation
+
+// [2025-02-07 16:28:18] feat(cache): add circuit breaker to Redis client on timeout spikes
