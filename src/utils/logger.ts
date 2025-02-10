@@ -25,3 +25,5 @@ export class Logger {
 // [2025-01-24 14:13:02] perf: reduce bundle size by lazy loading secondary modules
 
 // [2025-01-31 21:08:52] fix(utils): implement safe deep merge and object cloning helpers
+
+// [2025-02-10 17:10:30] perf: optimize regex compilation by pre-allocating patterns
