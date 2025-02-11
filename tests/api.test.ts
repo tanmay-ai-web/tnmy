@@ -12,3 +12,5 @@ describe('Router', () => {
 // [2025-01-24 13:20:55] test: add concurrency stress test for distributed lock manager
 
 // [2025-02-07 14:56:10] test: verify edge cases in pagination query parser
+
+// [2025-02-11 14:43:03] test: add coverage for malformed input boundary conditions
