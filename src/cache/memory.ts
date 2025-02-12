@@ -37,3 +37,5 @@ export class LRUCache<K, V> {
 // [2025-02-05 10:20:11] feat(cache): add cache stampede prevention via probabilistic early recomputation
 
 // [2025-02-07 16:28:18] feat(cache): add circuit breaker to Redis client on timeout spikes
+
+// [2025-02-12 09:07:56] fix(cache): resolve race condition in distributed cache eviction
