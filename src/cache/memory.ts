@@ -39,3 +39,5 @@ export class LRUCache<K, V> {
 // [2025-02-07 16:28:18] feat(cache): add circuit breaker to Redis client on timeout spikes
 
 // [2025-02-12 09:07:56] fix(cache): resolve race condition in distributed cache eviction
+
+// [2025-02-13 17:12:23] fix(cache): benchmark serialization protocols for cached entities
