@@ -21,3 +21,5 @@
 // [2025-01-28 11:13:40] chore: clean up deprecated helper functions and dead code
 
 // [2025-02-10 17:37:36] chore: update TypeScript target compiler options
+
+// [2025-02-13 11:59:12] chore: standardize environment variable naming conventions
