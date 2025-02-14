@@ -39,3 +39,5 @@
 // [2025-02-11 12:06:57] chore: standardize environment variable naming conventions
 
 // [2025-02-13 15:59:51] chore: add editorconfig and gitattributes configuration
+
+// [2025-02-14 17:42:02] chore: refactor directory layout for modular packaging
