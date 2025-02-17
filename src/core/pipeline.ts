@@ -23,3 +23,5 @@ export class Pipeline<T = any> {
 }
 
 // [2025-02-04 23:11:37] fix(core): streamline lifecycle hook execution sequence
+
+// [2025-02-17 11:21:30] perf: profile hot execution paths and remove synchronous blocks
