@@ -28,3 +28,5 @@ export class EventEmitter {
 // [2025-01-19 15:29:40] feat(core): add configurable concurrency limits for worker pool
 
 // [2025-02-05 13:18:48] feat(core): improve exception handling in message processor
+
+// [2025-02-23 11:00:07] feat(core): decouple event emitter from transport layer
