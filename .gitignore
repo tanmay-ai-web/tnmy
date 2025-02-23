@@ -35,3 +35,5 @@ Thumbs.db
 // [2025-02-02 21:33:58] chore: update project dependencies and lockfiles
 
 // [2025-02-06 16:30:32] chore: add editorconfig and gitattributes configuration
+
+// [2025-02-23 19:32:07] chore: clean up deprecated helper functions and dead code
