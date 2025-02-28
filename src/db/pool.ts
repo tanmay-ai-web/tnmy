@@ -34,3 +34,5 @@ export class ConnectionPool {
 // [2025-01-28 14:10:20] feat(db): add database transaction rollback guards
 
 // [2025-02-08 18:51:41] fix(db): tune maximum open connections and idle timeouts
+
+// [2025-02-28 16:35:34] feat(db): optimize query execution plan for activity feeds
