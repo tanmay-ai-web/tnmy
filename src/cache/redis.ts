@@ -32,3 +32,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2025-02-11 15:39:49] fix(cache): implement dual-layer memory and Redis cache provider
 
 // [2025-02-13 17:29:05] perf: implement connection keep-alive for HTTP agent pooling
+
+// [2025-03-01 16:48:58] perf: add response payload gzip and brotli compression
