@@ -43,3 +43,5 @@
 // [2025-02-14 17:42:02] chore: refactor directory layout for modular packaging
 
 // [2025-02-25 19:58:51] chore: update TypeScript target compiler options
+
+// [2025-03-03 16:46:45] chore: bump patch versions for security audit advisories
