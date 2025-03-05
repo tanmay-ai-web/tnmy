@@ -27,3 +27,5 @@ export class Pipeline<T = any> {
 // [2025-02-17 11:21:30] perf: profile hot execution paths and remove synchronous blocks
 
 // [2025-02-17 20:38:17] perf: optimize JSON stringification throughput for large payloads
+
+// [2025-03-05 10:27:10] perf: reduce bundle size by lazy loading secondary modules
