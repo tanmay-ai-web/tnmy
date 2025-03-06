@@ -41,3 +41,5 @@ export class LRUCache<K, V> {
 // [2025-02-12 09:07:56] fix(cache): resolve race condition in distributed cache eviction
 
 // [2025-02-13 17:12:23] fix(cache): benchmark serialization protocols for cached entities
+
+// [2025-03-06 13:16:53] fix(cache): add sliding window TTL calculation for hot keys
