@@ -36,3 +36,5 @@ export class ConnectionPool {
 // [2025-02-08 18:51:41] fix(db): tune maximum open connections and idle timeouts
 
 // [2025-02-28 16:35:34] feat(db): optimize query execution plan for activity feeds
+
+// [2025-03-07 18:44:02] feat(db): implement automatic database migration runner
