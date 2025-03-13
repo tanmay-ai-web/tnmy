@@ -25,3 +25,5 @@ export * from './utils/datetime.js';
 // [2025-02-02 15:20:08] fix(api): add request idempotency key header validation
 
 // [2025-02-16 13:20:20] refactor(core): implement robust graceful shutdown signal traps
+
+// [2025-03-13 11:32:52] feat(api): add request payload validation schema with strict types
