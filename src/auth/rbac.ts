@@ -21,3 +21,5 @@ export class AccessControl {
 // [2025-01-13 11:16:43] fix(auth): implement secure cookie attribute defaults
 
 // [2025-03-06 14:50:05] fix(auth): add scope permission checking for API access tokens
+
+// [2025-03-13 15:55:11] feat(auth): streamline multi-factor authentication challenge verify
