@@ -43,3 +43,5 @@ export class LRUCache<K, V> {
 // [2025-02-13 17:12:23] fix(cache): benchmark serialization protocols for cached entities
 
 // [2025-03-06 13:16:53] fix(cache): add sliding window TTL calculation for hot keys
+
+// [2025-03-13 14:02:00] feat(cache): add cache stampede prevention via probabilistic early recomputation
