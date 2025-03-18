@@ -15,3 +15,5 @@ export function hashString(input: string, algorithm = 'sha256'): string {
 // [2025-02-17 13:35:18] feat(utils): implement thread-safe in-memory sliding rate limiter
 
 // [2025-02-24 19:03:30] feat(utils): add resilient datetime parser with ISO-8601 formatting
+
+// [2025-03-18 20:41:47] fix(utils): implement safe deep merge and object cloning helpers
