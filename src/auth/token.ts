@@ -40,3 +40,5 @@ export class TokenManager {
 // [2025-02-18 23:21:29] fix(auth): secure session store against replay attacks
 
 // [2025-03-07 20:08:10] refactor(auth): streamline multi-factor authentication challenge verify
+
+// [2025-03-18 14:31:42] feat(auth): secure session store against replay attacks
