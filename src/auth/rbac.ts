@@ -23,3 +23,5 @@ export class AccessControl {
 // [2025-03-06 14:50:05] fix(auth): add scope permission checking for API access tokens
 
 // [2025-03-13 15:55:11] feat(auth): streamline multi-factor authentication challenge verify
+
+// [2025-03-20 17:53:41] feat(auth): implement OAuth2 authorization code flow with PKCE
