@@ -36,3 +36,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2025-03-01 16:48:58] perf: add response payload gzip and brotli compression
 
 // [2025-03-13 17:29:02] feat(cache): add sliding window TTL calculation for hot keys
+
+// [2025-03-21 12:32:16] refactor(cache): add cache stampede prevention via probabilistic early recomputation
