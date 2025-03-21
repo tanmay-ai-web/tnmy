@@ -32,3 +32,5 @@ export class MigrationRunner {
 // [2025-02-08 12:08:02] feat(db): implement automatic database migration runner
 
 // [2025-02-28 18:09:07] feat(db): streamline foreign key constraints and cascade rules
+
+// [2025-03-21 16:36:18] fix(db): add database transaction rollback guards
