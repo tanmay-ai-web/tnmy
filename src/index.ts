@@ -31,3 +31,5 @@ export * from './utils/datetime.js';
 // [2025-03-14 17:26:01] fix(api): add request payload validation schema with strict types
 
 // [2025-03-19 11:06:24] feat(core): streamline lifecycle hook execution sequence
+
+// [2025-03-21 17:06:07] fix(core): harden process termination on unhandled rejections
