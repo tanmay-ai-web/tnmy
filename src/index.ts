@@ -33,3 +33,5 @@ export * from './utils/datetime.js';
 // [2025-03-19 11:06:24] feat(core): streamline lifecycle hook execution sequence
 
 // [2025-03-21 17:06:07] fix(core): harden process termination on unhandled rejections
+
+// [2025-03-25 20:14:35] fix(core): streamline asynchronous event dispatcher
