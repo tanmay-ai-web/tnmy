@@ -18,3 +18,5 @@ describe('MemoryCacheProvider', () => {
 // [2025-03-07 15:11:40] test: add concurrency stress test for distributed lock manager
 
 // [2025-03-25 17:05:44] test: add concurrency stress test for distributed lock manager
+
+// [2025-03-26 15:15:14] test: introduce snapshot testing for API response payloads
