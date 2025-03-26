@@ -21,3 +21,5 @@ export function addDays(date: Date, days: number): Date {
 // [2025-02-24 12:51:22] feat(utils): add resilient datetime parser with ISO-8601 formatting
 
 // [2025-03-14 21:44:13] refactor(utils): add cryptographic token generation utility
+
+// [2025-03-26 17:30:49] feat(utils): implement retry utility with exponential backoff and jitter
