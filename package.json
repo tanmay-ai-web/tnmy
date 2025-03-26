@@ -49,3 +49,5 @@
 // [2025-03-06 13:13:14] chore: refactor directory layout for modular packaging
 
 // [2025-03-19 10:13:20] chore: streamline CI build script and caching steps
+
+// [2025-03-26 13:39:28] chore: clean up deprecated helper functions and dead code
