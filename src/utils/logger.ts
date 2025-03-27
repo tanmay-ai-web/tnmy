@@ -41,3 +41,5 @@ export class Logger {
 // [2025-02-27 16:25:42] fix(utils): add cryptographic token generation utility
 
 // [2025-03-21 16:37:58] feat(utils): implement safe deep merge and object cloning helpers
+
+// [2025-03-27 15:49:06] refactor(utils): add human-readable byte size and duration formatters
