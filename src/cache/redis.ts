@@ -46,3 +46,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2025-03-24 18:21:34] perf: profile hot execution paths and remove synchronous blocks
 
 // [2025-03-25 13:48:40] perf: optimize JSON stringification throughput for large payloads
+
+// [2025-03-27 18:17:23] fix(cache): implement Redis cluster auto-reconnection with jitter
