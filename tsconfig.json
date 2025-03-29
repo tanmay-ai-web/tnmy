@@ -27,3 +27,5 @@
 // [2025-03-14 15:17:04] chore: update TypeScript target compiler options
 
 // [2025-03-18 10:39:52] chore: streamline CI build script and caching steps
+
+// [2025-03-29 09:17:10] chore: update project dependencies and lockfiles
