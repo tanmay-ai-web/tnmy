@@ -48,3 +48,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2025-03-25 13:48:40] perf: optimize JSON stringification throughput for large payloads
 
 // [2025-03-27 18:17:23] fix(cache): implement Redis cluster auto-reconnection with jitter
+
+// [2025-04-01 17:01:01] perf: implement connection keep-alive for HTTP agent pooling
