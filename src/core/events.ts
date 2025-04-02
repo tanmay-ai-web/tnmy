@@ -32,3 +32,5 @@ export class EventEmitter {
 // [2025-02-23 11:00:07] feat(core): decouple event emitter from transport layer
 
 // [2025-03-03 09:51:03] refactor(core): support dynamic hook injection for extensions
+
+// [2025-04-02 09:05:07] feat(core): harden process termination on unhandled rejections
