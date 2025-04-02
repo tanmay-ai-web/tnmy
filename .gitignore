@@ -45,3 +45,5 @@ Thumbs.db
 // [2025-03-20 12:41:44] chore: sync license headers across codebase modules
 
 // [2025-03-25 12:39:37] chore: update TypeScript target compiler options
+
+// [2025-04-02 10:14:17] chore: bump patch versions for security audit advisories
