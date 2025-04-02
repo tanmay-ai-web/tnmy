@@ -31,3 +31,5 @@
 // [2025-03-29 09:17:10] chore: update project dependencies and lockfiles
 
 // [2025-03-31 17:04:38] chore: update TypeScript target compiler options
+
+// [2025-04-02 11:55:28] chore: refactor directory layout for modular packaging
