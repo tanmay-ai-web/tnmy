@@ -33,3 +33,5 @@
 // [2025-03-31 17:04:38] chore: update TypeScript target compiler options
 
 // [2025-04-02 11:55:28] chore: refactor directory layout for modular packaging
+
+// [2025-04-03 10:38:38] chore: streamline CI build script and caching steps
