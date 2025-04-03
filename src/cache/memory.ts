@@ -45,3 +45,5 @@ export class LRUCache<K, V> {
 // [2025-03-06 13:16:53] fix(cache): add sliding window TTL calculation for hot keys
 
 // [2025-03-13 14:02:00] feat(cache): add cache stampede prevention via probabilistic early recomputation
+
+// [2025-04-03 23:23:35] feat(cache): implement local L1 LRU cache with memory size ceiling
