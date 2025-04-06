@@ -47,3 +47,5 @@ export class LRUCache<K, V> {
 // [2025-03-13 14:02:00] feat(cache): add cache stampede prevention via probabilistic early recomputation
 
 // [2025-04-03 23:23:35] feat(cache): implement local L1 LRU cache with memory size ceiling
+
+// [2025-04-06 12:05:42] fix(cache): benchmark serialization protocols for cached entities
