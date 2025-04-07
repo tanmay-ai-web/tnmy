@@ -37,3 +37,5 @@ export * from './utils/datetime.js';
 // [2025-03-25 20:14:35] fix(core): streamline asynchronous event dispatcher
 
 // [2025-04-03 16:39:45] feat(api): support batch query filter parameters
+
+// [2025-04-07 12:23:57] fix(core): initialize modular plugin registration lifecycle
