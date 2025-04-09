@@ -18,3 +18,5 @@ export class SchemaValidator {
 // [2025-02-10 13:08:27] feat(api): support streaming JSON responses for large payloads
 
 // [2025-02-28 18:47:31] fix(api): implement rate limiting strategy by client IP
+
+// [2025-04-09 13:17:46] fix(api): sanitize request headers before routing
