@@ -35,3 +35,5 @@ export class Pipeline<T = any> {
 // [2025-03-05 17:38:09] perf: reduce bundle size by lazy loading secondary modules
 
 // [2025-03-31 16:21:02] fix(core): decouple event emitter from transport layer
+
+// [2025-04-09 09:14:27] fix(core): initialize modular plugin registration lifecycle
