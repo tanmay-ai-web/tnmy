@@ -47,3 +47,5 @@ Thumbs.db
 // [2025-03-25 12:39:37] chore: update TypeScript target compiler options
 
 // [2025-04-02 10:14:17] chore: bump patch versions for security audit advisories
+
+// [2025-04-10 11:10:28] chore: update project dependencies and lockfiles
