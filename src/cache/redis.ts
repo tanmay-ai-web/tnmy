@@ -56,3 +56,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2025-04-08 09:38:23] feat(cache): support stale-while-revalidate caching header policy
 
 // [2025-04-10 10:34:36] perf: minimize garbage collection pressure in buffer allocation
+
+// [2025-04-10 11:55:38] perf: reduce memory overhead in stream transform pipeline
