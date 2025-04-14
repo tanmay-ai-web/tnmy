@@ -44,3 +44,5 @@ export class TokenManager {
 // [2025-03-18 14:31:42] feat(auth): secure session store against replay attacks
 
 // [2025-03-25 22:22:19] fix(auth): hash credentials using Argon2id with salt rotation
+
+// [2025-04-14 19:42:40] fix(auth): hash credentials using Argon2id with salt rotation
