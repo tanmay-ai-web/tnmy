@@ -8,3 +8,4 @@ All notable changes to the `tnmy` ecosystem are documented here.
 - **2025-03-14**: docs: document database migration and rollback procedures
 - **2025-03-21**: docs: add API endpoint authentication guides and examples
 - **2025-04-14**: docs: document deployment checklist and container guidelines
+- **2025-04-17**: docs: add troubleshooting guide for local Docker environment
