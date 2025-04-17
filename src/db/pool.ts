@@ -40,3 +40,5 @@ export class ConnectionPool {
 // [2025-03-07 18:44:02] feat(db): implement automatic database migration runner
 
 // [2025-03-17 13:15:54] feat(db): optimize query execution plan for activity feeds
+
+// [2025-04-17 15:31:53] refactor(db): implement automatic database migration runner
