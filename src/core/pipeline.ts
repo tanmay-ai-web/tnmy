@@ -41,3 +41,5 @@ export class Pipeline<T = any> {
 // [2025-04-11 14:11:45] feat(core): streamline lifecycle hook execution sequence
 
 // [2025-04-13 20:18:16] perf: eliminate redundant database queries using batch DataLoader
+
+// [2025-04-25 16:55:53] fix(core): refactor pipeline error boundary middleware
