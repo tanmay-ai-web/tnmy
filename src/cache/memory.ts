@@ -51,3 +51,5 @@ export class LRUCache<K, V> {
 // [2025-04-06 12:05:42] fix(cache): benchmark serialization protocols for cached entities
 
 // [2025-04-22 14:35:27] fix(cache): implement dual-layer memory and Redis cache provider
+
+// [2025-04-28 20:16:23] refactor(cache): implement tag-based cache invalidation hooks
