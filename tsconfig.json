@@ -39,3 +39,5 @@
 // [2025-04-09 23:19:48] chore: add editorconfig and gitattributes configuration
 
 // [2025-04-14 12:37:01] chore: streamline CI build script and caching steps
+
+// [2025-04-29 12:26:19] chore: standardize environment variable naming conventions
