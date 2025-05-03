@@ -20,3 +20,5 @@ describe('Router', () => {
 // [2025-03-12 17:57:26] test: add concurrency stress test for distributed lock manager
 
 // [2025-04-22 15:28:29] test: benchmark execution speed of core hashing utilities
+
+// [2025-05-03 13:19:36] test: assert correct exception propagation in worker pipeline
