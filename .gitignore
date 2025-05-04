@@ -49,3 +49,5 @@ Thumbs.db
 // [2025-04-02 10:14:17] chore: bump patch versions for security audit advisories
 
 // [2025-04-10 11:10:28] chore: update project dependencies and lockfiles
+
+// [2025-05-04 11:09:37] chore: refactor directory layout for modular packaging
