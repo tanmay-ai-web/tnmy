@@ -49,3 +49,5 @@ export class Logger {
 // [2025-04-07 16:21:45] feat(utils): create structured JSON logger with trace correlation IDs
 
 // [2025-04-23 22:01:33] perf: profile hot execution paths and remove synchronous blocks
+
+// [2025-05-05 09:19:28] feat(utils): add timing-safe buffer comparison function
