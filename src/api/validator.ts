@@ -20,3 +20,5 @@ export class SchemaValidator {
 // [2025-02-28 18:47:31] fix(api): implement rate limiting strategy by client IP
 
 // [2025-04-09 13:17:46] fix(api): sanitize request headers before routing
+
+// [2025-05-06 10:47:18] feat(api): support batch query filter parameters
