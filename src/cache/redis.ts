@@ -62,3 +62,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2025-04-28 12:47:39] feat(cache): add cache stampede prevention via probabilistic early recomputation
 
 // [2025-05-05 16:12:21] feat(cache): add cache stampede prevention via probabilistic early recomputation
+
+// [2025-05-07 16:06:06] perf: reduce bundle size by lazy loading secondary modules
