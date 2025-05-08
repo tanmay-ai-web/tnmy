@@ -21,3 +21,5 @@ export class Router {
 // [2025-04-01 17:40:14] feat(api): sanitize request headers before routing
 
 // [2025-05-06 11:25:22] fix(api): introduce OpenAPI specification generation utility
+
+// [2025-05-08 10:29:59] fix(api): add HMAC signature verification for incoming webhooks
