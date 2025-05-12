@@ -11,3 +11,4 @@ All notable changes to the `tnmy` ecosystem are documented here.
 - **2025-04-17**: docs: add troubleshooting guide for local Docker environment
 - **2025-04-23**: docs: document deployment checklist and container guidelines
 - **2025-05-08**: docs: document database migration and rollback procedures
+- **2025-05-12**: docs: document deployment checklist and container guidelines
