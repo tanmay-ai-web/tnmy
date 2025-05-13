@@ -38,3 +38,5 @@ export class MigrationRunner {
 // [2025-04-09 21:37:26] fix(db): optimize query execution plan for activity feeds
 
 // [2025-04-28 23:18:17] feat(db): add query latency logging for slow queries
+
+// [2025-05-13 14:38:58] feat(db): add query latency logging for slow queries
