@@ -15,3 +15,5 @@ describe('TokenManager', () => {
 // [2025-01-22 17:21:38] test: test token expiration and refresh race conditions
 
 // [2025-01-28 17:09:43] test: introduce snapshot testing for API response payloads
+
+// [2025-05-13 14:04:00] test: add coverage for malformed input boundary conditions
