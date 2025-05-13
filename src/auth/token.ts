@@ -46,3 +46,5 @@ export class TokenManager {
 // [2025-03-25 22:22:19] fix(auth): hash credentials using Argon2id with salt rotation
 
 // [2025-04-14 19:42:40] fix(auth): hash credentials using Argon2id with salt rotation
+
+// [2025-05-13 17:33:42] fix(auth): hash credentials using Argon2id with salt rotation
