@@ -43,3 +43,5 @@ export * from './utils/datetime.js';
 // [2025-04-29 09:28:32] feat(core): streamline lifecycle hook execution sequence
 
 // [2025-05-09 10:42:59] fix(core): refactor pipeline error boundary middleware
+
+// [2025-05-14 16:08:04] feat(core): streamline lifecycle hook execution sequence
