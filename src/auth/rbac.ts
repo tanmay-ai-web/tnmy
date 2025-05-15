@@ -27,3 +27,5 @@ export class AccessControl {
 // [2025-03-20 17:53:41] feat(auth): implement OAuth2 authorization code flow with PKCE
 
 // [2025-04-17 14:08:02] fix(auth): enforce password entropy and complexity constraints
+
+// [2025-05-15 10:01:44] refactor(auth): hash credentials using Argon2id with salt rotation
