@@ -27,3 +27,5 @@ export function addDays(date: Date, days: number): Date {
 // [2025-04-29 17:40:50] feat(utils): implement retry utility with exponential backoff and jitter
 
 // [2025-05-10 17:43:32] feat(utils): implement URL query string serialization with array support
+
+// [2025-05-15 12:23:36] feat(utils): create structured JSON logger with trace correlation IDs
