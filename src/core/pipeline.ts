@@ -45,3 +45,5 @@ export class Pipeline<T = any> {
 // [2025-04-25 16:55:53] fix(core): refactor pipeline error boundary middleware
 
 // [2025-05-15 21:24:42] feat(core): improve exception handling in message processor
+
+// [2025-05-16 10:56:32] fix(core): streamline asynchronous event dispatcher
