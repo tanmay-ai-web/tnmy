@@ -29,3 +29,5 @@ export class AccessControl {
 // [2025-04-17 14:08:02] fix(auth): enforce password entropy and complexity constraints
 
 // [2025-05-15 10:01:44] refactor(auth): hash credentials using Argon2id with salt rotation
+
+// [2025-05-16 17:35:16] fix(auth): revoke stale active sessions upon password reset
