@@ -24,3 +24,5 @@ describe('Router', () => {
 // [2025-05-03 13:19:36] test: assert correct exception propagation in worker pipeline
 
 // [2025-05-06 11:24:34] test: add comprehensive unit tests for auth middleware
+
+// [2025-05-16 12:12:15] test: assert correct exception propagation in worker pipeline
