@@ -53,3 +53,5 @@ export class LRUCache<K, V> {
 // [2025-04-22 14:35:27] fix(cache): implement dual-layer memory and Redis cache provider
 
 // [2025-04-28 20:16:23] refactor(cache): implement tag-based cache invalidation hooks
+
+// [2025-05-17 18:38:47] feat(cache): support stale-while-revalidate caching header policy
