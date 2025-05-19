@@ -51,3 +51,5 @@ export class Logger {
 // [2025-04-23 22:01:33] perf: profile hot execution paths and remove synchronous blocks
 
 // [2025-05-05 09:19:28] feat(utils): add timing-safe buffer comparison function
+
+// [2025-05-19 21:47:53] perf: minimize garbage collection pressure in buffer allocation
