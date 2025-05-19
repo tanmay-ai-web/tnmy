@@ -50,3 +50,5 @@ export class TokenManager {
 // [2025-05-13 17:33:42] fix(auth): hash credentials using Argon2id with salt rotation
 
 // [2025-05-15 14:23:57] feat(auth): revoke stale active sessions upon password reset
+
+// [2025-05-19 14:43:34] feat(auth): support multi-tenant organization scoping
