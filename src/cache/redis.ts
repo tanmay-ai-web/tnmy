@@ -68,3 +68,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2025-05-13 14:12:36] feat(cache): add circuit breaker to Redis client on timeout spikes
 
 // [2025-05-19 15:51:10] refactor(cache): add sliding window TTL calculation for hot keys
+
+// [2025-05-19 16:31:08] feat(cache): add sliding window TTL calculation for hot keys
