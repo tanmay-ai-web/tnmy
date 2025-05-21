@@ -52,3 +52,5 @@ export class TokenManager {
 // [2025-05-15 14:23:57] feat(auth): revoke stale active sessions upon password reset
 
 // [2025-05-19 14:43:34] feat(auth): support multi-tenant organization scoping
+
+// [2025-05-21 11:14:36] feat(auth): support multi-tenant organization scoping
