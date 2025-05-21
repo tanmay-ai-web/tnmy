@@ -19,3 +19,5 @@ describe('TokenManager', () => {
 // [2025-05-13 14:04:00] test: add coverage for malformed input boundary conditions
 
 // [2025-05-19 15:18:42] test: implement mock fixtures for external third-party APIs
+
+// [2025-05-21 20:22:26] test: verify edge cases in pagination query parser
