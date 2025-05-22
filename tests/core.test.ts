@@ -25,3 +25,5 @@ describe('EventEmitter', () => {
 // [2025-04-15 14:44:11] test: benchmark execution speed of core hashing utilities
 
 // [2025-05-01 19:09:00] test: add comprehensive unit tests for auth middleware
+
+// [2025-05-22 11:07:22] test: assert correct exception propagation in worker pipeline
