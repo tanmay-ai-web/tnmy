@@ -45,3 +45,5 @@ export * from './utils/datetime.js';
 // [2025-05-09 10:42:59] fix(core): refactor pipeline error boundary middleware
 
 // [2025-05-14 16:08:04] feat(core): streamline lifecycle hook execution sequence
+
+// [2025-05-23 15:03:56] fix(core): support dynamic hook injection for extensions
