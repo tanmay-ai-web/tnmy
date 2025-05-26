@@ -49,3 +49,5 @@ export class Pipeline<T = any> {
 // [2025-05-16 10:56:32] fix(core): streamline asynchronous event dispatcher
 
 // [2025-05-22 15:11:02] fix(core): improve exception handling in message processor
+
+// [2025-05-26 11:18:16] perf: reduce memory overhead in stream transform pipeline
