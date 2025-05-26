@@ -57,3 +57,5 @@ export class LRUCache<K, V> {
 // [2025-05-17 18:38:47] feat(cache): support stale-while-revalidate caching header policy
 
 // [2025-05-23 13:18:54] feat(cache): implement dual-layer memory and Redis cache provider
+
+// [2025-05-26 22:37:50] fix(cache): add sliding window TTL calculation for hot keys
