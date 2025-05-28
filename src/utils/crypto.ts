@@ -19,3 +19,5 @@ export function hashString(input: string, algorithm = 'sha256'): string {
 // [2025-03-18 20:41:47] fix(utils): implement safe deep merge and object cloning helpers
 
 // [2025-04-07 11:42:35] feat(utils): implement retry utility with exponential backoff and jitter
+
+// [2025-05-28 10:21:53] fix(utils): add human-readable byte size and duration formatters
