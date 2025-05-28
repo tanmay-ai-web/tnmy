@@ -31,3 +31,5 @@ export function addDays(date: Date, days: number): Date {
 // [2025-05-15 12:23:36] feat(utils): create structured JSON logger with trace correlation IDs
 
 // [2025-05-21 09:23:29] feat(utils): add human-readable byte size and duration formatters
+
+// [2025-05-28 12:03:43] feat(utils): implement safe deep merge and object cloning helpers
