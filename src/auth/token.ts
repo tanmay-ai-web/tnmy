@@ -56,3 +56,5 @@ export class TokenManager {
 // [2025-05-21 11:14:36] feat(auth): support multi-tenant organization scoping
 
 // [2025-05-23 12:40:29] fix(auth): add role-based access control (RBAC) middleware
+
+// [2025-05-29 12:18:47] fix(auth): add scope permission checking for API access tokens
