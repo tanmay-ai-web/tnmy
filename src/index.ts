@@ -47,3 +47,5 @@ export * from './utils/datetime.js';
 // [2025-05-14 16:08:04] feat(core): streamline lifecycle hook execution sequence
 
 // [2025-05-23 15:03:56] fix(core): support dynamic hook injection for extensions
+
+// [2025-05-29 11:31:38] fix(core): add backpressure monitoring for streaming tasks
