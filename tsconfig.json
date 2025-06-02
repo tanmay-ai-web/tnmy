@@ -43,3 +43,5 @@
 // [2025-04-29 12:26:19] chore: standardize environment variable naming conventions
 
 // [2025-05-03 22:41:27] chore: configure automated linting and code formatting rules
+
+// [2025-06-02 14:11:55] chore: update TypeScript target compiler options
