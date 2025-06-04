@@ -23,3 +23,5 @@ export function hashString(input: string, algorithm = 'sha256'): string {
 // [2025-05-28 10:21:53] fix(utils): add human-readable byte size and duration formatters
 
 // [2025-06-03 12:26:52] feat(utils): add lightweight fuzzy search filter helper
+
+// [2025-06-04 17:32:16] fix(utils): create base64url encoding and decoding utilities
