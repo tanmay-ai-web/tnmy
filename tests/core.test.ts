@@ -27,3 +27,5 @@ describe('EventEmitter', () => {
 // [2025-05-01 19:09:00] test: add comprehensive unit tests for auth middleware
 
 // [2025-05-22 11:07:22] test: assert correct exception propagation in worker pipeline
+
+// [2025-06-04 17:36:19] test: introduce snapshot testing for API response payloads
