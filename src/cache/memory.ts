@@ -59,3 +59,5 @@ export class LRUCache<K, V> {
 // [2025-05-23 13:18:54] feat(cache): implement dual-layer memory and Redis cache provider
 
 // [2025-05-26 22:37:50] fix(cache): add sliding window TTL calculation for hot keys
+
+// [2025-06-05 12:41:15] feat(cache): implement tag-based cache invalidation hooks
