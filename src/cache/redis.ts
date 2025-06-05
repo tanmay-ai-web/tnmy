@@ -72,3 +72,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2025-05-19 16:31:08] feat(cache): add sliding window TTL calculation for hot keys
 
 // [2025-06-03 09:39:29] refactor(cache): support stale-while-revalidate caching header policy
+
+// [2025-06-05 19:13:03] feat(cache): implement tag-based cache invalidation hooks
