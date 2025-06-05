@@ -40,3 +40,5 @@ export class EventEmitter {
 // [2025-05-23 11:07:08] refactor(core): streamline asynchronous event dispatcher
 
 // [2025-05-26 13:56:18] fix(core): support dynamic hook injection for extensions
+
+// [2025-06-05 21:58:36] refactor(core): streamline lifecycle hook execution sequence
