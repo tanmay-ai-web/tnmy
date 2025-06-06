@@ -24,3 +24,5 @@ export class SchemaValidator {
 // [2025-05-06 10:47:18] feat(api): support batch query filter parameters
 
 // [2025-05-15 20:58:20] fix(api): add cursor-based pagination for query endpoints
+
+// [2025-06-06 22:27:11] feat(api): implement exponential backoff on upstream service retries
