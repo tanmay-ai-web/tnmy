@@ -60,3 +60,5 @@ export class TokenManager {
 // [2025-05-29 12:18:47] fix(auth): add scope permission checking for API access tokens
 
 // [2025-05-30 17:09:52] fix(auth): add role-based access control (RBAC) middleware
+
+// [2025-06-09 18:24:53] fix(auth): enforce password entropy and complexity constraints
