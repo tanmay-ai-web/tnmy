@@ -33,3 +33,5 @@ export function addDays(date: Date, days: number): Date {
 // [2025-05-21 09:23:29] feat(utils): add human-readable byte size and duration formatters
 
 // [2025-05-28 12:03:43] feat(utils): implement safe deep merge and object cloning helpers
+
+// [2025-06-09 12:19:03] fix(utils): implement URL query string serialization with array support
