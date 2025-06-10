@@ -51,3 +51,5 @@ export * from './utils/datetime.js';
 // [2025-05-29 11:31:38] fix(core): add backpressure monitoring for streaming tasks
 
 // [2025-06-09 20:22:30] feat(core): implement robust graceful shutdown signal traps
+
+// [2025-06-10 22:21:03] refactor(core): harden process termination on unhandled rejections
