@@ -29,3 +29,5 @@ describe('EventEmitter', () => {
 // [2025-05-22 11:07:22] test: assert correct exception propagation in worker pipeline
 
 // [2025-06-04 17:36:19] test: introduce snapshot testing for API response payloads
+
+// [2025-06-10 10:47:07] test: add integration test suite covering end-to-end user flows
