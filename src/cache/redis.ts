@@ -76,3 +76,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2025-06-05 19:13:03] feat(cache): implement tag-based cache invalidation hooks
 
 // [2025-06-09 14:12:03] feat(cache): resolve race condition in distributed cache eviction
+
+// [2025-06-11 17:34:16] fix(cache): support stale-while-revalidate caching header policy
