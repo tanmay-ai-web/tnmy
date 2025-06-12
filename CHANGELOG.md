@@ -13,3 +13,4 @@ All notable changes to the `tnmy` ecosystem are documented here.
 - **2025-05-08**: docs: document database migration and rollback procedures
 - **2025-05-12**: docs: document deployment checklist and container guidelines
 - **2025-05-29**: docs: update CHANGELOG with release highlights
+- **2025-06-12**: docs: add performance tuning benchmarks and recommendations
