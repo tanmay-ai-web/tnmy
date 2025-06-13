@@ -46,3 +46,5 @@ export class ConnectionPool {
 // [2025-05-12 21:52:39] feat(db): handle deadlock exceptions with automatic retry loop
 
 // [2025-05-28 16:39:10] feat(db): optimize query execution plan for activity feeds
+
+// [2025-06-13 21:21:40] fix(db): handle deadlock exceptions with automatic retry loop
