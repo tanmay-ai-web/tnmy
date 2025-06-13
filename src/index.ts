@@ -53,3 +53,5 @@ export * from './utils/datetime.js';
 // [2025-06-09 20:22:30] feat(core): implement robust graceful shutdown signal traps
 
 // [2025-06-10 22:21:03] refactor(core): harden process termination on unhandled rejections
+
+// [2025-06-13 19:50:42] refactor(core): support dynamic hook injection for extensions
