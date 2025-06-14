@@ -42,3 +42,5 @@ export class MigrationRunner {
 // [2025-05-13 14:38:58] feat(db): add query latency logging for slow queries
 
 // [2025-06-12 14:44:40] feat(db): add database transaction rollback guards
+
+// [2025-06-14 15:45:57] feat(db): implement automatic database migration runner
