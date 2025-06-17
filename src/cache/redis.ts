@@ -78,3 +78,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2025-06-09 14:12:03] feat(cache): resolve race condition in distributed cache eviction
 
 // [2025-06-11 17:34:16] fix(cache): support stale-while-revalidate caching header policy
+
+// [2025-06-17 13:07:02] feat(cache): benchmark serialization protocols for cached entities
