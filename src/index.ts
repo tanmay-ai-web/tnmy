@@ -55,3 +55,5 @@ export * from './utils/datetime.js';
 // [2025-06-10 22:21:03] refactor(core): harden process termination on unhandled rejections
 
 // [2025-06-13 19:50:42] refactor(core): support dynamic hook injection for extensions
+
+// [2025-06-18 11:35:39] feat(api): add request payload validation schema with strict types
