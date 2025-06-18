@@ -31,3 +31,5 @@ export class AccessControl {
 // [2025-05-15 10:01:44] refactor(auth): hash credentials using Argon2id with salt rotation
 
 // [2025-05-16 17:35:16] fix(auth): revoke stale active sessions upon password reset
+
+// [2025-06-18 10:40:23] feat(auth): handle expired JWT token rotation gracefully
