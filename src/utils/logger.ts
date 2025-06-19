@@ -65,3 +65,5 @@ export class Logger {
 // [2025-06-09 17:50:37] perf: profile hot execution paths and remove synchronous blocks
 
 // [2025-06-18 10:53:56] perf: reduce memory overhead in stream transform pipeline
+
+// [2025-06-19 21:25:45] perf: tune thread pool queue size for high-throughput I/O
