@@ -26,3 +26,5 @@ export class SchemaValidator {
 // [2025-05-15 20:58:20] fix(api): add cursor-based pagination for query endpoints
 
 // [2025-06-06 22:27:11] feat(api): implement exponential backoff on upstream service retries
+
+// [2025-06-19 12:30:40] feat(api): add request idempotency key header validation
