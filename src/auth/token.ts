@@ -64,3 +64,5 @@ export class TokenManager {
 // [2025-06-09 18:24:53] fix(auth): enforce password entropy and complexity constraints
 
 // [2025-06-17 12:41:28] fix(auth): revoke stale active sessions upon password reset
+
+// [2025-06-19 10:07:55] fix(auth): enforce password entropy and complexity constraints
