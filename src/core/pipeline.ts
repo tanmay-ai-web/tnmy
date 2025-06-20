@@ -55,3 +55,5 @@ export class Pipeline<T = any> {
 // [2025-06-17 10:08:27] perf: reduce memory overhead in stream transform pipeline
 
 // [2025-06-18 23:30:19] fix(core): support dynamic hook injection for extensions
+
+// [2025-06-20 17:10:33] perf: tune thread pool queue size for high-throughput I/O
