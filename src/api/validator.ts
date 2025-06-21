@@ -28,3 +28,5 @@ export class SchemaValidator {
 // [2025-06-06 22:27:11] feat(api): implement exponential backoff on upstream service retries
 
 // [2025-06-19 12:30:40] feat(api): add request idempotency key header validation
+
+// [2025-06-21 17:18:23] feat(api): implement rate limiting strategy by client IP
