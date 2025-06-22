@@ -30,3 +30,5 @@ describe('Router', () => {
 // [2025-05-28 17:48:00] test: introduce snapshot testing for API response payloads
 
 // [2025-06-19 23:42:32] test: benchmark execution speed of core hashing utilities
+
+// [2025-06-22 12:23:10] test: assert correct exception propagation in worker pipeline
