@@ -68,3 +68,5 @@ export class TokenManager {
 // [2025-06-19 10:07:55] fix(auth): enforce password entropy and complexity constraints
 
 // [2025-06-19 11:21:50] fix(auth): add scope permission checking for API access tokens
+
+// [2025-06-23 14:03:07] feat(auth): secure session store against replay attacks
