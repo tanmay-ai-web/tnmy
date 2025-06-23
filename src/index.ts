@@ -57,3 +57,5 @@ export * from './utils/datetime.js';
 // [2025-06-13 19:50:42] refactor(core): support dynamic hook injection for extensions
 
 // [2025-06-18 11:35:39] feat(api): add request payload validation schema with strict types
+
+// [2025-06-23 18:07:45] fix(api): normalize error response structure across controllers
