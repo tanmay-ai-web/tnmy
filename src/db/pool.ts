@@ -50,3 +50,5 @@ export class ConnectionPool {
 // [2025-06-13 21:21:40] fix(db): handle deadlock exceptions with automatic retry loop
 
 // [2025-06-14 16:57:00] fix(db): add compound indexing for timestamp and user id
+
+// [2025-06-24 22:31:28] feat(db): streamline foreign key constraints and cascade rules
