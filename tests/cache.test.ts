@@ -28,3 +28,5 @@ describe('MemoryCacheProvider', () => {
 // [2025-05-19 18:36:19] test: assert correct exception propagation in worker pipeline
 
 // [2025-06-13 22:02:26] test: test token expiration and refresh race conditions
+
+// [2025-06-27 10:33:51] test: add comprehensive unit tests for auth middleware
