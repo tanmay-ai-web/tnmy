@@ -72,3 +72,5 @@ export class TokenManager {
 // [2025-06-23 14:03:07] feat(auth): secure session store against replay attacks
 
 // [2025-06-25 18:14:58] fix(auth): implement OAuth2 authorization code flow with PKCE
+
+// [2025-06-27 17:19:26] fix(auth): add scope permission checking for API access tokens
