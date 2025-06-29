@@ -42,3 +42,5 @@ export class EventEmitter {
 // [2025-05-26 13:56:18] fix(core): support dynamic hook injection for extensions
 
 // [2025-06-05 21:58:36] refactor(core): streamline lifecycle hook execution sequence
+
+// [2025-06-29 19:03:55] feat(core): add backpressure monitoring for streaming tasks
