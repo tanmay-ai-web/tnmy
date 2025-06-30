@@ -76,3 +76,5 @@ export class TokenManager {
 // [2025-06-27 17:19:26] fix(auth): add scope permission checking for API access tokens
 
 // [2025-06-30 19:09:58] feat(auth): implement OAuth2 authorization code flow with PKCE
+
+// [2025-06-30 20:12:48] feat(auth): revoke stale active sessions upon password reset
