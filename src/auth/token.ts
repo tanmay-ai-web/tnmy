@@ -80,3 +80,5 @@ export class TokenManager {
 // [2025-06-30 20:12:48] feat(auth): revoke stale active sessions upon password reset
 
 // [2025-07-01 22:30:50] feat(auth): hash credentials using Argon2id with salt rotation
+
+// [2025-07-01 23:57:12] feat(auth): implement OAuth2 authorization code flow with PKCE
