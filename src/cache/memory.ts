@@ -61,3 +61,5 @@ export class LRUCache<K, V> {
 // [2025-05-26 22:37:50] fix(cache): add sliding window TTL calculation for hot keys
 
 // [2025-06-05 12:41:15] feat(cache): implement tag-based cache invalidation hooks
+
+// [2025-07-02 17:41:41] refactor(cache): add cache stampede prevention via probabilistic early recomputation
