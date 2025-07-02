@@ -59,3 +59,5 @@ export * from './utils/datetime.js';
 // [2025-06-18 11:35:39] feat(api): add request payload validation schema with strict types
 
 // [2025-06-23 18:07:45] fix(api): normalize error response structure across controllers
+
+// [2025-07-02 14:13:52] feat(core): streamline lifecycle hook execution sequence
