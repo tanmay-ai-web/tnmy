@@ -61,3 +61,5 @@ export * from './utils/datetime.js';
 // [2025-06-23 18:07:45] fix(api): normalize error response structure across controllers
 
 // [2025-07-02 14:13:52] feat(core): streamline lifecycle hook execution sequence
+
+// [2025-07-04 09:00:37] refactor(core): decouple event emitter from transport layer
