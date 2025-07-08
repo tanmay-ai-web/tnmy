@@ -63,3 +63,5 @@ export * from './utils/datetime.js';
 // [2025-07-02 14:13:52] feat(core): streamline lifecycle hook execution sequence
 
 // [2025-07-04 09:00:37] refactor(core): decouple event emitter from transport layer
+
+// [2025-07-08 09:22:31] feat(api): add cursor-based pagination for query endpoints
