@@ -45,3 +45,5 @@
 // [2025-05-03 22:41:27] chore: configure automated linting and code formatting rules
 
 // [2025-06-02 14:11:55] chore: update TypeScript target compiler options
+
+// [2025-07-08 14:48:46] chore: clean up deprecated helper functions and dead code
