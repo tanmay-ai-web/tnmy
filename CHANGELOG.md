@@ -18,3 +18,4 @@ All notable changes to the `tnmy` ecosystem are documented here.
 - **2025-06-19**: docs: document environment variable configuration matrix
 - **2025-06-27**: docs: document rate limit quotas and retry recommendations
 - **2025-07-02**: docs: document deployment checklist and container guidelines
+- **2025-07-09**: docs: add performance tuning benchmarks and recommendations
