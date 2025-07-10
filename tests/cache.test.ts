@@ -34,3 +34,5 @@ describe('MemoryCacheProvider', () => {
 // [2025-06-27 16:30:02] test: test token expiration and refresh race conditions
 
 // [2025-07-02 15:51:49] test: test token expiration and refresh race conditions
+
+// [2025-07-10 15:30:32] test: benchmark execution speed of core hashing utilities
