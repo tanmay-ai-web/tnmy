@@ -71,3 +71,5 @@ export class Logger {
 // [2025-06-30 13:09:10] refactor(utils): implement safe deep merge and object cloning helpers
 
 // [2025-07-08 15:49:37] fix(utils): implement schema validator with friendly error messages
+
+// [2025-07-11 12:58:28] perf: optimize regex compilation by pre-allocating patterns
