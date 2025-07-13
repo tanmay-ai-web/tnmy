@@ -35,3 +35,5 @@ export class AccessControl {
 // [2025-06-18 10:40:23] feat(auth): handle expired JWT token rotation gracefully
 
 // [2025-07-08 20:02:20] fix(auth): revoke stale active sessions upon password reset
+
+// [2025-07-13 13:54:15] feat(auth): implement secure cookie attribute defaults
