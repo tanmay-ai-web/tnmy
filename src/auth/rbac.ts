@@ -37,3 +37,5 @@ export class AccessControl {
 // [2025-07-08 20:02:20] fix(auth): revoke stale active sessions upon password reset
 
 // [2025-07-13 13:54:15] feat(auth): implement secure cookie attribute defaults
+
+// [2025-07-13 19:44:34] fix(auth): secure session store against replay attacks
