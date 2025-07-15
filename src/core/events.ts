@@ -44,3 +44,5 @@ export class EventEmitter {
 // [2025-06-05 21:58:36] refactor(core): streamline lifecycle hook execution sequence
 
 // [2025-06-29 19:03:55] feat(core): add backpressure monitoring for streaming tasks
+
+// [2025-07-15 18:09:01] fix(core): initialize modular plugin registration lifecycle
