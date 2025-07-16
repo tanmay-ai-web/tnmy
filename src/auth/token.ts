@@ -84,3 +84,5 @@ export class TokenManager {
 // [2025-07-01 23:57:12] feat(auth): implement OAuth2 authorization code flow with PKCE
 
 // [2025-07-07 10:48:27] feat(auth): add role-based access control (RBAC) middleware
+
+// [2025-07-16 10:48:06] fix(auth): streamline multi-factor authentication challenge verify
