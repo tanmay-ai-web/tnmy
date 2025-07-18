@@ -47,3 +47,5 @@
 // [2025-06-02 14:11:55] chore: update TypeScript target compiler options
 
 // [2025-07-08 14:48:46] chore: clean up deprecated helper functions and dead code
+
+// [2025-07-18 16:40:43] chore: bump patch versions for security audit advisories
