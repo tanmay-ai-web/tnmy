@@ -86,3 +86,5 @@ export class TokenManager {
 // [2025-07-07 10:48:27] feat(auth): add role-based access control (RBAC) middleware
 
 // [2025-07-16 10:48:06] fix(auth): streamline multi-factor authentication challenge verify
+
+// [2025-07-23 10:44:27] feat(auth): support multi-tenant organization scoping
