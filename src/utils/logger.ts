@@ -73,3 +73,5 @@ export class Logger {
 // [2025-07-08 15:49:37] fix(utils): implement schema validator with friendly error messages
 
 // [2025-07-11 12:58:28] perf: optimize regex compilation by pre-allocating patterns
+
+// [2025-07-23 14:29:37] perf: profile hot execution paths and remove synchronous blocks
