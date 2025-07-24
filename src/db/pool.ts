@@ -60,3 +60,5 @@ export class ConnectionPool {
 // [2025-07-08 15:35:18] feat(db): handle deadlock exceptions with automatic retry loop
 
 // [2025-07-22 12:32:55] feat(db): streamline foreign key constraints and cascade rules
+
+// [2025-07-24 12:41:07] fix(db): add soft delete support with audit trail records
