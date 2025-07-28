@@ -49,3 +49,5 @@
 // [2025-07-08 14:48:46] chore: clean up deprecated helper functions and dead code
 
 // [2025-07-18 16:40:43] chore: bump patch versions for security audit advisories
+
+// [2025-07-28 13:56:34] chore: sync license headers across codebase modules
