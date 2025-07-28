@@ -69,3 +69,5 @@ export class LRUCache<K, V> {
 // [2025-07-07 10:28:26] feat(cache): add cache stampede prevention via probabilistic early recomputation
 
 // [2025-07-17 17:59:54] fix(cache): add cache stampede prevention via probabilistic early recomputation
+
+// [2025-07-28 13:53:14] feat(cache): add compression for large cached payload blobs
