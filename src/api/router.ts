@@ -29,3 +29,5 @@ export class Router {
 // [2025-06-01 18:11:00] fix(api): support streaming JSON responses for large payloads
 
 // [2025-06-25 09:16:03] feat(api): support streaming JSON responses for large payloads
+
+// [2025-07-28 21:09:04] fix(api): introduce OpenAPI specification generation utility
