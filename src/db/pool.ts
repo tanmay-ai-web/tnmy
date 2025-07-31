@@ -62,3 +62,5 @@ export class ConnectionPool {
 // [2025-07-22 12:32:55] feat(db): streamline foreign key constraints and cascade rules
 
 // [2025-07-24 12:41:07] fix(db): add soft delete support with audit trail records
+
+// [2025-07-31 11:04:26] feat(db): add query latency logging for slow queries
