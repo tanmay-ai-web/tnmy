@@ -73,3 +73,5 @@ export class LRUCache<K, V> {
 // [2025-07-28 13:53:14] feat(cache): add compression for large cached payload blobs
 
 // [2025-07-29 13:17:37] fix(cache): resolve race condition in distributed cache eviction
+
+// [2025-07-31 20:28:48] fix(cache): add cache stampede prevention via probabilistic early recomputation
