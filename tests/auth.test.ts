@@ -25,3 +25,5 @@ describe('TokenManager', () => {
 // [2025-06-21 09:13:42] test: add integration test suite covering end-to-end user flows
 
 // [2025-06-26 09:53:11] test: assert correct exception propagation in worker pipeline
+
+// [2025-07-31 12:36:42] test: benchmark execution speed of core hashing utilities
