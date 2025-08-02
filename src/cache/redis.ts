@@ -86,3 +86,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2025-06-24 21:30:22] fix(cache): benchmark serialization protocols for cached entities
 
 // [2025-07-18 15:48:45] fix(cache): implement local L1 LRU cache with memory size ceiling
+
+// [2025-08-02 17:38:36] perf: reduce memory overhead in stream transform pipeline
