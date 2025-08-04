@@ -29,3 +29,5 @@ describe('TokenManager', () => {
 // [2025-07-31 12:36:42] test: benchmark execution speed of core hashing utilities
 
 // [2025-08-03 18:48:13] test: test token expiration and refresh race conditions
+
+// [2025-08-04 13:11:36] test: assert correct exception propagation in worker pipeline
