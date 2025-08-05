@@ -27,3 +27,5 @@ export function hashString(input: string, algorithm = 'sha256'): string {
 // [2025-06-04 17:32:16] fix(utils): create base64url encoding and decoding utilities
 
 // [2025-06-09 14:10:39] refactor(utils): implement URL query string serialization with array support
+
+// [2025-08-05 18:14:00] feat(utils): implement thread-safe in-memory sliding rate limiter
