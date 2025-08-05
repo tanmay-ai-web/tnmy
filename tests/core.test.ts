@@ -41,3 +41,5 @@ describe('EventEmitter', () => {
 // [2025-07-18 21:13:34] test: implement mock fixtures for external third-party APIs
 
 // [2025-07-21 18:19:33] test: benchmark execution speed of core hashing utilities
+
+// [2025-08-05 19:24:24] test: introduce snapshot testing for API response payloads
