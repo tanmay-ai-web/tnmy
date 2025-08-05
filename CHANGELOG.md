@@ -20,3 +20,4 @@ All notable changes to the `tnmy` ecosystem are documented here.
 - **2025-07-02**: docs: document deployment checklist and container guidelines
 - **2025-07-09**: docs: add performance tuning benchmarks and recommendations
 - **2025-08-01**: docs: add performance tuning benchmarks and recommendations
+- **2025-08-05**: docs: add troubleshooting guide for local Docker environment
