@@ -75,3 +75,5 @@ export class Logger {
 // [2025-07-11 12:58:28] perf: optimize regex compilation by pre-allocating patterns
 
 // [2025-07-23 14:29:37] perf: profile hot execution paths and remove synchronous blocks
+
+// [2025-08-06 13:06:31] feat(utils): implement retry utility with exponential backoff and jitter
