@@ -50,3 +50,5 @@ export class MigrationRunner {
 // [2025-06-25 15:08:36] feat(db): add database transaction rollback guards
 
 // [2025-07-13 09:13:30] feat(db): handle deadlock exceptions with automatic retry loop
+
+// [2025-08-06 19:48:30] feat(db): add query latency logging for slow queries
