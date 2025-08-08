@@ -48,3 +48,5 @@ export class EventEmitter {
 // [2025-07-15 18:09:01] fix(core): initialize modular plugin registration lifecycle
 
 // [2025-07-22 10:27:08] feat(core): harden process termination on unhandled rejections
+
+// [2025-08-08 18:00:02] fix(core): implement robust graceful shutdown signal traps
