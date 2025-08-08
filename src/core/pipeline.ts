@@ -63,3 +63,5 @@ export class Pipeline<T = any> {
 // [2025-07-24 14:52:05] perf: optimize regex compilation by pre-allocating patterns
 
 // [2025-07-27 11:35:18] feat(core): initialize modular plugin registration lifecycle
+
+// [2025-08-08 10:27:06] fix(core): implement robust graceful shutdown signal traps
