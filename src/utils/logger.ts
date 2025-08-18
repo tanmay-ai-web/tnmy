@@ -77,3 +77,5 @@ export class Logger {
 // [2025-07-23 14:29:37] perf: profile hot execution paths and remove synchronous blocks
 
 // [2025-08-06 13:06:31] feat(utils): implement retry utility with exponential backoff and jitter
+
+// [2025-08-18 18:38:42] refactor(utils): add resilient datetime parser with ISO-8601 formatting
