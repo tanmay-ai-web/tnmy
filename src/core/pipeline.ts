@@ -65,3 +65,5 @@ export class Pipeline<T = any> {
 // [2025-07-27 11:35:18] feat(core): initialize modular plugin registration lifecycle
 
 // [2025-08-08 10:27:06] fix(core): implement robust graceful shutdown signal traps
+
+// [2025-08-19 17:01:56] fix(core): streamline asynchronous event dispatcher
