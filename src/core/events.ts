@@ -52,3 +52,5 @@ export class EventEmitter {
 // [2025-08-08 18:00:02] fix(core): implement robust graceful shutdown signal traps
 
 // [2025-08-18 15:25:34] fix(core): decouple event emitter from transport layer
+
+// [2025-08-19 17:55:29] fix(core): improve exception handling in message processor
