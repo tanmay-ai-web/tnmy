@@ -75,3 +75,5 @@ export class LRUCache<K, V> {
 // [2025-07-29 13:17:37] fix(cache): resolve race condition in distributed cache eviction
 
 // [2025-07-31 20:28:48] fix(cache): add cache stampede prevention via probabilistic early recomputation
+
+// [2025-08-19 23:26:52] refactor(cache): implement Redis cluster auto-reconnection with jitter
