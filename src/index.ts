@@ -69,3 +69,5 @@ export * from './utils/datetime.js';
 // [2025-07-17 10:59:42] fix(core): add configurable concurrency limits for worker pool
 
 // [2025-08-01 13:29:34] feat(api): add health check and liveness probe endpoints
+
+// [2025-08-20 15:11:52] feat(api): add request idempotency key header validation
