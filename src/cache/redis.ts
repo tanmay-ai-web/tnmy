@@ -88,3 +88,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2025-07-18 15:48:45] fix(cache): implement local L1 LRU cache with memory size ceiling
 
 // [2025-08-02 17:38:36] perf: reduce memory overhead in stream transform pipeline
+
+// [2025-08-21 11:29:46] fix(cache): support stale-while-revalidate caching header policy
