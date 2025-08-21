@@ -54,3 +54,5 @@ export class MigrationRunner {
 // [2025-08-06 19:48:30] feat(db): add query latency logging for slow queries
 
 // [2025-08-18 13:58:31] feat(db): tune maximum open connections and idle timeouts
+
+// [2025-08-21 11:43:44] feat(db): introduce connection pool health monitoring
