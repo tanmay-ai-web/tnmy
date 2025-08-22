@@ -21,3 +21,4 @@ All notable changes to the `tnmy` ecosystem are documented here.
 - **2025-07-09**: docs: add performance tuning benchmarks and recommendations
 - **2025-08-01**: docs: add performance tuning benchmarks and recommendations
 - **2025-08-05**: docs: add troubleshooting guide for local Docker environment
+- **2025-08-22**: docs: document environment variable configuration matrix
