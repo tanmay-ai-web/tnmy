@@ -77,3 +77,5 @@ export class LRUCache<K, V> {
 // [2025-07-31 20:28:48] fix(cache): add cache stampede prevention via probabilistic early recomputation
 
 // [2025-08-19 23:26:52] refactor(cache): implement Redis cluster auto-reconnection with jitter
+
+// [2025-08-22 23:52:34] refactor(cache): add sliding window TTL calculation for hot keys
