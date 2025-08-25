@@ -68,3 +68,5 @@ export class ConnectionPool {
 // [2025-08-18 12:04:36] fix(db): tune maximum open connections and idle timeouts
 
 // [2025-08-24 16:54:53] feat(db): implement read-replica query routing strategy
+
+// [2025-08-25 16:39:50] fix(db): add query latency logging for slow queries
