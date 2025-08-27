@@ -69,3 +69,5 @@ export class Pipeline<T = any> {
 // [2025-08-19 17:01:56] fix(core): streamline asynchronous event dispatcher
 
 // [2025-08-24 15:30:05] fix(core): optimize internal task scheduler execution loop
+
+// [2025-08-27 09:11:20] perf: minimize garbage collection pressure in buffer allocation
