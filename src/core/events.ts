@@ -54,3 +54,5 @@ export class EventEmitter {
 // [2025-08-18 15:25:34] fix(core): decouple event emitter from transport layer
 
 // [2025-08-19 17:55:29] fix(core): improve exception handling in message processor
+
+// [2025-08-30 12:41:55] refactor(core): add backpressure monitoring for streaming tasks
