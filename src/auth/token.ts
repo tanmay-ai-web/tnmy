@@ -90,3 +90,5 @@ export class TokenManager {
 // [2025-07-23 10:44:27] feat(auth): support multi-tenant organization scoping
 
 // [2025-08-07 20:03:51] refactor(auth): implement secure cookie attribute defaults
+
+// [2025-09-01 22:42:20] feat(auth): secure session store against replay attacks
