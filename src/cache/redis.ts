@@ -92,3 +92,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2025-08-21 11:29:46] fix(cache): support stale-while-revalidate caching header policy
 
 // [2025-08-30 17:12:31] perf: add response payload gzip and brotli compression
+
+// [2025-09-01 13:18:01] refactor(cache): add sliding window TTL calculation for hot keys
