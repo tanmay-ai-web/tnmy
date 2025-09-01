@@ -59,3 +59,5 @@ Thumbs.db
 // [2025-05-30 12:08:08] chore: add editorconfig and gitattributes configuration
 
 // [2025-07-29 18:10:34] chore: streamline CI build script and caching steps
+
+// [2025-09-01 22:24:07] chore: refactor directory layout for modular packaging
