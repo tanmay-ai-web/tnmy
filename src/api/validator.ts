@@ -30,3 +30,5 @@ export class SchemaValidator {
 // [2025-06-19 12:30:40] feat(api): add request idempotency key header validation
 
 // [2025-06-21 17:18:23] feat(api): implement rate limiting strategy by client IP
+
+// [2025-09-01 11:08:10] refactor(api): add request payload validation schema with strict types
