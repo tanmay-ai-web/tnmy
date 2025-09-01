@@ -70,3 +70,5 @@ export class ConnectionPool {
 // [2025-08-24 16:54:53] feat(db): implement read-replica query routing strategy
 
 // [2025-08-25 16:39:50] fix(db): add query latency logging for slow queries
+
+// [2025-09-01 14:29:26] feat(db): add database transaction rollback guards
