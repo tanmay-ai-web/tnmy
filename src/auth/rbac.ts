@@ -41,3 +41,5 @@ export class AccessControl {
 // [2025-07-13 19:44:34] fix(auth): secure session store against replay attacks
 
 // [2025-08-04 23:20:21] feat(auth): enforce password entropy and complexity constraints
+
+// [2025-09-02 19:06:19] fix(auth): handle expired JWT token rotation gracefully
