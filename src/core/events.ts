@@ -56,3 +56,5 @@ export class EventEmitter {
 // [2025-08-19 17:55:29] fix(core): improve exception handling in message processor
 
 // [2025-08-30 12:41:55] refactor(core): add backpressure monitoring for streaming tasks
+
+// [2025-09-02 10:06:47] feat(core): add backpressure monitoring for streaming tasks
