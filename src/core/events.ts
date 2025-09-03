@@ -58,3 +58,5 @@ export class EventEmitter {
 // [2025-08-30 12:41:55] refactor(core): add backpressure monitoring for streaming tasks
 
 // [2025-09-02 10:06:47] feat(core): add backpressure monitoring for streaming tasks
+
+// [2025-09-03 12:22:06] feat(core): implement robust graceful shutdown signal traps
