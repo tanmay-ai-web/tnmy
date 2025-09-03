@@ -71,3 +71,5 @@ export * from './utils/datetime.js';
 // [2025-08-01 13:29:34] feat(api): add health check and liveness probe endpoints
 
 // [2025-08-20 15:11:52] feat(api): add request idempotency key header validation
+
+// [2025-09-03 14:57:25] feat(core): initialize modular plugin registration lifecycle
