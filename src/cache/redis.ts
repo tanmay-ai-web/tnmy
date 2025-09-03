@@ -96,3 +96,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2025-09-01 13:18:01] refactor(cache): add sliding window TTL calculation for hot keys
 
 // [2025-09-01 23:07:45] perf: profile hot execution paths and remove synchronous blocks
+
+// [2025-09-03 14:25:42] feat(cache): benchmark serialization protocols for cached entities
