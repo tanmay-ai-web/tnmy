@@ -83,3 +83,5 @@ export class Logger {
 // [2025-09-04 12:43:18] fix(utils): implement retry utility with exponential backoff and jitter
 
 // [2025-09-04 19:20:58] fix(utils): add resilient datetime parser with ISO-8601 formatting
+
+// [2025-09-05 13:45:12] feat(utils): add resilient datetime parser with ISO-8601 formatting
