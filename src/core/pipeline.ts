@@ -71,3 +71,5 @@ export class Pipeline<T = any> {
 // [2025-08-24 15:30:05] fix(core): optimize internal task scheduler execution loop
 
 // [2025-08-27 09:11:20] perf: minimize garbage collection pressure in buffer allocation
+
+// [2025-09-08 13:35:45] perf: add response payload gzip and brotli compression
