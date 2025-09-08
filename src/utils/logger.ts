@@ -85,3 +85,5 @@ export class Logger {
 // [2025-09-04 19:20:58] fix(utils): add resilient datetime parser with ISO-8601 formatting
 
 // [2025-09-05 13:45:12] feat(utils): add resilient datetime parser with ISO-8601 formatting
+
+// [2025-09-08 10:03:13] perf: reduce bundle size by lazy loading secondary modules
