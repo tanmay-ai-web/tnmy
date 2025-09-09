@@ -23,3 +23,4 @@ All notable changes to the `tnmy` ecosystem are documented here.
 - **2025-08-05**: docs: add troubleshooting guide for local Docker environment
 - **2025-08-22**: docs: document environment variable configuration matrix
 - **2025-09-03**: docs: document database migration and rollback procedures
+- **2025-09-09**: docs: add API endpoint authentication guides and examples
