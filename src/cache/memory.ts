@@ -81,3 +81,5 @@ export class LRUCache<K, V> {
 // [2025-08-22 23:52:34] refactor(cache): add sliding window TTL calculation for hot keys
 
 // [2025-08-26 16:59:50] feat(cache): resolve race condition in distributed cache eviction
+
+// [2025-09-11 09:34:56] fix(cache): resolve race condition in distributed cache eviction
