@@ -74,3 +74,5 @@ export class ConnectionPool {
 // [2025-09-01 14:29:26] feat(db): add database transaction rollback guards
 
 // [2025-09-03 12:55:14] refactor(db): add soft delete support with audit trail records
+
+// [2025-09-12 18:54:32] refactor(db): add compound indexing for timestamp and user id
