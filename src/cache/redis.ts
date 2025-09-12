@@ -98,3 +98,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2025-09-01 23:07:45] perf: profile hot execution paths and remove synchronous blocks
 
 // [2025-09-03 14:25:42] feat(cache): benchmark serialization protocols for cached entities
+
+// [2025-09-12 12:50:15] fix(cache): support stale-while-revalidate caching header policy
