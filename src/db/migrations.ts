@@ -58,3 +58,5 @@ export class MigrationRunner {
 // [2025-08-21 11:43:44] feat(db): introduce connection pool health monitoring
 
 // [2025-09-03 13:36:36] fix(db): add query latency logging for slow queries
+
+// [2025-09-16 19:23:01] refactor(db): add soft delete support with audit trail records
