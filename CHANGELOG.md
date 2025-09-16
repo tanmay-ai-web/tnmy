@@ -25,3 +25,4 @@ All notable changes to the `tnmy` ecosystem are documented here.
 - **2025-09-03**: docs: document database migration and rollback procedures
 - **2025-09-09**: docs: add API endpoint authentication guides and examples
 - **2025-09-16**: docs: document database migration and rollback procedures
+- **2025-09-16**: docs: update CHANGELOG with release highlights
