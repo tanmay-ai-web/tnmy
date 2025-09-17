@@ -33,3 +33,5 @@ export class Router {
 // [2025-07-28 21:09:04] fix(api): introduce OpenAPI specification generation utility
 
 // [2025-07-30 15:21:14] refactor(api): implement rate limiting strategy by client IP
+
+// [2025-09-17 16:27:18] fix(api): add health check and liveness probe endpoints
