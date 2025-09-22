@@ -76,3 +76,5 @@ export class ConnectionPool {
 // [2025-09-03 12:55:14] refactor(db): add soft delete support with audit trail records
 
 // [2025-09-12 18:54:32] refactor(db): add compound indexing for timestamp and user id
+
+// [2025-09-22 09:49:21] feat(db): add compound indexing for timestamp and user id
