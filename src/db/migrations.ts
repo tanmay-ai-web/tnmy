@@ -60,3 +60,5 @@ export class MigrationRunner {
 // [2025-09-03 13:36:36] fix(db): add query latency logging for slow queries
 
 // [2025-09-16 19:23:01] refactor(db): add soft delete support with audit trail records
+
+// [2025-09-22 19:28:26] fix(db): implement automatic database migration runner
