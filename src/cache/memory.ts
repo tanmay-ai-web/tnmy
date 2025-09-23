@@ -83,3 +83,5 @@ export class LRUCache<K, V> {
 // [2025-08-26 16:59:50] feat(cache): resolve race condition in distributed cache eviction
 
 // [2025-09-11 09:34:56] fix(cache): resolve race condition in distributed cache eviction
+
+// [2025-09-23 22:31:54] feat(cache): implement tag-based cache invalidation hooks
