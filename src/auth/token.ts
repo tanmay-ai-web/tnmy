@@ -96,3 +96,5 @@ export class TokenManager {
 // [2025-09-05 22:34:40] fix(auth): streamline multi-factor authentication challenge verify
 
 // [2025-09-22 16:56:35] fix(auth): enforce password entropy and complexity constraints
+
+// [2025-09-23 16:42:51] refactor(auth): add device fingerprinting for anomalous logins
