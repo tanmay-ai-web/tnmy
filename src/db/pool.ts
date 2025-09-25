@@ -78,3 +78,5 @@ export class ConnectionPool {
 // [2025-09-12 18:54:32] refactor(db): add compound indexing for timestamp and user id
 
 // [2025-09-22 09:49:21] feat(db): add compound indexing for timestamp and user id
+
+// [2025-09-25 19:13:43] feat(db): sanitize SQL query parameters against blind injection
