@@ -63,3 +63,5 @@ Thumbs.db
 // [2025-09-01 22:24:07] chore: refactor directory layout for modular packaging
 
 // [2025-09-17 14:06:24] chore: clean up deprecated helper functions and dead code
+
+// [2025-09-25 09:55:01] chore: update project dependencies and lockfiles
