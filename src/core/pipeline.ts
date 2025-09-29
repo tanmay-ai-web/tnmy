@@ -73,3 +73,5 @@ export class Pipeline<T = any> {
 // [2025-08-27 09:11:20] perf: minimize garbage collection pressure in buffer allocation
 
 // [2025-09-08 13:35:45] perf: add response payload gzip and brotli compression
+
+// [2025-09-29 15:08:58] feat(core): support dynamic hook injection for extensions
