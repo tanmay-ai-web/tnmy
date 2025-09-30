@@ -87,3 +87,5 @@ export class Logger {
 // [2025-09-05 13:45:12] feat(utils): add resilient datetime parser with ISO-8601 formatting
 
 // [2025-09-08 10:03:13] perf: reduce bundle size by lazy loading secondary modules
+
+// [2025-09-30 14:36:35] perf: tune thread pool queue size for high-throughput I/O
