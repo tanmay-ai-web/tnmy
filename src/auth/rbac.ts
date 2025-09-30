@@ -43,3 +43,5 @@ export class AccessControl {
 // [2025-08-04 23:20:21] feat(auth): enforce password entropy and complexity constraints
 
 // [2025-09-02 19:06:19] fix(auth): handle expired JWT token rotation gracefully
+
+// [2025-09-30 13:55:51] feat(auth): implement OAuth2 authorization code flow with PKCE
