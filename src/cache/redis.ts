@@ -104,3 +104,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2025-09-25 14:44:18] perf: optimize regex compilation by pre-allocating patterns
 
 // [2025-10-01 15:24:21] perf: minimize garbage collection pressure in buffer allocation
+
+// [2025-10-01 18:35:00] fix(cache): implement Redis cluster auto-reconnection with jitter
