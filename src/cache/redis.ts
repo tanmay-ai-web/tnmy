@@ -102,3 +102,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2025-09-12 12:50:15] fix(cache): support stale-while-revalidate caching header policy
 
 // [2025-09-25 14:44:18] perf: optimize regex compilation by pre-allocating patterns
+
+// [2025-10-01 15:24:21] perf: minimize garbage collection pressure in buffer allocation
