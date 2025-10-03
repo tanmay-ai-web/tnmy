@@ -87,3 +87,5 @@ export class LRUCache<K, V> {
 // [2025-09-23 22:31:54] feat(cache): implement tag-based cache invalidation hooks
 
 // [2025-09-29 20:39:34] refactor(cache): benchmark serialization protocols for cached entities
+
+// [2025-10-03 19:30:09] feat(cache): implement local L1 LRU cache with memory size ceiling
