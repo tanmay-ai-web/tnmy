@@ -29,3 +29,5 @@ export function hashString(input: string, algorithm = 'sha256'): string {
 // [2025-06-09 14:10:39] refactor(utils): implement URL query string serialization with array support
 
 // [2025-08-05 18:14:00] feat(utils): implement thread-safe in-memory sliding rate limiter
+
+// [2025-10-06 17:02:16] fix(utils): implement schema validator with friendly error messages
