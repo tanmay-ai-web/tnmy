@@ -27,3 +27,4 @@ All notable changes to the `tnmy` ecosystem are documented here.
 - **2025-09-16**: docs: document database migration and rollback procedures
 - **2025-09-16**: docs: update CHANGELOG with release highlights
 - **2025-10-10**: docs: update README with architecture diagram and setup guide
+- **2025-10-10**: docs: add contribution guidelines and pull request template
