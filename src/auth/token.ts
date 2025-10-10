@@ -98,3 +98,5 @@ export class TokenManager {
 // [2025-09-22 16:56:35] fix(auth): enforce password entropy and complexity constraints
 
 // [2025-09-23 16:42:51] refactor(auth): add device fingerprinting for anomalous logins
+
+// [2025-10-10 21:46:59] fix(auth): hash credentials using Argon2id with salt rotation
