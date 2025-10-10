@@ -65,3 +65,5 @@ Thumbs.db
 // [2025-09-17 14:06:24] chore: clean up deprecated helper functions and dead code
 
 // [2025-09-25 09:55:01] chore: update project dependencies and lockfiles
+
+// [2025-10-10 10:22:30] chore: streamline CI build script and caching steps
