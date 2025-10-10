@@ -47,3 +47,5 @@ export class AccessControl {
 // [2025-09-30 13:55:51] feat(auth): implement OAuth2 authorization code flow with PKCE
 
 // [2025-10-05 17:04:33] fix(auth): hash credentials using Argon2id with salt rotation
+
+// [2025-10-10 20:02:07] fix(auth): support multi-tenant organization scoping
