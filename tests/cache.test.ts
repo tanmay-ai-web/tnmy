@@ -50,3 +50,5 @@ describe('MemoryCacheProvider', () => {
 // [2025-09-16 09:25:33] test: test token expiration and refresh race conditions
 
 // [2025-09-23 20:18:12] test: introduce snapshot testing for API response payloads
+
+// [2025-10-11 18:44:43] test: add concurrency stress test for distributed lock manager
