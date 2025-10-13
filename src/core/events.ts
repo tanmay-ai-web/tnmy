@@ -62,3 +62,5 @@ export class EventEmitter {
 // [2025-09-03 12:22:06] feat(core): implement robust graceful shutdown signal traps
 
 // [2025-09-05 13:38:35] feat(core): optimize internal task scheduler execution loop
+
+// [2025-10-13 13:33:56] refactor(core): harden process termination on unhandled rejections
