@@ -82,3 +82,5 @@ export class ConnectionPool {
 // [2025-09-25 19:13:43] feat(db): sanitize SQL query parameters against blind injection
 
 // [2025-10-15 11:14:31] fix(db): handle deadlock exceptions with automatic retry loop
+
+// [2025-10-15 19:35:18] fix(db): add soft delete support with audit trail records
