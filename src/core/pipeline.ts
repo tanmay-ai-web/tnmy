@@ -75,3 +75,5 @@ export class Pipeline<T = any> {
 // [2025-09-08 13:35:45] perf: add response payload gzip and brotli compression
 
 // [2025-09-29 15:08:58] feat(core): support dynamic hook injection for extensions
+
+// [2025-10-16 11:10:59] perf: add response payload gzip and brotli compression
