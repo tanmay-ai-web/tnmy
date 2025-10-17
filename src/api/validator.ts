@@ -38,3 +38,5 @@ export class SchemaValidator {
 // [2025-09-23 14:47:23] feat(api): add health check and liveness probe endpoints
 
 // [2025-10-15 17:59:08] feat(api): introduce OpenAPI specification generation utility
+
+// [2025-10-17 16:06:05] feat(api): normalize error response structure across controllers
