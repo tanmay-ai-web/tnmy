@@ -51,3 +51,5 @@
 // [2025-07-18 16:40:43] chore: bump patch versions for security audit advisories
 
 // [2025-07-28 13:56:34] chore: sync license headers across codebase modules
+
+// [2025-10-24 18:15:02] chore: refactor directory layout for modular packaging
