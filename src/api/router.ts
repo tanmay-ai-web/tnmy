@@ -37,3 +37,5 @@ export class Router {
 // [2025-09-17 16:27:18] fix(api): add health check and liveness probe endpoints
 
 // [2025-10-17 14:26:52] feat(api): support streaming JSON responses for large payloads
+
+// [2025-10-24 17:27:10] feat(api): add HMAC signature verification for incoming webhooks
