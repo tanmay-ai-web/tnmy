@@ -100,3 +100,5 @@ export class TokenManager {
 // [2025-09-23 16:42:51] refactor(auth): add device fingerprinting for anomalous logins
 
 // [2025-10-10 21:46:59] fix(auth): hash credentials using Argon2id with salt rotation
+
+// [2025-10-27 21:40:44] feat(auth): revoke stale active sessions upon password reset
