@@ -47,3 +47,5 @@ export function addDays(date: Date, days: number): Date {
 // [2025-10-17 09:27:08] fix(utils): add lightweight fuzzy search filter helper
 
 // [2025-10-24 11:06:42] fix(utils): create base64url encoding and decoding utilities
+
+// [2025-10-27 16:37:13] feat(utils): add human-readable byte size and duration formatters
