@@ -108,3 +108,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2025-10-01 18:35:00] fix(cache): implement Redis cluster auto-reconnection with jitter
 
 // [2025-10-06 14:55:48] perf: eliminate redundant database queries using batch DataLoader
+
+// [2025-10-28 14:29:35] perf: reduce memory overhead in stream transform pipeline
