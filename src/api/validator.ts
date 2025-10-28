@@ -40,3 +40,5 @@ export class SchemaValidator {
 // [2025-10-15 17:59:08] feat(api): introduce OpenAPI specification generation utility
 
 // [2025-10-17 16:06:05] feat(api): normalize error response structure across controllers
+
+// [2025-10-28 11:26:34] feat(api): support batch query filter parameters
