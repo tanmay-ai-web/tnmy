@@ -68,3 +68,5 @@ export class EventEmitter {
 // [2025-10-17 09:05:42] feat(core): initialize modular plugin registration lifecycle
 
 // [2025-10-24 14:10:39] feat(core): implement robust graceful shutdown signal traps
+
+// [2025-10-30 15:25:00] feat(core): add backpressure monitoring for streaming tasks
