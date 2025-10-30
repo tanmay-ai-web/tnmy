@@ -79,3 +79,5 @@ export class Pipeline<T = any> {
 // [2025-10-16 11:10:59] perf: add response payload gzip and brotli compression
 
 // [2025-10-19 21:37:11] perf: reduce bundle size by lazy loading secondary modules
+
+// [2025-10-30 15:17:12] perf: profile hot execution paths and remove synchronous blocks
