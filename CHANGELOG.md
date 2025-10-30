@@ -28,3 +28,4 @@ All notable changes to the `tnmy` ecosystem are documented here.
 - **2025-09-16**: docs: update CHANGELOG with release highlights
 - **2025-10-10**: docs: update README with architecture diagram and setup guide
 - **2025-10-10**: docs: add contribution guidelines and pull request template
+- **2025-10-30**: docs: add API endpoint authentication guides and examples
