@@ -37,3 +37,5 @@ describe('TokenManager', () => {
 // [2025-09-21 13:56:39] test: test token expiration and refresh race conditions
 
 // [2025-09-28 16:44:23] test: assert correct exception propagation in worker pipeline
+
+// [2025-10-30 17:24:16] test: implement mock fixtures for external third-party APIs
