@@ -51,3 +51,5 @@ export function addDays(date: Date, days: number): Date {
 // [2025-10-27 16:37:13] feat(utils): add human-readable byte size and duration formatters
 
 // [2025-10-27 19:14:58] fix(utils): add human-readable byte size and duration formatters
+
+// [2025-10-31 13:46:08] feat(utils): implement schema validator with friendly error messages
