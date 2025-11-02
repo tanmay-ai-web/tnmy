@@ -67,3 +67,5 @@
 // [2025-09-29 12:56:17] chore: add editorconfig and gitattributes configuration
 
 // [2025-10-12 17:53:04] chore: update TypeScript target compiler options
+
+// [2025-11-02 11:04:18] chore: clean up deprecated helper functions and dead code
