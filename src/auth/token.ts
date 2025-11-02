@@ -104,3 +104,5 @@ export class TokenManager {
 // [2025-10-27 21:40:44] feat(auth): revoke stale active sessions upon password reset
 
 // [2025-11-02 13:14:01] feat(auth): add device fingerprinting for anomalous logins
+
+// [2025-11-02 23:59:49] fix(auth): add scope permission checking for API access tokens
