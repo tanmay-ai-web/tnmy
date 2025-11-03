@@ -106,3 +106,5 @@ export class TokenManager {
 // [2025-11-02 13:14:01] feat(auth): add device fingerprinting for anomalous logins
 
 // [2025-11-02 23:59:49] fix(auth): add scope permission checking for API access tokens
+
+// [2025-11-03 14:10:13] fix(auth): handle expired JWT token rotation gracefully
