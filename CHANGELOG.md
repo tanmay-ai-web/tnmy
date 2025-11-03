@@ -31,3 +31,4 @@ All notable changes to the `tnmy` ecosystem are documented here.
 - **2025-10-30**: docs: add API endpoint authentication guides and examples
 - **2025-10-31**: docs: update README with architecture diagram and setup guide
 - **2025-11-03**: docs: document environment variable configuration matrix
+- **2025-11-03**: docs: add performance tuning benchmarks and recommendations
