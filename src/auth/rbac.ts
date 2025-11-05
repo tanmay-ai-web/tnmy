@@ -51,3 +51,5 @@ export class AccessControl {
 // [2025-10-10 20:02:07] fix(auth): support multi-tenant organization scoping
 
 // [2025-11-04 15:26:40] feat(auth): add role-based access control (RBAC) middleware
+
+// [2025-11-05 13:53:54] feat(auth): secure session store against replay attacks
