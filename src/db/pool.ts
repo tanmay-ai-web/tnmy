@@ -84,3 +84,5 @@ export class ConnectionPool {
 // [2025-10-15 11:14:31] fix(db): handle deadlock exceptions with automatic retry loop
 
 // [2025-10-15 19:35:18] fix(db): add soft delete support with audit trail records
+
+// [2025-11-06 16:13:01] feat(db): introduce connection pool health monitoring
