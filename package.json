@@ -71,3 +71,5 @@
 // [2025-11-02 11:04:18] chore: clean up deprecated helper functions and dead code
 
 // [2025-11-05 14:11:00] chore: add editorconfig and gitattributes configuration
+
+// [2025-11-07 09:17:29] chore: configure automated linting and code formatting rules
