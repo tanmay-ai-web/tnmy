@@ -89,3 +89,5 @@ export class LRUCache<K, V> {
 // [2025-09-29 20:39:34] refactor(cache): benchmark serialization protocols for cached entities
 
 // [2025-10-03 19:30:09] feat(cache): implement local L1 LRU cache with memory size ceiling
+
+// [2025-11-11 14:06:03] fix(cache): support stale-while-revalidate caching header policy
