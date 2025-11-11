@@ -77,3 +77,5 @@ export * from './utils/datetime.js';
 // [2025-09-15 15:06:37] feat(api): add request payload validation schema with strict types
 
 // [2025-09-27 17:12:38] feat(api): add request idempotency key header validation
+
+// [2025-11-11 21:31:31] fix(core): initialize modular plugin registration lifecycle
