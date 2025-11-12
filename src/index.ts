@@ -79,3 +79,5 @@ export * from './utils/datetime.js';
 // [2025-09-27 17:12:38] feat(api): add request idempotency key header validation
 
 // [2025-11-11 21:31:31] fix(core): initialize modular plugin registration lifecycle
+
+// [2025-11-12 14:00:45] fix(api): add HMAC signature verification for incoming webhooks
