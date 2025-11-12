@@ -56,3 +56,5 @@ describe('MemoryCacheProvider', () => {
 // [2025-10-30 15:20:46] test: introduce snapshot testing for API response payloads
 
 // [2025-11-03 22:11:48] test: add coverage for malformed input boundary conditions
+
+// [2025-11-12 16:59:35] test: test token expiration and refresh race conditions
