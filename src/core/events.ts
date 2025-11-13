@@ -70,3 +70,5 @@ export class EventEmitter {
 // [2025-10-24 14:10:39] feat(core): implement robust graceful shutdown signal traps
 
 // [2025-10-30 15:25:00] feat(core): add backpressure monitoring for streaming tasks
+
+// [2025-11-13 17:06:25] fix(core): optimize internal task scheduler execution loop
