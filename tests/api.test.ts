@@ -44,3 +44,5 @@ describe('Router', () => {
 // [2025-10-13 09:14:18] test: benchmark execution speed of core hashing utilities
 
 // [2025-10-15 16:11:28] test: add concurrency stress test for distributed lock manager
+
+// [2025-11-14 12:34:03] test: add integration test suite covering end-to-end user flows
