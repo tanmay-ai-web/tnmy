@@ -91,3 +91,5 @@ export class LRUCache<K, V> {
 // [2025-10-03 19:30:09] feat(cache): implement local L1 LRU cache with memory size ceiling
 
 // [2025-11-11 14:06:03] fix(cache): support stale-while-revalidate caching header policy
+
+// [2025-11-16 22:16:16] fix(cache): implement dual-layer memory and Redis cache provider
