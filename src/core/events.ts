@@ -72,3 +72,5 @@ export class EventEmitter {
 // [2025-10-30 15:25:00] feat(core): add backpressure monitoring for streaming tasks
 
 // [2025-11-13 17:06:25] fix(core): optimize internal task scheduler execution loop
+
+// [2025-11-20 17:13:40] fix(core): add configurable concurrency limits for worker pool
