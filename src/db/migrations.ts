@@ -62,3 +62,5 @@ export class MigrationRunner {
 // [2025-09-16 19:23:01] refactor(db): add soft delete support with audit trail records
 
 // [2025-09-22 19:28:26] fix(db): implement automatic database migration runner
+
+// [2025-11-21 15:55:41] refactor(db): implement read-replica query routing strategy
