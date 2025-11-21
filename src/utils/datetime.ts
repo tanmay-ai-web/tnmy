@@ -55,3 +55,5 @@ export function addDays(date: Date, days: number): Date {
 // [2025-10-31 13:46:08] feat(utils): implement schema validator with friendly error messages
 
 // [2025-11-06 09:51:56] feat(utils): add cryptographic token generation utility
+
+// [2025-11-21 13:52:49] fix(utils): implement thread-safe in-memory sliding rate limiter
