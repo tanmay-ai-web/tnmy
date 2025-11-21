@@ -88,3 +88,5 @@ export class ConnectionPool {
 // [2025-11-06 16:13:01] feat(db): introduce connection pool health monitoring
 
 // [2025-11-20 17:18:42] fix(db): add database transaction rollback guards
+
+// [2025-11-21 15:41:06] refactor(db): handle deadlock exceptions with automatic retry loop
