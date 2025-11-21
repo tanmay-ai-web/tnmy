@@ -110,3 +110,5 @@ export class TokenManager {
 // [2025-11-03 14:10:13] fix(auth): handle expired JWT token rotation gracefully
 
 // [2025-11-12 09:10:44] fix(auth): add device fingerprinting for anomalous logins
+
+// [2025-11-21 10:52:18] feat(auth): implement secure cookie attribute defaults
