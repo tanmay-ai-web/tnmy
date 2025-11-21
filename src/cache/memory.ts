@@ -93,3 +93,5 @@ export class LRUCache<K, V> {
 // [2025-11-11 14:06:03] fix(cache): support stale-while-revalidate caching header policy
 
 // [2025-11-16 22:16:16] fix(cache): implement dual-layer memory and Redis cache provider
+
+// [2025-11-21 11:14:42] fix(cache): optimize key prefix namespacing and serialization overhead
