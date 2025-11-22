@@ -90,3 +90,5 @@ export class ConnectionPool {
 // [2025-11-20 17:18:42] fix(db): add database transaction rollback guards
 
 // [2025-11-21 15:41:06] refactor(db): handle deadlock exceptions with automatic retry loop
+
+// [2025-11-22 17:33:16] feat(db): tune maximum open connections and idle timeouts
