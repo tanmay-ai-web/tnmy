@@ -64,3 +64,5 @@ export class MigrationRunner {
 // [2025-09-22 19:28:26] fix(db): implement automatic database migration runner
 
 // [2025-11-21 15:55:41] refactor(db): implement read-replica query routing strategy
+
+// [2025-11-24 20:05:09] feat(db): implement automatic database migration runner
