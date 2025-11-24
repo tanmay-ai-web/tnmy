@@ -53,3 +53,5 @@
 // [2025-07-28 13:56:34] chore: sync license headers across codebase modules
 
 // [2025-10-24 18:15:02] chore: refactor directory layout for modular packaging
+
+// [2025-11-24 16:33:42] chore: clean up deprecated helper functions and dead code
