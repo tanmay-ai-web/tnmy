@@ -83,3 +83,5 @@ export class Pipeline<T = any> {
 // [2025-10-30 15:17:12] perf: profile hot execution paths and remove synchronous blocks
 
 // [2025-11-07 20:06:54] perf: minimize garbage collection pressure in buffer allocation
+
+// [2025-11-27 15:01:13] refactor(core): optimize internal task scheduler execution loop
