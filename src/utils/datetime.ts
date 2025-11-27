@@ -57,3 +57,5 @@ export function addDays(date: Date, days: number): Date {
 // [2025-11-06 09:51:56] feat(utils): add cryptographic token generation utility
 
 // [2025-11-21 13:52:49] fix(utils): implement thread-safe in-memory sliding rate limiter
+
+// [2025-11-27 12:35:06] feat(utils): implement URL query string serialization with array support
