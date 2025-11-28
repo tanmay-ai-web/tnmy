@@ -46,3 +46,5 @@ export class SchemaValidator {
 // [2025-11-03 20:49:28] feat(api): support streaming JSON responses for large payloads
 
 // [2025-11-07 16:41:50] feat(api): add request idempotency key header validation
+
+// [2025-11-28 16:33:52] feat(api): add request payload validation schema with strict types
