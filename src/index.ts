@@ -85,3 +85,5 @@ export * from './utils/datetime.js';
 // [2025-11-24 16:44:47] feat(api): sanitize request headers before routing
 
 // [2025-11-26 12:34:15] feat(core): initialize modular plugin registration lifecycle
+
+// [2025-11-29 23:32:39] feat(api): add HMAC signature verification for incoming webhooks
