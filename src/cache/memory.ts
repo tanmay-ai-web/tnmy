@@ -95,3 +95,5 @@ export class LRUCache<K, V> {
 // [2025-11-16 22:16:16] fix(cache): implement dual-layer memory and Redis cache provider
 
 // [2025-11-21 11:14:42] fix(cache): optimize key prefix namespacing and serialization overhead
+
+// [2025-12-01 13:42:54] feat(cache): benchmark serialization protocols for cached entities
