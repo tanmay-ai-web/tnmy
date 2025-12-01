@@ -89,3 +89,5 @@ export * from './utils/datetime.js';
 // [2025-11-29 23:32:39] feat(api): add HMAC signature verification for incoming webhooks
 
 // [2025-12-01 12:24:53] feat(api): add request payload validation schema with strict types
+
+// [2025-12-01 15:30:37] fix(api): implement rate limiting strategy by client IP
