@@ -58,3 +58,5 @@ describe('MemoryCacheProvider', () => {
 // [2025-11-03 22:11:48] test: add coverage for malformed input boundary conditions
 
 // [2025-11-12 16:59:35] test: test token expiration and refresh race conditions
+
+// [2025-12-01 17:09:26] test: assert correct exception propagation in worker pipeline
