@@ -91,3 +91,5 @@ export * from './utils/datetime.js';
 // [2025-12-01 12:24:53] feat(api): add request payload validation schema with strict types
 
 // [2025-12-01 15:30:37] fix(api): implement rate limiting strategy by client IP
+
+// [2025-12-02 11:39:10] feat(core): decouple event emitter from transport layer
