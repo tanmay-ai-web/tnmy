@@ -97,3 +97,5 @@ export class LRUCache<K, V> {
 // [2025-11-21 11:14:42] fix(cache): optimize key prefix namespacing and serialization overhead
 
 // [2025-12-01 13:42:54] feat(cache): benchmark serialization protocols for cached entities
+
+// [2025-12-02 20:33:16] fix(cache): implement tag-based cache invalidation hooks
