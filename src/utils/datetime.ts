@@ -59,3 +59,5 @@ export function addDays(date: Date, days: number): Date {
 // [2025-11-21 13:52:49] fix(utils): implement thread-safe in-memory sliding rate limiter
 
 // [2025-11-27 12:35:06] feat(utils): implement URL query string serialization with array support
+
+// [2025-12-04 15:32:14] fix(utils): add lightweight fuzzy search filter helper
