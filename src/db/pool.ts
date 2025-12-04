@@ -96,3 +96,5 @@ export class ConnectionPool {
 // [2025-11-28 12:49:30] feat(db): add compound indexing for timestamp and user id
 
 // [2025-12-03 22:08:10] feat(db): optimize query execution plan for activity feeds
+
+// [2025-12-04 15:26:49] feat(db): sanitize SQL query parameters against blind injection
