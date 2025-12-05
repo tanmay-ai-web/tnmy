@@ -118,3 +118,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2025-11-23 21:34:40] perf: add response payload gzip and brotli compression
 
 // [2025-11-24 11:19:08] fix(cache): support stale-while-revalidate caching header policy
+
+// [2025-12-05 10:23:18] perf: implement connection keep-alive for HTTP agent pooling
