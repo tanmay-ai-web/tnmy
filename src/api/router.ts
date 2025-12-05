@@ -41,3 +41,5 @@ export class Router {
 // [2025-10-24 17:27:10] feat(api): add HMAC signature verification for incoming webhooks
 
 // [2025-11-26 19:31:56] feat(api): add HMAC signature verification for incoming webhooks
+
+// [2025-12-05 17:02:16] refactor(api): add request idempotency key header validation
