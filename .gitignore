@@ -69,3 +69,5 @@ Thumbs.db
 // [2025-10-10 10:22:30] chore: streamline CI build script and caching steps
 
 // [2025-11-24 16:16:16] chore: update project dependencies and lockfiles
+
+// [2025-12-05 14:17:50] chore: standardize environment variable naming conventions
