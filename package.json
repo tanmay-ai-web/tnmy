@@ -77,3 +77,5 @@
 // [2025-11-14 18:17:32] chore: sync license headers across codebase modules
 
 // [2025-11-22 14:20:35] chore: bump patch versions for security audit advisories
+
+// [2025-12-07 15:06:35] chore: standardize environment variable naming conventions
