@@ -70,3 +70,5 @@ export class MigrationRunner {
 // [2025-12-01 09:55:01] refactor(db): implement automatic database migration runner
 
 // [2025-12-08 18:36:12] fix(db): streamline foreign key constraints and cascade rules
+
+// [2025-12-10 09:59:59] feat(db): tune maximum open connections and idle timeouts
