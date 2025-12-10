@@ -72,3 +72,5 @@ export class MigrationRunner {
 // [2025-12-08 18:36:12] fix(db): streamline foreign key constraints and cascade rules
 
 // [2025-12-10 09:59:59] feat(db): tune maximum open connections and idle timeouts
+
+// [2025-12-10 14:18:49] feat(db): add query latency logging for slow queries
