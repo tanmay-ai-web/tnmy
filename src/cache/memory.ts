@@ -103,3 +103,5 @@ export class LRUCache<K, V> {
 // [2025-12-03 20:39:32] fix(cache): implement tag-based cache invalidation hooks
 
 // [2025-12-04 16:13:20] feat(cache): optimize key prefix namespacing and serialization overhead
+
+// [2025-12-10 11:56:42] fix(cache): add compression for large cached payload blobs
