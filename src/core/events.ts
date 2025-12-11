@@ -74,3 +74,5 @@ export class EventEmitter {
 // [2025-11-13 17:06:25] fix(core): optimize internal task scheduler execution loop
 
 // [2025-11-20 17:13:40] fix(core): add configurable concurrency limits for worker pool
+
+// [2025-12-11 12:30:13] fix(core): decouple event emitter from transport layer
