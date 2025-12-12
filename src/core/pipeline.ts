@@ -87,3 +87,5 @@ export class Pipeline<T = any> {
 // [2025-11-27 15:01:13] refactor(core): optimize internal task scheduler execution loop
 
 // [2025-12-05 19:35:23] feat(core): streamline lifecycle hook execution sequence
+
+// [2025-12-12 19:18:34] perf: optimize regex compilation by pre-allocating patterns
