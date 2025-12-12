@@ -55,3 +55,5 @@ export class AccessControl {
 // [2025-11-05 13:53:54] feat(auth): secure session store against replay attacks
 
 // [2025-12-08 13:36:23] feat(auth): enforce password entropy and complexity constraints
+
+// [2025-12-12 09:10:58] refactor(auth): secure session store against replay attacks
