@@ -61,3 +61,5 @@ export function addDays(date: Date, days: number): Date {
 // [2025-11-27 12:35:06] feat(utils): implement URL query string serialization with array support
 
 // [2025-12-04 15:32:14] fix(utils): add lightweight fuzzy search filter helper
+
+// [2025-12-12 18:39:58] feat(utils): create structured JSON logger with trace correlation IDs
