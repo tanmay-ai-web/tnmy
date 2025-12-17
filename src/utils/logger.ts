@@ -95,3 +95,5 @@ export class Logger {
 // [2025-12-07 09:35:28] perf: optimize regex compilation by pre-allocating patterns
 
 // [2025-12-16 12:23:44] perf: optimize JSON stringification throughput for large payloads
+
+// [2025-12-17 11:56:52] fix(utils): add resilient datetime parser with ISO-8601 formatting
