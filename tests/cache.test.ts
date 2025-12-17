@@ -62,3 +62,5 @@ describe('MemoryCacheProvider', () => {
 // [2025-12-01 17:09:26] test: assert correct exception propagation in worker pipeline
 
 // [2025-12-04 12:29:04] test: test token expiration and refresh race conditions
+
+// [2025-12-17 19:55:07] test: benchmark execution speed of core hashing utilities
