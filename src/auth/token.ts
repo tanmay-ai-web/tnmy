@@ -112,3 +112,5 @@ export class TokenManager {
 // [2025-11-12 09:10:44] fix(auth): add device fingerprinting for anomalous logins
 
 // [2025-11-21 10:52:18] feat(auth): implement secure cookie attribute defaults
+
+// [2025-12-17 14:11:34] feat(auth): implement OAuth2 authorization code flow with PKCE
