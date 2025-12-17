@@ -95,3 +95,5 @@ export * from './utils/datetime.js';
 // [2025-12-02 11:39:10] feat(core): decouple event emitter from transport layer
 
 // [2025-12-16 17:46:14] feat(core): support dynamic hook injection for extensions
+
+// [2025-12-17 10:02:29] feat(api): introduce OpenAPI specification generation utility
