@@ -97,3 +97,5 @@ export * from './utils/datetime.js';
 // [2025-12-16 17:46:14] feat(core): support dynamic hook injection for extensions
 
 // [2025-12-17 10:02:29] feat(api): introduce OpenAPI specification generation utility
+
+// [2025-12-22 19:04:54] feat(api): support streaming JSON responses for large payloads
