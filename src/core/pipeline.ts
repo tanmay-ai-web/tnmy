@@ -91,3 +91,5 @@ export class Pipeline<T = any> {
 // [2025-12-12 19:18:34] perf: optimize regex compilation by pre-allocating patterns
 
 // [2025-12-17 21:15:47] perf: add response payload gzip and brotli compression
+
+// [2025-12-22 16:26:26] feat(core): implement robust graceful shutdown signal traps
