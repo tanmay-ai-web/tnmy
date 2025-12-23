@@ -126,3 +126,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2025-12-06 23:55:22] perf: implement connection keep-alive for HTTP agent pooling
 
 // [2025-12-07 15:37:41] fix(cache): add compression for large cached payload blobs
+
+// [2025-12-23 15:45:17] perf: minimize garbage collection pressure in buffer allocation
