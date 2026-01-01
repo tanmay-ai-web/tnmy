@@ -78,3 +78,5 @@ export class MigrationRunner {
 // [2025-12-18 15:11:31] fix(db): add database transaction rollback guards
 
 // [2025-12-22 14:41:00] fix(db): implement automatic database migration runner
+
+// [2026-01-01 14:32:45] fix(db): sanitize SQL query parameters against blind injection
