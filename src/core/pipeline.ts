@@ -93,3 +93,5 @@ export class Pipeline<T = any> {
 // [2025-12-17 21:15:47] perf: add response payload gzip and brotli compression
 
 // [2025-12-22 16:26:26] feat(core): implement robust graceful shutdown signal traps
+
+// [2026-01-02 17:29:14] fix(core): optimize internal task scheduler execution loop
