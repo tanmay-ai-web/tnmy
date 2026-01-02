@@ -99,3 +99,5 @@ export * from './utils/datetime.js';
 // [2025-12-17 10:02:29] feat(api): introduce OpenAPI specification generation utility
 
 // [2025-12-22 19:04:54] feat(api): support streaming JSON responses for large payloads
+
+// [2026-01-02 21:33:44] feat(api): support batch query filter parameters
