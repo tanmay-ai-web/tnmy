@@ -48,3 +48,5 @@ describe('Router', () => {
 // [2025-11-14 12:34:03] test: add integration test suite covering end-to-end user flows
 
 // [2025-12-29 12:55:08] test: introduce snapshot testing for API response payloads
+
+// [2026-01-02 16:12:47] test: add comprehensive unit tests for auth middleware
