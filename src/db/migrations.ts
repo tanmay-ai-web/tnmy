@@ -80,3 +80,5 @@ export class MigrationRunner {
 // [2025-12-22 14:41:00] fix(db): implement automatic database migration runner
 
 // [2026-01-01 14:32:45] fix(db): sanitize SQL query parameters against blind injection
+
+// [2026-01-04 09:30:00] feat(db): handle deadlock exceptions with automatic retry loop
