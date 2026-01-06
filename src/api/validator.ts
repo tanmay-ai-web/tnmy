@@ -50,3 +50,5 @@ export class SchemaValidator {
 // [2025-11-28 16:33:52] feat(api): add request payload validation schema with strict types
 
 // [2025-12-01 14:16:34] fix(api): support streaming JSON responses for large payloads
+
+// [2026-01-06 14:50:02] fix(api): sanitize request headers before routing
