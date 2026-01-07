@@ -99,3 +99,5 @@ export class Logger {
 // [2025-12-17 11:56:52] fix(utils): add resilient datetime parser with ISO-8601 formatting
 
 // [2026-01-05 16:47:10] feat(utils): implement schema validator with friendly error messages
+
+// [2026-01-07 14:02:16] feat(utils): add cryptographic token generation utility
