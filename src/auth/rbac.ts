@@ -61,3 +61,5 @@ export class AccessControl {
 // [2025-12-21 16:15:26] fix(auth): implement OAuth2 authorization code flow with PKCE
 
 // [2026-01-05 17:25:53] fix(auth): hash credentials using Argon2id with salt rotation
+
+// [2026-01-08 14:33:50] fix(auth): add device fingerprinting for anomalous logins
