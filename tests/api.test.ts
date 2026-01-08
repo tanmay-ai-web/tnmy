@@ -50,3 +50,5 @@ describe('Router', () => {
 // [2025-12-29 12:55:08] test: introduce snapshot testing for API response payloads
 
 // [2026-01-02 16:12:47] test: add comprehensive unit tests for auth middleware
+
+// [2026-01-08 11:39:12] test: implement mock fixtures for external third-party APIs
