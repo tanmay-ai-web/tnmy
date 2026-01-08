@@ -98,3 +98,5 @@ export class ConnectionPool {
 // [2025-12-03 22:08:10] feat(db): optimize query execution plan for activity feeds
 
 // [2025-12-04 15:26:49] feat(db): sanitize SQL query parameters against blind injection
+
+// [2026-01-08 13:43:44] fix(db): add soft delete support with audit trail records
