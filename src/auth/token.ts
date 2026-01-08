@@ -114,3 +114,5 @@ export class TokenManager {
 // [2025-11-21 10:52:18] feat(auth): implement secure cookie attribute defaults
 
 // [2025-12-17 14:11:34] feat(auth): implement OAuth2 authorization code flow with PKCE
+
+// [2026-01-08 15:58:48] refactor(auth): revoke stale active sessions upon password reset
