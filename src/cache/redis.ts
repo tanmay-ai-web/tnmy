@@ -130,3 +130,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2025-12-23 15:45:17] perf: minimize garbage collection pressure in buffer allocation
 
 // [2026-01-09 15:46:55] feat(cache): add compression for large cached payload blobs
+
+// [2026-01-09 18:43:14] perf: tune thread pool queue size for high-throughput I/O
