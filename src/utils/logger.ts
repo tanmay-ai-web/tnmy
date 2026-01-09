@@ -101,3 +101,5 @@ export class Logger {
 // [2026-01-05 16:47:10] feat(utils): implement schema validator with friendly error messages
 
 // [2026-01-07 14:02:16] feat(utils): add cryptographic token generation utility
+
+// [2026-01-09 19:38:27] perf: reduce bundle size by lazy loading secondary modules
