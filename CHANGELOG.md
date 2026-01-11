@@ -36,3 +36,4 @@ All notable changes to the `tnmy` ecosystem are documented here.
 - **2025-11-04**: docs: document deployment checklist and container guidelines
 - **2025-11-11**: docs: add contribution guidelines and pull request template
 - **2026-01-03**: docs: add contribution guidelines and pull request template
+- **2026-01-11**: docs: document rate limit quotas and retry recommendations
