@@ -54,3 +54,5 @@ describe('Router', () => {
 // [2026-01-08 11:39:12] test: implement mock fixtures for external third-party APIs
 
 // [2026-01-08 23:10:28] test: benchmark execution speed of core hashing utilities
+
+// [2026-01-14 10:54:29] test: assert correct exception propagation in worker pipeline
