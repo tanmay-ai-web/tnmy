@@ -116,3 +116,5 @@ export class TokenManager {
 // [2025-12-17 14:11:34] feat(auth): implement OAuth2 authorization code flow with PKCE
 
 // [2026-01-08 15:58:48] refactor(auth): revoke stale active sessions upon password reset
+
+// [2026-01-14 16:34:58] fix(auth): add device fingerprinting for anomalous logins
