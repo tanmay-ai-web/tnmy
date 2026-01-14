@@ -82,3 +82,5 @@ export class MigrationRunner {
 // [2026-01-01 14:32:45] fix(db): sanitize SQL query parameters against blind injection
 
 // [2026-01-04 09:30:00] feat(db): handle deadlock exceptions with automatic retry loop
+
+// [2026-01-14 16:45:27] fix(db): add query latency logging for slow queries
