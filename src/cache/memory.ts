@@ -107,3 +107,5 @@ export class LRUCache<K, V> {
 // [2025-12-10 11:56:42] fix(cache): add compression for large cached payload blobs
 
 // [2025-12-23 17:49:16] fix(cache): optimize key prefix namespacing and serialization overhead
+
+// [2026-01-15 16:39:09] fix(cache): optimize key prefix namespacing and serialization overhead
