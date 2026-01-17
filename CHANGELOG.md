@@ -38,3 +38,4 @@ All notable changes to the `tnmy` ecosystem are documented here.
 - **2026-01-03**: docs: add contribution guidelines and pull request template
 - **2026-01-11**: docs: document rate limit quotas and retry recommendations
 - **2026-01-16**: docs: update CHANGELOG with release highlights
+- **2026-01-17**: docs: update CHANGELOG with release highlights
