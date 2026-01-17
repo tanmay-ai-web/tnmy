@@ -134,3 +134,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2026-01-09 18:43:14] perf: tune thread pool queue size for high-throughput I/O
 
 // [2026-01-12 11:05:27] perf: reduce memory overhead in stream transform pipeline
+
+// [2026-01-17 14:25:29] feat(cache): resolve race condition in distributed cache eviction
