@@ -45,3 +45,5 @@ export class Router {
 // [2025-12-05 17:02:16] refactor(api): add request idempotency key header validation
 
 // [2026-01-09 16:36:23] fix(api): implement rate limiting strategy by client IP
+
+// [2026-01-19 16:36:24] feat(api): implement exponential backoff on upstream service retries
