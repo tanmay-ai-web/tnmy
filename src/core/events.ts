@@ -78,3 +78,5 @@ export class EventEmitter {
 // [2025-12-11 12:30:13] fix(core): decouple event emitter from transport layer
 
 // [2026-01-14 21:50:30] feat(core): streamline lifecycle hook execution sequence
+
+// [2026-01-19 16:27:48] refactor(core): decouple event emitter from transport layer
