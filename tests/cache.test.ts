@@ -70,3 +70,5 @@ describe('MemoryCacheProvider', () => {
 // [2026-01-12 17:07:24] test: add concurrency stress test for distributed lock manager
 
 // [2026-01-16 16:23:58] test: add coverage for malformed input boundary conditions
+
+// [2026-01-20 13:36:13] test: test token expiration and refresh race conditions
