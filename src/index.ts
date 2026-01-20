@@ -105,3 +105,5 @@ export * from './utils/datetime.js';
 // [2026-01-06 17:29:42] refactor(core): optimize internal task scheduler execution loop
 
 // [2026-01-14 11:46:42] feat(core): implement robust graceful shutdown signal traps
+
+// [2026-01-20 13:36:11] feat(api): support streaming JSON responses for large payloads
