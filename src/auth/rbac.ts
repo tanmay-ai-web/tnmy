@@ -63,3 +63,5 @@ export class AccessControl {
 // [2026-01-05 17:25:53] fix(auth): hash credentials using Argon2id with salt rotation
 
 // [2026-01-08 14:33:50] fix(auth): add device fingerprinting for anomalous logins
+
+// [2026-01-22 09:51:47] feat(auth): implement secure cookie attribute defaults
