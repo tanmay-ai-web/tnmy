@@ -109,3 +109,5 @@ export class LRUCache<K, V> {
 // [2025-12-23 17:49:16] fix(cache): optimize key prefix namespacing and serialization overhead
 
 // [2026-01-15 16:39:09] fix(cache): optimize key prefix namespacing and serialization overhead
+
+// [2026-01-23 09:18:53] refactor(cache): implement dual-layer memory and Redis cache provider
