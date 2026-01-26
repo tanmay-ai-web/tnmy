@@ -47,3 +47,5 @@ export class Router {
 // [2026-01-09 16:36:23] fix(api): implement rate limiting strategy by client IP
 
 // [2026-01-19 16:36:24] feat(api): implement exponential backoff on upstream service retries
+
+// [2026-01-26 12:47:10] fix(api): add HMAC signature verification for incoming webhooks
