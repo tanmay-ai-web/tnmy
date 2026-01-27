@@ -138,3 +138,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2026-01-17 14:25:29] feat(cache): resolve race condition in distributed cache eviction
 
 // [2026-01-19 21:53:15] feat(cache): implement dual-layer memory and Redis cache provider
+
+// [2026-01-27 13:27:40] fix(cache): add compression for large cached payload blobs
