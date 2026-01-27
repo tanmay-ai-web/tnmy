@@ -73,3 +73,5 @@ Thumbs.db
 // [2025-12-05 14:17:50] chore: standardize environment variable naming conventions
 
 // [2025-12-18 14:47:26] chore: refactor directory layout for modular packaging
+
+// [2026-01-27 17:54:17] chore: clean up deprecated helper functions and dead code
