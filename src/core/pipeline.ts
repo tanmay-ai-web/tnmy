@@ -99,3 +99,5 @@ export class Pipeline<T = any> {
 // [2026-01-04 12:05:02] perf: reduce bundle size by lazy loading secondary modules
 
 // [2026-01-09 16:12:30] feat(core): implement robust graceful shutdown signal traps
+
+// [2026-01-28 10:11:36] fix(core): implement robust graceful shutdown signal traps
