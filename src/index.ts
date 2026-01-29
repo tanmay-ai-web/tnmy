@@ -109,3 +109,5 @@ export * from './utils/datetime.js';
 // [2026-01-20 13:36:11] feat(api): support streaming JSON responses for large payloads
 
 // [2026-01-28 09:51:01] feat(core): harden process termination on unhandled rejections
+
+// [2026-01-29 17:40:22] feat(core): initialize modular plugin registration lifecycle
