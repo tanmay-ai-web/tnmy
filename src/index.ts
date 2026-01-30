@@ -111,3 +111,5 @@ export * from './utils/datetime.js';
 // [2026-01-28 09:51:01] feat(core): harden process termination on unhandled rejections
 
 // [2026-01-29 17:40:22] feat(core): initialize modular plugin registration lifecycle
+
+// [2026-01-30 14:52:18] feat(core): streamline lifecycle hook execution sequence
