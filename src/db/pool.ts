@@ -102,3 +102,5 @@ export class ConnectionPool {
 // [2026-01-08 13:43:44] fix(db): add soft delete support with audit trail records
 
 // [2026-01-29 14:42:32] feat(db): tune maximum open connections and idle timeouts
+
+// [2026-01-30 17:30:59] fix(db): streamline foreign key constraints and cascade rules
