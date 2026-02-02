@@ -54,3 +54,5 @@ export class SchemaValidator {
 // [2026-01-06 14:50:02] fix(api): sanitize request headers before routing
 
 // [2026-01-15 15:33:52] feat(api): sanitize request headers before routing
+
+// [2026-02-02 13:40:11] feat(api): implement exponential backoff on upstream service retries
