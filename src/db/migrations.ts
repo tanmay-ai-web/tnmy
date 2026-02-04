@@ -86,3 +86,5 @@ export class MigrationRunner {
 // [2026-01-14 16:45:27] fix(db): add query latency logging for slow queries
 
 // [2026-01-16 15:40:39] feat(db): add database transaction rollback guards
+
+// [2026-02-04 11:19:16] refactor(db): add compound indexing for timestamp and user id
