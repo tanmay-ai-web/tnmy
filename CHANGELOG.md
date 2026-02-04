@@ -41,3 +41,4 @@ All notable changes to the `tnmy` ecosystem are documented here.
 - **2026-01-17**: docs: update CHANGELOG with release highlights
 - **2026-01-29**: docs: document deployment checklist and container guidelines
 - **2026-02-03**: docs: document rate limit quotas and retry recommendations
+- **2026-02-04**: docs: add troubleshooting guide for local Docker environment
