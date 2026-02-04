@@ -144,3 +144,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2026-01-27 15:53:16] refactor(cache): add compression for large cached payload blobs
 
 // [2026-01-27 17:37:26] perf: optimize JSON stringification throughput for large payloads
+
+// [2026-02-04 20:10:10] feat(cache): benchmark serialization protocols for cached entities
