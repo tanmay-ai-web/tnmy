@@ -56,3 +56,5 @@ describe('Router', () => {
 // [2026-01-08 23:10:28] test: benchmark execution speed of core hashing utilities
 
 // [2026-01-14 10:54:29] test: assert correct exception propagation in worker pipeline
+
+// [2026-02-05 14:45:17] test: assert correct exception propagation in worker pipeline
