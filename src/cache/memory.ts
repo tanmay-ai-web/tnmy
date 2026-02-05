@@ -111,3 +111,5 @@ export class LRUCache<K, V> {
 // [2026-01-15 16:39:09] fix(cache): optimize key prefix namespacing and serialization overhead
 
 // [2026-01-23 09:18:53] refactor(cache): implement dual-layer memory and Redis cache provider
+
+// [2026-02-05 12:16:06] feat(cache): add compression for large cached payload blobs
