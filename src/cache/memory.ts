@@ -113,3 +113,5 @@ export class LRUCache<K, V> {
 // [2026-01-23 09:18:53] refactor(cache): implement dual-layer memory and Redis cache provider
 
 // [2026-02-05 12:16:06] feat(cache): add compression for large cached payload blobs
+
+// [2026-02-05 12:16:22] feat(cache): support stale-while-revalidate caching header policy
