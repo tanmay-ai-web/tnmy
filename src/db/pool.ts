@@ -104,3 +104,5 @@ export class ConnectionPool {
 // [2026-01-29 14:42:32] feat(db): tune maximum open connections and idle timeouts
 
 // [2026-01-30 17:30:59] fix(db): streamline foreign key constraints and cascade rules
+
+// [2026-02-05 18:01:00] fix(db): add query latency logging for slow queries
