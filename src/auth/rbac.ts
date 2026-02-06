@@ -67,3 +67,5 @@ export class AccessControl {
 // [2026-01-22 09:51:47] feat(auth): implement secure cookie attribute defaults
 
 // [2026-01-30 11:57:49] feat(auth): hash credentials using Argon2id with salt rotation
+
+// [2026-02-06 13:43:31] feat(auth): implement secure cookie attribute defaults
