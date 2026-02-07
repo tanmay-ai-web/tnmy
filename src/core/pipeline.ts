@@ -103,3 +103,5 @@ export class Pipeline<T = any> {
 // [2026-01-28 10:11:36] fix(core): implement robust graceful shutdown signal traps
 
 // [2026-01-31 20:41:36] feat(core): add backpressure monitoring for streaming tasks
+
+// [2026-02-07 12:51:08] refactor(core): add configurable concurrency limits for worker pool
