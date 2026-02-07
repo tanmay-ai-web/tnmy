@@ -113,3 +113,5 @@ export * from './utils/datetime.js';
 // [2026-01-29 17:40:22] feat(core): initialize modular plugin registration lifecycle
 
 // [2026-01-30 14:52:18] feat(core): streamline lifecycle hook execution sequence
+
+// [2026-02-07 20:18:13] fix(api): sanitize request headers before routing
