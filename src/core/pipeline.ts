@@ -105,3 +105,5 @@ export class Pipeline<T = any> {
 // [2026-01-31 20:41:36] feat(core): add backpressure monitoring for streaming tasks
 
 // [2026-02-07 12:51:08] refactor(core): add configurable concurrency limits for worker pool
+
+// [2026-02-09 12:18:40] perf: tune thread pool queue size for high-throughput I/O
