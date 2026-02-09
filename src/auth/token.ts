@@ -118,3 +118,5 @@ export class TokenManager {
 // [2026-01-08 15:58:48] refactor(auth): revoke stale active sessions upon password reset
 
 // [2026-01-14 16:34:58] fix(auth): add device fingerprinting for anomalous logins
+
+// [2026-02-09 21:20:59] feat(auth): secure session store against replay attacks
