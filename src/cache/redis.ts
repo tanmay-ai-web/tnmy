@@ -146,3 +146,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2026-01-27 17:37:26] perf: optimize JSON stringification throughput for large payloads
 
 // [2026-02-04 20:10:10] feat(cache): benchmark serialization protocols for cached entities
+
+// [2026-02-10 20:27:51] perf: minimize garbage collection pressure in buffer allocation
