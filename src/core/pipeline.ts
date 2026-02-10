@@ -107,3 +107,5 @@ export class Pipeline<T = any> {
 // [2026-02-07 12:51:08] refactor(core): add configurable concurrency limits for worker pool
 
 // [2026-02-09 12:18:40] perf: tune thread pool queue size for high-throughput I/O
+
+// [2026-02-10 11:46:30] perf: add response payload gzip and brotli compression
