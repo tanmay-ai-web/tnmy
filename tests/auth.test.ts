@@ -49,3 +49,5 @@ describe('TokenManager', () => {
 // [2026-02-02 14:19:28] test: add integration test suite covering end-to-end user flows
 
 // [2026-02-07 12:59:46] test: test token expiration and refresh race conditions
+
+// [2026-02-11 14:51:45] test: implement mock fixtures for external third-party APIs
