@@ -150,3 +150,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2026-02-10 20:27:51] perf: minimize garbage collection pressure in buffer allocation
 
 // [2026-02-11 23:59:04] feat(cache): add cache stampede prevention via probabilistic early recomputation
+
+// [2026-02-12 13:11:15] perf: reduce memory overhead in stream transform pipeline
