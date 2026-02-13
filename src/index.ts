@@ -115,3 +115,5 @@ export * from './utils/datetime.js';
 // [2026-01-30 14:52:18] feat(core): streamline lifecycle hook execution sequence
 
 // [2026-02-07 20:18:13] fix(api): sanitize request headers before routing
+
+// [2026-02-13 09:44:16] refactor(api): implement exponential backoff on upstream service retries
