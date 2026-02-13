@@ -113,3 +113,5 @@ export class Logger {
 // [2026-01-26 18:24:46] perf: reduce bundle size by lazy loading secondary modules
 
 // [2026-02-08 09:21:39] fix(utils): add lightweight fuzzy search filter helper
+
+// [2026-02-13 09:19:38] perf: tune thread pool queue size for high-throughput I/O
