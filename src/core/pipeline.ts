@@ -109,3 +109,5 @@ export class Pipeline<T = any> {
 // [2026-02-09 12:18:40] perf: tune thread pool queue size for high-throughput I/O
 
 // [2026-02-10 11:46:30] perf: add response payload gzip and brotli compression
+
+// [2026-02-17 15:17:14] perf: reduce bundle size by lazy loading secondary modules
