@@ -58,3 +58,5 @@ describe('Router', () => {
 // [2026-01-14 10:54:29] test: assert correct exception propagation in worker pipeline
 
 // [2026-02-05 14:45:17] test: assert correct exception propagation in worker pipeline
+
+// [2026-02-17 12:03:08] test: add coverage for malformed input boundary conditions
