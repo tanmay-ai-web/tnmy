@@ -120,3 +120,5 @@ export class TokenManager {
 // [2026-01-14 16:34:58] fix(auth): add device fingerprinting for anomalous logins
 
 // [2026-02-09 21:20:59] feat(auth): secure session store against replay attacks
+
+// [2026-02-18 16:27:20] feat(auth): streamline multi-factor authentication challenge verify
