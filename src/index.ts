@@ -119,3 +119,5 @@ export * from './utils/datetime.js';
 // [2026-02-13 09:44:16] refactor(api): implement exponential backoff on upstream service retries
 
 // [2026-02-13 14:48:06] fix(api): support streaming JSON responses for large payloads
+
+// [2026-02-19 22:12:44] fix(api): add cursor-based pagination for query endpoints
