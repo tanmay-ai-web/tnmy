@@ -90,3 +90,5 @@ export class MigrationRunner {
 // [2026-02-04 11:19:16] refactor(db): add compound indexing for timestamp and user id
 
 // [2026-02-18 17:11:40] feat(db): add soft delete support with audit trail records
+
+// [2026-02-19 10:46:18] refactor(db): implement automatic database migration runner
