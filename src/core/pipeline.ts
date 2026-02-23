@@ -113,3 +113,5 @@ export class Pipeline<T = any> {
 // [2026-02-17 15:17:14] perf: reduce bundle size by lazy loading secondary modules
 
 // [2026-02-23 13:08:53] feat(core): support dynamic hook injection for extensions
+
+// [2026-02-23 14:35:21] perf: reduce memory overhead in stream transform pipeline
