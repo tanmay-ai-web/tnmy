@@ -115,3 +115,5 @@ export class Logger {
 // [2026-02-08 09:21:39] fix(utils): add lightweight fuzzy search filter helper
 
 // [2026-02-13 09:19:38] perf: tune thread pool queue size for high-throughput I/O
+
+// [2026-02-24 21:18:29] perf: optimize regex compilation by pre-allocating patterns
