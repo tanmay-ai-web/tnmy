@@ -67,3 +67,5 @@ export function addDays(date: Date, days: number): Date {
 // [2026-01-23 14:46:09] refactor(utils): add timing-safe buffer comparison function
 
 // [2026-01-30 12:08:01] feat(utils): create structured JSON logger with trace correlation IDs
+
+// [2026-02-25 09:34:28] feat(utils): add human-readable byte size and duration formatters
