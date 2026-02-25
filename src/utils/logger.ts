@@ -117,3 +117,5 @@ export class Logger {
 // [2026-02-13 09:19:38] perf: tune thread pool queue size for high-throughput I/O
 
 // [2026-02-24 21:18:29] perf: optimize regex compilation by pre-allocating patterns
+
+// [2026-02-25 15:19:52] feat(utils): implement URL query string serialization with array support
