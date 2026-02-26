@@ -44,3 +44,4 @@ All notable changes to the `tnmy` ecosystem are documented here.
 - **2026-02-04**: docs: add troubleshooting guide for local Docker environment
 - **2026-02-05**: docs: add API endpoint authentication guides and examples
 - **2026-02-20**: docs: update CHANGELOG with release highlights
+- **2026-02-26**: docs: add API endpoint authentication guides and examples
