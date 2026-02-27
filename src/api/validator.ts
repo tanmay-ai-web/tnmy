@@ -60,3 +60,5 @@ export class SchemaValidator {
 // [2026-02-05 18:05:21] refactor(api): sanitize request headers before routing
 
 // [2026-02-23 17:17:27] refactor(api): introduce OpenAPI specification generation utility
+
+// [2026-02-27 10:48:57] fix(api): implement rate limiting strategy by client IP
