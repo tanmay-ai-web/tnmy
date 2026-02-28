@@ -33,3 +33,5 @@ export function hashString(input: string, algorithm = 'sha256'): string {
 // [2025-10-06 17:02:16] fix(utils): implement schema validator with friendly error messages
 
 // [2025-10-13 09:45:43] feat(utils): implement retry utility with exponential backoff and jitter
+
+// [2026-02-28 10:11:37] refactor(utils): add lightweight fuzzy search filter helper
