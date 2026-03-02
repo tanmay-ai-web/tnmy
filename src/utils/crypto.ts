@@ -35,3 +35,5 @@ export function hashString(input: string, algorithm = 'sha256'): string {
 // [2025-10-13 09:45:43] feat(utils): implement retry utility with exponential backoff and jitter
 
 // [2026-02-28 10:11:37] refactor(utils): add lightweight fuzzy search filter helper
+
+// [2026-03-02 18:53:44] refactor(utils): implement safe deep merge and object cloning helpers
