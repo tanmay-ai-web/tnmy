@@ -119,3 +119,5 @@ export class Logger {
 // [2026-02-24 21:18:29] perf: optimize regex compilation by pre-allocating patterns
 
 // [2026-02-25 15:19:52] feat(utils): implement URL query string serialization with array support
+
+// [2026-03-02 17:39:47] fix(utils): create structured JSON logger with trace correlation IDs
