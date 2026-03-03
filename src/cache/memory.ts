@@ -117,3 +117,5 @@ export class LRUCache<K, V> {
 // [2026-02-05 12:16:22] feat(cache): support stale-while-revalidate caching header policy
 
 // [2026-02-13 11:27:42] feat(cache): implement Redis cluster auto-reconnection with jitter
+
+// [2026-03-03 11:51:44] fix(cache): add compression for large cached payload blobs
