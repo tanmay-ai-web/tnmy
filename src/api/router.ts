@@ -51,3 +51,5 @@ export class Router {
 // [2026-01-26 12:47:10] fix(api): add HMAC signature verification for incoming webhooks
 
 // [2026-02-24 16:44:22] feat(api): add request payload validation schema with strict types
+
+// [2026-03-04 13:58:37] fix(api): support batch query filter parameters
