@@ -154,3 +154,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2026-02-12 13:11:15] perf: reduce memory overhead in stream transform pipeline
 
 // [2026-02-25 21:53:24] fix(cache): add circuit breaker to Redis client on timeout spikes
+
+// [2026-03-05 11:53:56] fix(cache): implement local L1 LRU cache with memory size ceiling
