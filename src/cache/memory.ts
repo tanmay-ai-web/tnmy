@@ -119,3 +119,5 @@ export class LRUCache<K, V> {
 // [2026-02-13 11:27:42] feat(cache): implement Redis cluster auto-reconnection with jitter
 
 // [2026-03-03 11:51:44] fix(cache): add compression for large cached payload blobs
+
+// [2026-03-06 13:21:34] fix(cache): add circuit breaker to Redis client on timeout spikes
