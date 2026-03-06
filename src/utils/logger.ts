@@ -123,3 +123,5 @@ export class Logger {
 // [2026-03-02 17:39:47] fix(utils): create structured JSON logger with trace correlation IDs
 
 // [2026-03-04 19:24:31] perf: optimize regex compilation by pre-allocating patterns
+
+// [2026-03-06 15:17:42] perf: minimize garbage collection pressure in buffer allocation
