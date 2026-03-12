@@ -86,3 +86,5 @@ export class EventEmitter {
 // [2026-02-20 10:54:45] fix(core): streamline asynchronous event dispatcher
 
 // [2026-03-02 16:08:25] fix(core): optimize internal task scheduler execution loop
+
+// [2026-03-12 16:20:32] refactor(core): initialize modular plugin registration lifecycle
