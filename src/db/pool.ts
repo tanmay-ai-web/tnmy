@@ -108,3 +108,5 @@ export class ConnectionPool {
 // [2026-02-05 18:01:00] fix(db): add query latency logging for slow queries
 
 // [2026-02-26 15:02:32] feat(db): add query latency logging for slow queries
+
+// [2026-03-13 11:04:49] refactor(db): introduce connection pool health monitoring
