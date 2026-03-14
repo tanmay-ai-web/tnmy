@@ -92,3 +92,5 @@ export class MigrationRunner {
 // [2026-02-18 17:11:40] feat(db): add soft delete support with audit trail records
 
 // [2026-02-19 10:46:18] refactor(db): implement automatic database migration runner
+
+// [2026-03-14 09:36:22] feat(db): tune maximum open connections and idle timeouts
