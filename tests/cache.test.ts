@@ -78,3 +78,5 @@ describe('MemoryCacheProvider', () => {
 // [2026-02-10 23:08:49] test: add concurrency stress test for distributed lock manager
 
 // [2026-03-09 20:05:17] test: verify edge cases in pagination query parser
+
+// [2026-03-14 16:50:59] test: introduce snapshot testing for API response payloads
