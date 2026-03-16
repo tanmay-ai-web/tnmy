@@ -130,3 +130,5 @@ export class TokenManager {
 // [2026-03-09 11:22:47] feat(auth): support multi-tenant organization scoping
 
 // [2026-03-12 12:24:47] fix(auth): handle expired JWT token rotation gracefully
+
+// [2026-03-16 16:09:34] feat(auth): implement OAuth2 authorization code flow with PKCE
