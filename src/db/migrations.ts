@@ -94,3 +94,5 @@ export class MigrationRunner {
 // [2026-02-19 10:46:18] refactor(db): implement automatic database migration runner
 
 // [2026-03-14 09:36:22] feat(db): tune maximum open connections and idle timeouts
+
+// [2026-03-16 13:35:03] fix(db): implement automatic database migration runner
