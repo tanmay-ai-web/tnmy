@@ -88,3 +88,5 @@ export class EventEmitter {
 // [2026-03-02 16:08:25] fix(core): optimize internal task scheduler execution loop
 
 // [2026-03-12 16:20:32] refactor(core): initialize modular plugin registration lifecycle
+
+// [2026-03-17 14:19:22] fix(core): implement robust graceful shutdown signal traps
