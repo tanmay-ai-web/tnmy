@@ -117,3 +117,5 @@ export class Pipeline<T = any> {
 // [2026-02-23 14:35:21] perf: reduce memory overhead in stream transform pipeline
 
 // [2026-03-06 17:09:05] feat(core): harden process termination on unhandled rejections
+
+// [2026-03-17 14:57:27] refactor(core): decouple event emitter from transport layer
