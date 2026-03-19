@@ -123,3 +123,5 @@ export * from './utils/datetime.js';
 // [2026-02-19 22:12:44] fix(api): add cursor-based pagination for query endpoints
 
 // [2026-02-27 17:24:46] feat(core): optimize internal task scheduler execution loop
+
+// [2026-03-19 14:11:45] feat(core): streamline lifecycle hook execution sequence
