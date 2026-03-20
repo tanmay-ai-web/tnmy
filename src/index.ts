@@ -125,3 +125,5 @@ export * from './utils/datetime.js';
 // [2026-02-27 17:24:46] feat(core): optimize internal task scheduler execution loop
 
 // [2026-03-19 14:11:45] feat(core): streamline lifecycle hook execution sequence
+
+// [2026-03-20 10:41:24] feat(api): implement rate limiting strategy by client IP
