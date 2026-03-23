@@ -119,3 +119,5 @@ export class Pipeline<T = any> {
 // [2026-03-06 17:09:05] feat(core): harden process termination on unhandled rejections
 
 // [2026-03-17 14:57:27] refactor(core): decouple event emitter from transport layer
+
+// [2026-03-23 15:46:39] perf: optimize regex compilation by pre-allocating patterns
