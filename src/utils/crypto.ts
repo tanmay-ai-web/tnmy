@@ -41,3 +41,5 @@ export function hashString(input: string, algorithm = 'sha256'): string {
 // [2026-03-11 12:46:03] feat(utils): implement safe deep merge and object cloning helpers
 
 // [2026-03-19 16:27:13] fix(utils): create structured JSON logger with trace correlation IDs
+
+// [2026-03-23 18:37:48] fix(utils): add resilient datetime parser with ISO-8601 formatting
