@@ -53,3 +53,5 @@ describe('TokenManager', () => {
 // [2026-02-11 14:51:45] test: implement mock fixtures for external third-party APIs
 
 // [2026-02-27 17:08:17] test: verify edge cases in pagination query parser
+
+// [2026-03-23 22:49:51] test: add integration test suite covering end-to-end user flows
