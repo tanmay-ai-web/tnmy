@@ -127,3 +127,5 @@ export * from './utils/datetime.js';
 // [2026-03-19 14:11:45] feat(core): streamline lifecycle hook execution sequence
 
 // [2026-03-20 10:41:24] feat(api): implement rate limiting strategy by client IP
+
+// [2026-03-23 11:18:32] feat(api): sanitize request headers before routing
