@@ -129,3 +129,5 @@ export class Logger {
 // [2026-03-11 11:06:33] perf: minimize garbage collection pressure in buffer allocation
 
 // [2026-03-20 17:22:10] perf: reduce bundle size by lazy loading secondary modules
+
+// [2026-03-23 13:18:55] fix(utils): implement thread-safe in-memory sliding rate limiter
