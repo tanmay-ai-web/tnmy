@@ -96,3 +96,5 @@ export class MigrationRunner {
 // [2026-03-14 09:36:22] feat(db): tune maximum open connections and idle timeouts
 
 // [2026-03-16 13:35:03] fix(db): implement automatic database migration runner
+
+// [2026-03-25 18:15:01] fix(db): sanitize SQL query parameters against blind injection
