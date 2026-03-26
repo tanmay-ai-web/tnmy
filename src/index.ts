@@ -129,3 +129,5 @@ export * from './utils/datetime.js';
 // [2026-03-20 10:41:24] feat(api): implement rate limiting strategy by client IP
 
 // [2026-03-23 11:18:32] feat(api): sanitize request headers before routing
+
+// [2026-03-26 22:57:06] feat(core): refactor pipeline error boundary middleware
