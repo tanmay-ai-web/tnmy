@@ -134,3 +134,5 @@ export class TokenManager {
 // [2026-03-16 16:09:34] feat(auth): implement OAuth2 authorization code flow with PKCE
 
 // [2026-03-18 13:45:42] feat(auth): support multi-tenant organization scoping
+
+// [2026-03-26 23:26:26] fix(auth): implement secure cookie attribute defaults
