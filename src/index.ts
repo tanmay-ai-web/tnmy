@@ -131,3 +131,5 @@ export * from './utils/datetime.js';
 // [2026-03-23 11:18:32] feat(api): sanitize request headers before routing
 
 // [2026-03-26 22:57:06] feat(core): refactor pipeline error boundary middleware
+
+// [2026-03-31 12:24:20] feat(api): add request idempotency key header validation
