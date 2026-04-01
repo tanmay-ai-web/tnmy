@@ -136,3 +136,5 @@ export class TokenManager {
 // [2026-03-18 13:45:42] feat(auth): support multi-tenant organization scoping
 
 // [2026-03-26 23:26:26] fix(auth): implement secure cookie attribute defaults
+
+// [2026-04-01 14:09:58] fix(auth): revoke stale active sessions upon password reset
