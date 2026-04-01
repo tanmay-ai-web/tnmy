@@ -55,3 +55,5 @@ export class Router {
 // [2026-03-04 13:58:37] fix(api): support batch query filter parameters
 
 // [2026-03-16 22:09:17] fix(api): introduce OpenAPI specification generation utility
+
+// [2026-04-01 15:36:40] feat(api): add request payload validation schema with strict types
