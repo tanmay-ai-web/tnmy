@@ -75,3 +75,5 @@ export class AccessControl {
 // [2026-03-09 13:55:01] feat(auth): handle expired JWT token rotation gracefully
 
 // [2026-03-16 22:09:56] feat(auth): handle expired JWT token rotation gracefully
+
+// [2026-04-03 20:11:49] fix(auth): support multi-tenant organization scoping
