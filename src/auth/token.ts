@@ -138,3 +138,5 @@ export class TokenManager {
 // [2026-03-26 23:26:26] fix(auth): implement secure cookie attribute defaults
 
 // [2026-04-01 14:09:58] fix(auth): revoke stale active sessions upon password reset
+
+// [2026-04-03 19:06:17] fix(auth): hash credentials using Argon2id with salt rotation
