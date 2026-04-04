@@ -135,3 +135,5 @@ export * from './utils/datetime.js';
 // [2026-03-31 12:24:20] feat(api): add request idempotency key header validation
 
 // [2026-04-02 18:43:47] refactor(core): add backpressure monitoring for streaming tasks
+
+// [2026-04-04 22:51:11] refactor(core): initialize modular plugin registration lifecycle
