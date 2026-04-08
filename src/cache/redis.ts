@@ -162,3 +162,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2026-03-23 16:22:05] perf: profile hot execution paths and remove synchronous blocks
 
 // [2026-04-06 10:03:08] fix(cache): support stale-while-revalidate caching header policy
+
+// [2026-04-08 12:09:33] refactor(cache): add cache stampede prevention via probabilistic early recomputation
