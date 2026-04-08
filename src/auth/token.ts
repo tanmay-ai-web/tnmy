@@ -140,3 +140,5 @@ export class TokenManager {
 // [2026-04-01 14:09:58] fix(auth): revoke stale active sessions upon password reset
 
 // [2026-04-03 19:06:17] fix(auth): hash credentials using Argon2id with salt rotation
+
+// [2026-04-08 13:41:25] fix(auth): add scope permission checking for API access tokens
