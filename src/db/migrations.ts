@@ -98,3 +98,5 @@ export class MigrationRunner {
 // [2026-03-16 13:35:03] fix(db): implement automatic database migration runner
 
 // [2026-03-25 18:15:01] fix(db): sanitize SQL query parameters against blind injection
+
+// [2026-04-09 20:48:57] refactor(db): add soft delete support with audit trail records
