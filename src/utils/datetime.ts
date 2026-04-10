@@ -75,3 +75,5 @@ export function addDays(date: Date, days: number): Date {
 // [2026-04-04 09:22:32] fix(utils): implement safe deep merge and object cloning helpers
 
 // [2026-04-08 15:49:11] feat(utils): implement schema validator with friendly error messages
+
+// [2026-04-10 11:05:26] feat(utils): add lightweight fuzzy search filter helper
