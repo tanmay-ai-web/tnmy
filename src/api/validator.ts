@@ -68,3 +68,5 @@ export class SchemaValidator {
 // [2026-03-17 11:49:24] feat(api): support batch query filter parameters
 
 // [2026-04-02 09:14:31] feat(api): add health check and liveness probe endpoints
+
+// [2026-04-13 19:38:47] refactor(api): add request idempotency key header validation
