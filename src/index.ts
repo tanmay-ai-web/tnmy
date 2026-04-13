@@ -137,3 +137,5 @@ export * from './utils/datetime.js';
 // [2026-04-02 18:43:47] refactor(core): add backpressure monitoring for streaming tasks
 
 // [2026-04-04 22:51:11] refactor(core): initialize modular plugin registration lifecycle
+
+// [2026-04-13 13:00:37] feat(api): support batch query filter parameters
