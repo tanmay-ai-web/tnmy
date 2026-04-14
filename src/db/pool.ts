@@ -112,3 +112,5 @@ export class ConnectionPool {
 // [2026-03-13 11:04:49] refactor(db): introduce connection pool health monitoring
 
 // [2026-03-24 18:48:12] feat(db): add compound indexing for timestamp and user id
+
+// [2026-04-14 22:55:18] fix(db): add soft delete support with audit trail records
