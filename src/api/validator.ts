@@ -70,3 +70,5 @@ export class SchemaValidator {
 // [2026-04-02 09:14:31] feat(api): add health check and liveness probe endpoints
 
 // [2026-04-13 19:38:47] refactor(api): add request idempotency key header validation
+
+// [2026-04-15 12:11:54] feat(api): add request idempotency key header validation
