@@ -60,3 +60,5 @@ describe('Router', () => {
 // [2026-02-05 14:45:17] test: assert correct exception propagation in worker pipeline
 
 // [2026-02-17 12:03:08] test: add coverage for malformed input boundary conditions
+
+// [2026-04-16 13:24:12] test: implement mock fixtures for external third-party APIs
