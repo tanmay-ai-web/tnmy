@@ -79,3 +79,5 @@ export class AccessControl {
 // [2026-04-03 20:11:49] fix(auth): support multi-tenant organization scoping
 
 // [2026-04-08 15:50:21] fix(auth): hash credentials using Argon2id with salt rotation
+
+// [2026-04-17 18:04:20] feat(auth): secure session store against replay attacks
