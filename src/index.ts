@@ -139,3 +139,5 @@ export * from './utils/datetime.js';
 // [2026-04-04 22:51:11] refactor(core): initialize modular plugin registration lifecycle
 
 // [2026-04-13 13:00:37] feat(api): support batch query filter parameters
+
+// [2026-04-20 16:59:58] fix(core): streamline lifecycle hook execution sequence
