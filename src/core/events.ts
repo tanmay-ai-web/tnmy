@@ -90,3 +90,5 @@ export class EventEmitter {
 // [2026-03-12 16:20:32] refactor(core): initialize modular plugin registration lifecycle
 
 // [2026-03-17 14:19:22] fix(core): implement robust graceful shutdown signal traps
+
+// [2026-04-20 17:00:31] feat(core): support dynamic hook injection for extensions
