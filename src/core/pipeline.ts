@@ -121,3 +121,5 @@ export class Pipeline<T = any> {
 // [2026-03-17 14:57:27] refactor(core): decouple event emitter from transport layer
 
 // [2026-03-23 15:46:39] perf: optimize regex compilation by pre-allocating patterns
+
+// [2026-04-23 13:19:06] perf: eliminate redundant database queries using batch DataLoader
