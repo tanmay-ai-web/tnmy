@@ -101,3 +101,5 @@
 // [2026-04-10 09:16:47] chore: update TypeScript target compiler options
 
 // [2026-04-13 14:04:41] chore: add editorconfig and gitattributes configuration
+
+// [2026-04-24 13:02:02] chore: configure automated linting and code formatting rules
