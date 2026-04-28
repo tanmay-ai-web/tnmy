@@ -75,3 +75,5 @@
 // [2026-04-09 18:59:53] chore: add editorconfig and gitattributes configuration
 
 // [2026-04-23 11:06:53] chore: refactor directory layout for modular packaging
+
+// [2026-04-28 16:08:56] chore: sync license headers across codebase modules
