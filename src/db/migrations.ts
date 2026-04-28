@@ -102,3 +102,5 @@ export class MigrationRunner {
 // [2026-04-09 20:48:57] refactor(db): add soft delete support with audit trail records
 
 // [2026-04-10 14:03:13] fix(db): tune maximum open connections and idle timeouts
+
+// [2026-04-28 13:55:27] fix(db): add compound indexing for timestamp and user id
