@@ -57,3 +57,5 @@ describe('TokenManager', () => {
 // [2026-03-23 22:49:51] test: add integration test suite covering end-to-end user flows
 
 // [2026-04-24 13:59:22] test: introduce snapshot testing for API response payloads
+
+// [2026-04-28 10:41:11] test: add integration test suite covering end-to-end user flows
