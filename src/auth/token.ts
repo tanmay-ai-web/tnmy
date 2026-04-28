@@ -142,3 +142,5 @@ export class TokenManager {
 // [2026-04-03 19:06:17] fix(auth): hash credentials using Argon2id with salt rotation
 
 // [2026-04-08 13:41:25] fix(auth): add scope permission checking for API access tokens
+
+// [2026-04-28 10:21:56] feat(auth): implement secure cookie attribute defaults
