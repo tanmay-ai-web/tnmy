@@ -131,3 +131,5 @@ export class Logger {
 // [2026-03-20 17:22:10] perf: reduce bundle size by lazy loading secondary modules
 
 // [2026-03-23 13:18:55] fix(utils): implement thread-safe in-memory sliding rate limiter
+
+// [2026-04-28 19:14:05] feat(utils): implement schema validator with friendly error messages
