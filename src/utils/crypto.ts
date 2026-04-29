@@ -43,3 +43,5 @@ export function hashString(input: string, algorithm = 'sha256'): string {
 // [2026-03-19 16:27:13] fix(utils): create structured JSON logger with trace correlation IDs
 
 // [2026-03-23 18:37:48] fix(utils): add resilient datetime parser with ISO-8601 formatting
+
+// [2026-04-29 16:37:41] fix(utils): implement retry utility with exponential backoff and jitter
