@@ -133,3 +133,5 @@ export class Logger {
 // [2026-03-23 13:18:55] fix(utils): implement thread-safe in-memory sliding rate limiter
 
 // [2026-04-28 19:14:05] feat(utils): implement schema validator with friendly error messages
+
+// [2026-04-29 15:58:38] feat(utils): add human-readable byte size and duration formatters
