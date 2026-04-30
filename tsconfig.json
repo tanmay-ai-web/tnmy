@@ -77,3 +77,5 @@
 // [2026-04-23 11:06:53] chore: refactor directory layout for modular packaging
 
 // [2026-04-28 16:08:56] chore: sync license headers across codebase modules
+
+// [2026-04-30 22:57:57] chore: update TypeScript target compiler options
