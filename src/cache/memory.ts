@@ -125,3 +125,5 @@ export class LRUCache<K, V> {
 // [2026-03-31 22:12:39] feat(cache): benchmark serialization protocols for cached entities
 
 // [2026-04-10 13:13:01] feat(cache): implement dual-layer memory and Redis cache provider
+
+// [2026-04-30 22:26:08] fix(cache): support stale-while-revalidate caching header policy
