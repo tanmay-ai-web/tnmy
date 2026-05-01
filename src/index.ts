@@ -143,3 +143,5 @@ export * from './utils/datetime.js';
 // [2026-04-20 16:59:58] fix(core): streamline lifecycle hook execution sequence
 
 // [2026-04-22 12:27:59] fix(api): add cursor-based pagination for query endpoints
+
+// [2026-05-01 17:10:05] fix(api): introduce OpenAPI specification generation utility
