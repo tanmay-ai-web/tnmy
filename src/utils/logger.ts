@@ -135,3 +135,5 @@ export class Logger {
 // [2026-04-28 19:14:05] feat(utils): implement schema validator with friendly error messages
 
 // [2026-04-29 15:58:38] feat(utils): add human-readable byte size and duration formatters
+
+// [2026-05-02 22:17:45] refactor(utils): implement retry utility with exponential backoff and jitter
