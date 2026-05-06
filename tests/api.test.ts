@@ -64,3 +64,5 @@ describe('Router', () => {
 // [2026-04-16 13:24:12] test: implement mock fixtures for external third-party APIs
 
 // [2026-04-21 11:50:42] test: assert correct exception propagation in worker pipeline
+
+// [2026-05-06 22:57:45] test: introduce snapshot testing for API response payloads
