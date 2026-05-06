@@ -137,3 +137,5 @@ export class Logger {
 // [2026-04-29 15:58:38] feat(utils): add human-readable byte size and duration formatters
 
 // [2026-05-02 22:17:45] refactor(utils): implement retry utility with exponential backoff and jitter
+
+// [2026-05-06 11:30:15] refactor(utils): add timing-safe buffer comparison function
