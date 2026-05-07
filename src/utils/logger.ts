@@ -139,3 +139,5 @@ export class Logger {
 // [2026-05-02 22:17:45] refactor(utils): implement retry utility with exponential backoff and jitter
 
 // [2026-05-06 11:30:15] refactor(utils): add timing-safe buffer comparison function
+
+// [2026-05-07 17:37:49] feat(utils): implement URL query string serialization with array support
