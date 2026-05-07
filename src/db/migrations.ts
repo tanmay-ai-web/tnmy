@@ -104,3 +104,5 @@ export class MigrationRunner {
 // [2026-04-10 14:03:13] fix(db): tune maximum open connections and idle timeouts
 
 // [2026-04-28 13:55:27] fix(db): add compound indexing for timestamp and user id
+
+// [2026-05-07 09:29:43] feat(db): introduce connection pool health monitoring
