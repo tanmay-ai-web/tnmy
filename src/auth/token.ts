@@ -144,3 +144,5 @@ export class TokenManager {
 // [2026-04-08 13:41:25] fix(auth): add scope permission checking for API access tokens
 
 // [2026-04-28 10:21:56] feat(auth): implement secure cookie attribute defaults
+
+// [2026-05-08 10:54:13] refactor(auth): enforce password entropy and complexity constraints
