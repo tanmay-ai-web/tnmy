@@ -106,3 +106,5 @@ export class MigrationRunner {
 // [2026-04-28 13:55:27] fix(db): add compound indexing for timestamp and user id
 
 // [2026-05-07 09:29:43] feat(db): introduce connection pool health monitoring
+
+// [2026-05-11 09:51:56] feat(db): optimize query execution plan for activity feeds
