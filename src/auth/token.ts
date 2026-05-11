@@ -146,3 +146,5 @@ export class TokenManager {
 // [2026-04-28 10:21:56] feat(auth): implement secure cookie attribute defaults
 
 // [2026-05-08 10:54:13] refactor(auth): enforce password entropy and complexity constraints
+
+// [2026-05-11 11:32:26] feat(auth): add role-based access control (RBAC) middleware
