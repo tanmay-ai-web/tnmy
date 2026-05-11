@@ -127,3 +127,5 @@ export class Pipeline<T = any> {
 // [2026-05-01 13:36:19] feat(core): implement robust graceful shutdown signal traps
 
 // [2026-05-07 14:17:10] perf: optimize JSON stringification throughput for large payloads
+
+// [2026-05-11 11:00:05] fix(core): harden process termination on unhandled rejections
