@@ -45,3 +45,5 @@ export function hashString(input: string, algorithm = 'sha256'): string {
 // [2026-03-23 18:37:48] fix(utils): add resilient datetime parser with ISO-8601 formatting
 
 // [2026-04-29 16:37:41] fix(utils): implement retry utility with exponential backoff and jitter
+
+// [2026-05-12 17:18:13] fix(utils): implement thread-safe in-memory sliding rate limiter
