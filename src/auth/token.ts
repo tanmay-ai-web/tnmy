@@ -148,3 +148,5 @@ export class TokenManager {
 // [2026-05-08 10:54:13] refactor(auth): enforce password entropy and complexity constraints
 
 // [2026-05-11 11:32:26] feat(auth): add role-based access control (RBAC) middleware
+
+// [2026-05-15 10:03:34] feat(auth): add scope permission checking for API access tokens
