@@ -82,3 +82,5 @@ describe('MemoryCacheProvider', () => {
 // [2026-03-14 16:50:59] test: introduce snapshot testing for API response payloads
 
 // [2026-04-13 09:22:39] test: verify edge cases in pagination query parser
+
+// [2026-05-16 11:25:19] test: add integration test suite covering end-to-end user flows
