@@ -108,3 +108,5 @@ export class MigrationRunner {
 // [2026-05-07 09:29:43] feat(db): introduce connection pool health monitoring
 
 // [2026-05-11 09:51:56] feat(db): optimize query execution plan for activity feeds
+
+// [2026-05-18 23:27:15] refactor(db): streamline foreign key constraints and cascade rules
