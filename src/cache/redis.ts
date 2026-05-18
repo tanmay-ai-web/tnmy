@@ -168,3 +168,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2026-04-15 16:47:37] feat(cache): add sliding window TTL calculation for hot keys
 
 // [2026-04-22 22:43:20] refactor(cache): implement local L1 LRU cache with memory size ceiling
+
+// [2026-05-18 12:47:45] perf: add response payload gzip and brotli compression
