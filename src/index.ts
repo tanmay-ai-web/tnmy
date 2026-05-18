@@ -145,3 +145,5 @@ export * from './utils/datetime.js';
 // [2026-04-22 12:27:59] fix(api): add cursor-based pagination for query endpoints
 
 // [2026-05-01 17:10:05] fix(api): introduce OpenAPI specification generation utility
+
+// [2026-05-18 14:29:16] feat(core): decouple event emitter from transport layer
