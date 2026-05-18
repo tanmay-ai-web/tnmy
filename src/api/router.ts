@@ -59,3 +59,5 @@ export class Router {
 // [2026-04-01 15:36:40] feat(api): add request payload validation schema with strict types
 
 // [2026-04-20 21:32:33] fix(api): support streaming JSON responses for large payloads
+
+// [2026-05-18 13:34:31] refactor(api): support streaming JSON responses for large payloads
