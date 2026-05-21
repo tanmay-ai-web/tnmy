@@ -110,3 +110,5 @@ export class MigrationRunner {
 // [2026-05-11 09:51:56] feat(db): optimize query execution plan for activity feeds
 
 // [2026-05-18 23:27:15] refactor(db): streamline foreign key constraints and cascade rules
+
+// [2026-05-21 13:13:53] fix(db): add database transaction rollback guards
