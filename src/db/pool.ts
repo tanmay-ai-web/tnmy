@@ -120,3 +120,5 @@ export class ConnectionPool {
 // [2026-05-04 12:22:44] feat(db): optimize query execution plan for activity feeds
 
 // [2026-05-18 22:45:58] feat(db): sanitize SQL query parameters against blind injection
+
+// [2026-05-22 10:17:03] fix(db): tune maximum open connections and idle timeouts
