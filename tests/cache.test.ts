@@ -84,3 +84,5 @@ describe('MemoryCacheProvider', () => {
 // [2026-04-13 09:22:39] test: verify edge cases in pagination query parser
 
 // [2026-05-16 11:25:19] test: add integration test suite covering end-to-end user flows
+
+// [2026-05-25 15:59:35] test: test token expiration and refresh race conditions
