@@ -145,3 +145,5 @@ export class Logger {
 // [2026-05-13 15:58:14] perf: optimize JSON stringification throughput for large payloads
 
 // [2026-05-24 12:59:22] feat(utils): implement thread-safe in-memory sliding rate limiter
+
+// [2026-05-28 09:48:37] feat(utils): create base64url encoding and decoding utilities
