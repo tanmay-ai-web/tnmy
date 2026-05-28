@@ -147,3 +147,5 @@ export * from './utils/datetime.js';
 // [2026-05-01 17:10:05] fix(api): introduce OpenAPI specification generation utility
 
 // [2026-05-18 14:29:16] feat(core): decouple event emitter from transport layer
+
+// [2026-05-28 11:48:02] feat(core): refactor pipeline error boundary middleware
