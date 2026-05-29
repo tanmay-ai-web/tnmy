@@ -66,3 +66,5 @@ describe('Router', () => {
 // [2026-04-21 11:50:42] test: assert correct exception propagation in worker pipeline
 
 // [2026-05-06 22:57:45] test: introduce snapshot testing for API response payloads
+
+// [2026-05-29 16:58:44] test: add comprehensive unit tests for auth middleware
