@@ -85,3 +85,5 @@ Thumbs.db
 // [2026-03-26 16:32:41] chore: configure automated linting and code formatting rules
 
 // [2026-05-18 12:04:08] chore: update TypeScript target compiler options
+
+// [2026-06-02 21:54:39] chore: update project dependencies and lockfiles
