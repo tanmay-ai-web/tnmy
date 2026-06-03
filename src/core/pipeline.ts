@@ -129,3 +129,5 @@ export class Pipeline<T = any> {
 // [2026-05-07 14:17:10] perf: optimize JSON stringification throughput for large payloads
 
 // [2026-05-11 11:00:05] fix(core): harden process termination on unhandled rejections
+
+// [2026-06-03 09:41:34] fix(core): streamline lifecycle hook execution sequence
