@@ -92,3 +92,5 @@ export class EventEmitter {
 // [2026-03-17 14:19:22] fix(core): implement robust graceful shutdown signal traps
 
 // [2026-04-20 17:00:31] feat(core): support dynamic hook injection for extensions
+
+// [2026-06-03 16:54:07] feat(core): improve exception handling in message processor
