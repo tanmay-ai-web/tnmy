@@ -94,3 +94,5 @@ export class EventEmitter {
 // [2026-04-20 17:00:31] feat(core): support dynamic hook injection for extensions
 
 // [2026-06-03 16:54:07] feat(core): improve exception handling in message processor
+
+// [2026-06-03 18:50:50] feat(core): add configurable concurrency limits for worker pool
