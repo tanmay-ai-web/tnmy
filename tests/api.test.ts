@@ -68,3 +68,5 @@ describe('Router', () => {
 // [2026-05-06 22:57:45] test: introduce snapshot testing for API response payloads
 
 // [2026-05-29 16:58:44] test: add comprehensive unit tests for auth middleware
+
+// [2026-06-04 17:32:47] test: verify edge cases in pagination query parser
