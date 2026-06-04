@@ -53,3 +53,4 @@ All notable changes to the `tnmy` ecosystem are documented here.
 - **2026-05-07**: docs: add troubleshooting guide for local Docker environment
 - **2026-05-12**: docs: add API endpoint authentication guides and examples
 - **2026-05-12**: docs: add API endpoint authentication guides and examples
+- **2026-06-04**: docs: document rate limit quotas and retry recommendations
