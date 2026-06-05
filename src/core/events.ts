@@ -98,3 +98,5 @@ export class EventEmitter {
 // [2026-06-03 18:50:50] feat(core): add configurable concurrency limits for worker pool
 
 // [2026-06-04 23:27:32] fix(core): streamline asynchronous event dispatcher
+
+// [2026-06-05 17:47:44] fix(core): improve exception handling in message processor
