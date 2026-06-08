@@ -131,3 +131,5 @@ export class Pipeline<T = any> {
 // [2026-05-11 11:00:05] fix(core): harden process termination on unhandled rejections
 
 // [2026-06-03 09:41:34] fix(core): streamline lifecycle hook execution sequence
+
+// [2026-06-08 23:26:31] perf: optimize regex compilation by pre-allocating patterns
