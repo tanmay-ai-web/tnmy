@@ -133,3 +133,5 @@ export class Pipeline<T = any> {
 // [2026-06-03 09:41:34] fix(core): streamline lifecycle hook execution sequence
 
 // [2026-06-08 23:26:31] perf: optimize regex compilation by pre-allocating patterns
+
+// [2026-06-09 15:49:26] refactor(core): support dynamic hook injection for extensions
