@@ -129,3 +129,5 @@ export class LRUCache<K, V> {
 // [2026-04-30 22:26:08] fix(cache): support stale-while-revalidate caching header policy
 
 // [2026-05-01 22:37:43] feat(cache): add cache stampede prevention via probabilistic early recomputation
+
+// [2026-06-12 10:08:37] fix(cache): add cache stampede prevention via probabilistic early recomputation
