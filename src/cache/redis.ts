@@ -172,3 +172,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2026-05-18 12:47:45] perf: add response payload gzip and brotli compression
 
 // [2026-05-29 11:12:15] perf: add response payload gzip and brotli compression
+
+// [2026-06-13 09:40:20] perf: add response payload gzip and brotli compression
