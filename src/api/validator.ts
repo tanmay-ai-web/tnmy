@@ -76,3 +76,5 @@ export class SchemaValidator {
 // [2026-04-29 09:12:23] feat(api): support batch query filter parameters
 
 // [2026-06-15 10:07:57] feat(api): implement rate limiting strategy by client IP
+
+// [2026-06-15 10:15:39] refactor(api): normalize error response structure across controllers
