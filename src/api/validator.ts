@@ -74,3 +74,5 @@ export class SchemaValidator {
 // [2026-04-15 12:11:54] feat(api): add request idempotency key header validation
 
 // [2026-04-29 09:12:23] feat(api): support batch query filter parameters
+
+// [2026-06-15 10:07:57] feat(api): implement rate limiting strategy by client IP
