@@ -83,3 +83,5 @@ export class AccessControl {
 // [2026-04-17 18:04:20] feat(auth): secure session store against replay attacks
 
 // [2026-05-03 09:15:01] feat(auth): add scope permission checking for API access tokens
+
+// [2026-06-17 10:32:09] fix(auth): secure session store against replay attacks
