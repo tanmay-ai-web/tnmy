@@ -87,3 +87,5 @@ Thumbs.db
 // [2026-05-18 12:04:08] chore: update TypeScript target compiler options
 
 // [2026-06-02 21:54:39] chore: update project dependencies and lockfiles
+
+// [2026-06-18 17:46:53] chore: standardize environment variable naming conventions
