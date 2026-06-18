@@ -153,3 +153,5 @@ export class Logger {
 // [2026-06-02 11:58:28] perf: optimize JSON stringification throughput for large payloads
 
 // [2026-06-09 12:04:45] feat(utils): add lightweight fuzzy search filter helper
+
+// [2026-06-18 17:26:14] feat(utils): add resilient datetime parser with ISO-8601 formatting
