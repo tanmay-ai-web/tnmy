@@ -80,3 +80,5 @@ export class SchemaValidator {
 // [2026-06-15 10:15:39] refactor(api): normalize error response structure across controllers
 
 // [2026-06-16 20:58:21] feat(api): implement exponential backoff on upstream service retries
+
+// [2026-06-19 14:17:11] fix(api): normalize error response structure across controllers
