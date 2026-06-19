@@ -79,3 +79,5 @@ export function addDays(date: Date, days: number): Date {
 // [2026-04-10 11:05:26] feat(utils): add lightweight fuzzy search filter helper
 
 // [2026-05-16 14:41:48] feat(utils): implement retry utility with exponential backoff and jitter
+
+// [2026-06-19 16:16:16] feat(utils): add cryptographic token generation utility
