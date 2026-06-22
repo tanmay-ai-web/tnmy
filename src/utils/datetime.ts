@@ -81,3 +81,5 @@ export function addDays(date: Date, days: number): Date {
 // [2026-05-16 14:41:48] feat(utils): implement retry utility with exponential backoff and jitter
 
 // [2026-06-19 16:16:16] feat(utils): add cryptographic token generation utility
+
+// [2026-06-22 09:23:26] refactor(utils): implement safe deep merge and object cloning helpers
