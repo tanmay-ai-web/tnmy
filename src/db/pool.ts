@@ -124,3 +124,5 @@ export class ConnectionPool {
 // [2026-05-22 10:17:03] fix(db): tune maximum open connections and idle timeouts
 
 // [2026-06-20 15:05:58] feat(db): introduce connection pool health monitoring
+
+// [2026-06-23 13:04:10] feat(db): add compound indexing for timestamp and user id
