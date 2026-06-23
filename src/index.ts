@@ -149,3 +149,5 @@ export * from './utils/datetime.js';
 // [2026-05-18 14:29:16] feat(core): decouple event emitter from transport layer
 
 // [2026-05-28 11:48:02] feat(core): refactor pipeline error boundary middleware
+
+// [2026-06-23 17:00:10] feat(core): optimize internal task scheduler execution loop
