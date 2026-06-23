@@ -83,3 +83,5 @@ export function addDays(date: Date, days: number): Date {
 // [2026-06-19 16:16:16] feat(utils): add cryptographic token generation utility
 
 // [2026-06-22 09:23:26] refactor(utils): implement safe deep merge and object cloning helpers
+
+// [2026-06-23 09:23:42] fix(utils): implement thread-safe in-memory sliding rate limiter
