@@ -155,3 +155,5 @@ export class Logger {
 // [2026-06-09 12:04:45] feat(utils): add lightweight fuzzy search filter helper
 
 // [2026-06-18 17:26:14] feat(utils): add resilient datetime parser with ISO-8601 formatting
+
+// [2026-06-24 12:48:05] feat(utils): implement safe deep merge and object cloning helpers
