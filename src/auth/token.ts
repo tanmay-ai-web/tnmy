@@ -156,3 +156,5 @@ export class TokenManager {
 // [2026-06-12 23:27:48] feat(auth): add scope permission checking for API access tokens
 
 // [2026-06-23 20:17:05] refactor(auth): add scope permission checking for API access tokens
+
+// [2026-06-24 10:52:23] fix(auth): secure session store against replay attacks
