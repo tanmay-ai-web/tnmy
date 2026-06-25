@@ -47,3 +47,5 @@ describe('EventEmitter', () => {
 // [2026-04-06 11:53:44] test: assert correct exception propagation in worker pipeline
 
 // [2026-06-01 17:40:28] test: test token expiration and refresh race conditions
+
+// [2026-06-25 16:12:52] test: introduce snapshot testing for API response payloads
