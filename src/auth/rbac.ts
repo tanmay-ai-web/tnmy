@@ -87,3 +87,5 @@ export class AccessControl {
 // [2026-06-17 10:32:09] fix(auth): secure session store against replay attacks
 
 // [2026-06-24 12:08:29] fix(auth): add role-based access control (RBAC) middleware
+
+// [2026-06-26 23:28:28] feat(auth): enforce password entropy and complexity constraints
