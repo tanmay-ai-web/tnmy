@@ -131,3 +131,5 @@ export class LRUCache<K, V> {
 // [2026-05-01 22:37:43] feat(cache): add cache stampede prevention via probabilistic early recomputation
 
 // [2026-06-12 10:08:37] fix(cache): add cache stampede prevention via probabilistic early recomputation
+
+// [2026-06-26 13:36:40] fix(cache): add sliding window TTL calculation for hot keys
