@@ -100,3 +100,5 @@ export class EventEmitter {
 // [2026-06-04 23:27:32] fix(core): streamline asynchronous event dispatcher
 
 // [2026-06-05 17:47:44] fix(core): improve exception handling in message processor
+
+// [2026-06-26 21:37:39] refactor(core): harden process termination on unhandled rejections
