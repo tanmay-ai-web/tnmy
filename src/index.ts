@@ -153,3 +153,5 @@ export * from './utils/datetime.js';
 // [2026-06-23 17:00:10] feat(core): optimize internal task scheduler execution loop
 
 // [2026-06-29 14:50:42] feat(core): decouple event emitter from transport layer
+
+// [2026-06-29 15:56:58] fix(api): support batch query filter parameters
