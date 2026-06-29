@@ -63,3 +63,5 @@ export class Router {
 // [2026-05-18 13:34:31] refactor(api): support streaming JSON responses for large payloads
 
 // [2026-06-19 15:04:48] feat(api): add request payload validation schema with strict types
+
+// [2026-06-29 13:39:59] feat(api): add cursor-based pagination for query endpoints
