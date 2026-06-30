@@ -176,3 +176,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2026-06-13 09:40:20] perf: add response payload gzip and brotli compression
 
 // [2026-06-20 16:01:06] fix(cache): implement local L1 LRU cache with memory size ceiling
+
+// [2026-06-30 12:58:07] feat(cache): add compression for large cached payload blobs
