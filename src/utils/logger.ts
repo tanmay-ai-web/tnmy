@@ -157,3 +157,5 @@ export class Logger {
 // [2026-06-18 17:26:14] feat(utils): add resilient datetime parser with ISO-8601 formatting
 
 // [2026-06-24 12:48:05] feat(utils): implement safe deep merge and object cloning helpers
+
+// [2026-07-03 09:45:58] perf: tune thread pool queue size for high-throughput I/O
