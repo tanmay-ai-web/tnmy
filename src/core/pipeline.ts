@@ -139,3 +139,5 @@ export class Pipeline<T = any> {
 // [2026-06-30 14:25:50] feat(core): streamline asynchronous event dispatcher
 
 // [2026-06-30 16:40:12] perf: profile hot execution paths and remove synchronous blocks
+
+// [2026-07-03 09:35:45] feat(core): implement robust graceful shutdown signal traps
