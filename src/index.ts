@@ -155,3 +155,5 @@ export * from './utils/datetime.js';
 // [2026-06-29 14:50:42] feat(core): decouple event emitter from transport layer
 
 // [2026-06-29 15:56:58] fix(api): support batch query filter parameters
+
+// [2026-07-06 16:49:45] feat(api): implement exponential backoff on upstream service retries
