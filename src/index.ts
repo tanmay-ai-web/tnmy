@@ -157,3 +157,5 @@ export * from './utils/datetime.js';
 // [2026-06-29 15:56:58] fix(api): support batch query filter parameters
 
 // [2026-07-06 16:49:45] feat(api): implement exponential backoff on upstream service retries
+
+// [2026-07-08 10:53:04] feat(api): introduce OpenAPI specification generation utility
