@@ -126,3 +126,5 @@ export class ConnectionPool {
 // [2026-06-20 15:05:58] feat(db): introduce connection pool health monitoring
 
 // [2026-06-23 13:04:10] feat(db): add compound indexing for timestamp and user id
+
+// [2026-07-09 19:16:38] feat(db): add database transaction rollback guards
