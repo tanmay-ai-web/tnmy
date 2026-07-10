@@ -159,3 +159,5 @@ export class Logger {
 // [2026-06-24 12:48:05] feat(utils): implement safe deep merge and object cloning helpers
 
 // [2026-07-03 09:45:58] perf: tune thread pool queue size for high-throughput I/O
+
+// [2026-07-10 10:42:13] fix(utils): add timing-safe buffer comparison function
