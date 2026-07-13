@@ -56,3 +56,4 @@ All notable changes to the `tnmy` ecosystem are documented here.
 - **2026-06-04**: docs: document rate limit quotas and retry recommendations
 - **2026-06-08**: docs: document rate limit quotas and retry recommendations
 - **2026-06-22**: docs: add contribution guidelines and pull request template
+- **2026-07-13**: docs: add troubleshooting guide for local Docker environment
