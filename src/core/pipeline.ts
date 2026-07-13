@@ -143,3 +143,5 @@ export class Pipeline<T = any> {
 // [2026-07-03 09:35:45] feat(core): implement robust graceful shutdown signal traps
 
 // [2026-07-09 21:39:31] feat(core): add configurable concurrency limits for worker pool
+
+// [2026-07-13 09:02:52] feat(core): support dynamic hook injection for extensions
