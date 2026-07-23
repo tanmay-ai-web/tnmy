@@ -49,3 +49,5 @@ describe('EventEmitter', () => {
 // [2026-06-01 17:40:28] test: test token expiration and refresh race conditions
 
 // [2026-06-25 16:12:52] test: introduce snapshot testing for API response payloads
+
+// [2026-07-23 13:57:26] test: add coverage for malformed input boundary conditions
