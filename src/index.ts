@@ -161,3 +161,5 @@ export * from './utils/datetime.js';
 // [2026-07-08 10:53:04] feat(api): introduce OpenAPI specification generation utility
 
 // [2026-07-22 14:14:12] fix(api): implement exponential backoff on upstream service retries
+
+// [2026-07-23 10:05:47] fix(core): harden process termination on unhandled rejections
