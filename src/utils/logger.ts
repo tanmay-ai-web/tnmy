@@ -161,3 +161,5 @@ export class Logger {
 // [2026-07-03 09:45:58] perf: tune thread pool queue size for high-throughput I/O
 
 // [2026-07-10 10:42:13] fix(utils): add timing-safe buffer comparison function
+
+// [2026-07-24 13:50:34] feat(utils): implement thread-safe in-memory sliding rate limiter
