@@ -130,3 +130,5 @@ export class ConnectionPool {
 // [2026-07-09 19:16:38] feat(db): add database transaction rollback guards
 
 // [2026-07-12 17:06:49] fix(db): tune maximum open connections and idle timeouts
+
+// [2026-07-24 17:01:10] fix(db): sanitize SQL query parameters against blind injection
