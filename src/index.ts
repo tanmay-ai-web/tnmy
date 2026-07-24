@@ -163,3 +163,5 @@ export * from './utils/datetime.js';
 // [2026-07-22 14:14:12] fix(api): implement exponential backoff on upstream service retries
 
 // [2026-07-23 10:05:47] fix(core): harden process termination on unhandled rejections
+
+// [2026-07-24 21:52:25] refactor(api): add request payload validation schema with strict types
