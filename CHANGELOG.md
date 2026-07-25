@@ -59,3 +59,4 @@ All notable changes to the `tnmy` ecosystem are documented here.
 - **2026-07-13**: docs: add troubleshooting guide for local Docker environment
 - **2026-07-13**: docs: add troubleshooting guide for local Docker environment
 - **2026-07-13**: docs: document environment variable configuration matrix
+- **2026-07-25**: docs: document environment variable configuration matrix
