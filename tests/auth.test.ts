@@ -65,3 +65,5 @@ describe('TokenManager', () => {
 // [2026-06-02 16:56:54] test: assert correct exception propagation in worker pipeline
 
 // [2026-07-07 09:11:59] test: benchmark execution speed of core hashing utilities
+
+// [2026-07-27 11:27:10] test: assert correct exception propagation in worker pipeline
