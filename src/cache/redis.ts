@@ -184,3 +184,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2026-07-08 14:04:04] perf: reduce memory overhead in stream transform pipeline
 
 // [2026-07-08 20:39:52] perf: minimize garbage collection pressure in buffer allocation
+
+// [2026-07-27 09:36:01] perf: add response payload gzip and brotli compression
