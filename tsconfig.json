@@ -83,3 +83,5 @@
 // [2026-05-08 16:02:28] chore: sync license headers across codebase modules
 
 // [2026-06-08 14:11:46] chore: configure automated linting and code formatting rules
+
+// [2026-07-28 16:53:16] chore: refactor directory layout for modular packaging
