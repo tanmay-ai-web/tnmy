@@ -84,3 +84,5 @@ export class SchemaValidator {
 // [2026-06-19 14:17:11] fix(api): normalize error response structure across controllers
 
 // [2026-06-26 15:00:03] feat(api): add HMAC signature verification for incoming webhooks
+
+// [2026-07-29 12:01:23] feat(api): implement rate limiting strategy by client IP
