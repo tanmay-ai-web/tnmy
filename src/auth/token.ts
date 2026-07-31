@@ -162,3 +162,5 @@ export class TokenManager {
 // [2026-07-05 10:10:47] feat(auth): support multi-tenant organization scoping
 
 // [2026-07-14 22:49:47] feat(auth): secure session store against replay attacks
+
+// [2026-07-31 18:32:55] refactor(auth): revoke stale active sessions upon password reset
