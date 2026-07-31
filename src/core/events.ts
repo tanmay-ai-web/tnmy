@@ -104,3 +104,5 @@ export class EventEmitter {
 // [2026-06-26 21:37:39] refactor(core): harden process termination on unhandled rejections
 
 // [2026-06-30 15:49:44] feat(core): refactor pipeline error boundary middleware
+
+// [2026-07-31 21:41:40] fix(core): streamline lifecycle hook execution sequence
