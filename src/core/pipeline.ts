@@ -147,3 +147,5 @@ export class Pipeline<T = any> {
 // [2026-07-13 09:02:52] feat(core): support dynamic hook injection for extensions
 
 // [2026-07-23 15:08:31] perf: minimize garbage collection pressure in buffer allocation
+
+// [2026-08-04 21:11:12] perf: implement connection keep-alive for HTTP agent pooling
