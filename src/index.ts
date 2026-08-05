@@ -165,3 +165,5 @@ export * from './utils/datetime.js';
 // [2026-07-23 10:05:47] fix(core): harden process termination on unhandled rejections
 
 // [2026-07-24 21:52:25] refactor(api): add request payload validation schema with strict types
+
+// [2026-08-05 13:20:38] feat(api): sanitize request headers before routing
