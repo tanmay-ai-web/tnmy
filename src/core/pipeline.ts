@@ -149,3 +149,5 @@ export class Pipeline<T = any> {
 // [2026-07-23 15:08:31] perf: minimize garbage collection pressure in buffer allocation
 
 // [2026-08-04 21:11:12] perf: implement connection keep-alive for HTTP agent pooling
+
+// [2026-08-06 18:07:25] perf: reduce bundle size by lazy loading secondary modules
