@@ -190,3 +190,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2026-07-30 11:30:42] perf: implement connection keep-alive for HTTP agent pooling
 
 // [2026-07-31 22:43:39] perf: profile hot execution paths and remove synchronous blocks
+
+// [2026-08-06 09:45:18] perf: tune thread pool queue size for high-throughput I/O
