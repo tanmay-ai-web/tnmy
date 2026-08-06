@@ -192,3 +192,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2026-07-31 22:43:39] perf: profile hot execution paths and remove synchronous blocks
 
 // [2026-08-06 09:45:18] perf: tune thread pool queue size for high-throughput I/O
+
+// [2026-08-06 10:57:28] refactor(cache): add compression for large cached payload blobs
