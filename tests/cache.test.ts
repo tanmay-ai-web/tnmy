@@ -94,3 +94,5 @@ describe('MemoryCacheProvider', () => {
 // [2026-07-05 13:39:38] test: add integration test suite covering end-to-end user flows
 
 // [2026-07-28 13:39:01] test: add concurrency stress test for distributed lock manager
+
+// [2026-08-10 15:07:02] test: introduce snapshot testing for API response payloads
