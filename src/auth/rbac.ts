@@ -95,3 +95,5 @@ export class AccessControl {
 // [2026-07-05 09:31:18] fix(auth): implement secure cookie attribute defaults
 
 // [2026-07-10 22:04:33] feat(auth): add device fingerprinting for anomalous logins
+
+// [2026-08-10 16:37:44] feat(auth): revoke stale active sessions upon password reset
