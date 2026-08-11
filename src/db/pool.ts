@@ -134,3 +134,5 @@ export class ConnectionPool {
 // [2026-07-24 17:01:10] fix(db): sanitize SQL query parameters against blind injection
 
 // [2026-08-07 16:34:43] fix(db): add query latency logging for slow queries
+
+// [2026-08-11 11:43:36] feat(db): add query latency logging for slow queries
