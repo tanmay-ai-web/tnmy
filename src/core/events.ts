@@ -110,3 +110,5 @@ export class EventEmitter {
 // [2026-08-03 10:31:25] refactor(core): streamline asynchronous event dispatcher
 
 // [2026-08-05 20:19:01] fix(core): streamline asynchronous event dispatcher
+
+// [2026-08-11 17:39:12] feat(core): decouple event emitter from transport layer
