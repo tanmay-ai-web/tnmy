@@ -88,3 +88,5 @@ export class SchemaValidator {
 // [2026-07-29 12:01:23] feat(api): implement rate limiting strategy by client IP
 
 // [2026-07-30 14:34:32] feat(api): implement rate limiting strategy by client IP
+
+// [2026-08-13 15:54:35] feat(api): support batch query filter parameters
