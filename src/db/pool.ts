@@ -138,3 +138,5 @@ export class ConnectionPool {
 // [2026-08-11 11:43:36] feat(db): add query latency logging for slow queries
 
 // [2026-08-13 15:36:26] feat(db): streamline foreign key constraints and cascade rules
+
+// [2026-08-16 18:21:14] fix(db): handle deadlock exceptions with automatic retry loop
