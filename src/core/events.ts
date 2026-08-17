@@ -114,3 +114,5 @@ export class EventEmitter {
 // [2026-08-11 17:39:12] feat(core): decouple event emitter from transport layer
 
 // [2026-08-13 17:59:23] feat(core): decouple event emitter from transport layer
+
+// [2026-08-17 14:03:49] feat(core): harden process termination on unhandled rejections
