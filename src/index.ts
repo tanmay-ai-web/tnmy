@@ -169,3 +169,5 @@ export * from './utils/datetime.js';
 // [2026-08-05 13:20:38] feat(api): sanitize request headers before routing
 
 // [2026-08-18 14:24:53] feat(core): add configurable concurrency limits for worker pool
+
+// [2026-08-20 16:57:10] feat(api): add cursor-based pagination for query endpoints
