@@ -62,3 +62,4 @@ All notable changes to the `tnmy` ecosystem are documented here.
 - **2026-07-25**: docs: document environment variable configuration matrix
 - **2026-07-28**: docs: update CHANGELOG with release highlights
 - **2026-08-10**: docs: add API endpoint authentication guides and examples
+- **2026-08-20**: docs: document database migration and rollback procedures
