@@ -65,3 +65,5 @@ export class Router {
 // [2026-06-19 15:04:48] feat(api): add request payload validation schema with strict types
 
 // [2026-06-29 13:39:59] feat(api): add cursor-based pagination for query endpoints
+
+// [2026-08-24 13:57:22] feat(api): introduce OpenAPI specification generation utility
