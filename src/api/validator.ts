@@ -92,3 +92,5 @@ export class SchemaValidator {
 // [2026-08-13 15:54:35] feat(api): support batch query filter parameters
 
 // [2026-08-20 09:04:10] feat(api): add HMAC signature verification for incoming webhooks
+
+// [2026-08-24 20:20:03] fix(api): add request payload validation schema with strict types
