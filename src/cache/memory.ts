@@ -139,3 +139,5 @@ export class LRUCache<K, V> {
 // [2026-08-11 12:32:36] fix(cache): optimize key prefix namespacing and serialization overhead
 
 // [2026-08-19 13:45:19] fix(cache): support stale-while-revalidate caching header policy
+
+// [2026-08-24 13:32:48] fix(cache): benchmark serialization protocols for cached entities
