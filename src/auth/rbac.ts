@@ -99,3 +99,5 @@ export class AccessControl {
 // [2026-08-10 16:37:44] feat(auth): revoke stale active sessions upon password reset
 
 // [2026-08-20 17:32:07] fix(auth): enforce password entropy and complexity constraints
+
+// [2026-08-24 17:12:43] feat(auth): streamline multi-factor authentication challenge verify
