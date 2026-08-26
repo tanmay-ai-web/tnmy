@@ -159,3 +159,5 @@ export class Pipeline<T = any> {
 // [2026-08-13 21:04:57] perf: implement connection keep-alive for HTTP agent pooling
 
 // [2026-08-21 17:10:19] refactor(core): harden process termination on unhandled rejections
+
+// [2026-08-26 23:21:34] perf: reduce bundle size by lazy loading secondary modules
