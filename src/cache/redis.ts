@@ -200,3 +200,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2026-08-24 19:09:26] perf: profile hot execution paths and remove synchronous blocks
 
 // [2026-08-26 17:23:07] fix(cache): support stale-while-revalidate caching header policy
+
+// [2026-08-27 17:17:26] perf: reduce memory overhead in stream transform pipeline
