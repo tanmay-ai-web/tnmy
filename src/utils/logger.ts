@@ -165,3 +165,5 @@ export class Logger {
 // [2026-07-24 13:50:34] feat(utils): implement thread-safe in-memory sliding rate limiter
 
 // [2026-08-06 20:37:40] fix(utils): implement thread-safe in-memory sliding rate limiter
+
+// [2026-08-28 18:11:50] feat(utils): implement URL query string serialization with array support
