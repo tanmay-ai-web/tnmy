@@ -69,3 +69,5 @@ describe('TokenManager', () => {
 // [2026-07-27 11:27:10] test: assert correct exception propagation in worker pipeline
 
 // [2026-08-21 13:18:36] test: add comprehensive unit tests for auth middleware
+
+// [2026-08-30 10:05:24] test: verify edge cases in pagination query parser
