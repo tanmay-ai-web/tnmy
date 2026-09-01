@@ -202,3 +202,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2026-08-26 17:23:07] fix(cache): support stale-while-revalidate caching header policy
 
 // [2026-08-27 17:17:26] perf: reduce memory overhead in stream transform pipeline
+
+// [2026-09-01 14:22:39] feat(cache): resolve race condition in distributed cache eviction
