@@ -101,3 +101,5 @@ export class AccessControl {
 // [2026-08-20 17:32:07] fix(auth): enforce password entropy and complexity constraints
 
 // [2026-08-24 17:12:43] feat(auth): streamline multi-factor authentication challenge verify
+
+// [2026-09-01 09:48:05] fix(auth): add scope permission checking for API access tokens
