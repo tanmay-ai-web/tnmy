@@ -206,3 +206,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2026-09-01 14:22:39] feat(cache): resolve race condition in distributed cache eviction
 
 // [2026-09-02 18:28:38] feat(cache): resolve race condition in distributed cache eviction
+
+// [2026-09-03 13:12:46] feat(cache): add compression for large cached payload blobs
