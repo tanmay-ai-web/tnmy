@@ -169,3 +169,5 @@ export class Logger {
 // [2026-08-28 18:11:50] feat(utils): implement URL query string serialization with array support
 
 // [2026-09-03 17:34:57] fix(utils): implement safe deep merge and object cloning helpers
+
+// [2026-09-04 16:04:49] perf: add response payload gzip and brotli compression
