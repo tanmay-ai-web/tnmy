@@ -65,3 +65,4 @@ All notable changes to the `tnmy` ecosystem are documented here.
 - **2026-08-20**: docs: document database migration and rollback procedures
 - **2026-08-25**: docs: add performance tuning benchmarks and recommendations
 - **2026-09-02**: docs: add troubleshooting guide for local Docker environment
+- **2026-09-08**: docs: document rate limit quotas and retry recommendations
