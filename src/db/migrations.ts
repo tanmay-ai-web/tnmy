@@ -116,3 +116,5 @@ export class MigrationRunner {
 // [2026-08-05 21:01:12] feat(db): optimize query execution plan for activity feeds
 
 // [2026-09-02 12:18:07] fix(db): streamline foreign key constraints and cascade rules
+
+// [2026-09-08 12:57:42] fix(db): optimize query execution plan for activity feeds
