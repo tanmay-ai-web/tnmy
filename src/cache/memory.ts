@@ -141,3 +141,5 @@ export class LRUCache<K, V> {
 // [2026-08-19 13:45:19] fix(cache): support stale-while-revalidate caching header policy
 
 // [2026-08-24 13:32:48] fix(cache): benchmark serialization protocols for cached entities
+
+// [2026-09-10 11:52:01] feat(cache): add sliding window TTL calculation for hot keys
