@@ -67,3 +67,5 @@ export class Router {
 // [2026-06-29 13:39:59] feat(api): add cursor-based pagination for query endpoints
 
 // [2026-08-24 13:57:22] feat(api): introduce OpenAPI specification generation utility
+
+// [2026-09-10 17:59:33] fix(api): add health check and liveness probe endpoints
