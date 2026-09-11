@@ -173,3 +173,5 @@ export class Logger {
 // [2026-09-04 16:04:49] perf: add response payload gzip and brotli compression
 
 // [2026-09-08 15:53:10] feat(utils): implement URL query string serialization with array support
+
+// [2026-09-11 10:55:24] refactor(utils): implement URL query string serialization with array support
