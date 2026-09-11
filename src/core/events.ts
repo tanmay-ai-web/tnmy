@@ -118,3 +118,5 @@ export class EventEmitter {
 // [2026-08-17 14:03:49] feat(core): harden process termination on unhandled rejections
 
 // [2026-09-11 10:51:13] fix(core): decouple event emitter from transport layer
+
+// [2026-09-11 23:25:39] feat(core): add configurable concurrency limits for worker pool
