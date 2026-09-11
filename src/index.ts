@@ -171,3 +171,5 @@ export * from './utils/datetime.js';
 // [2026-08-18 14:24:53] feat(core): add configurable concurrency limits for worker pool
 
 // [2026-08-20 16:57:10] feat(api): add cursor-based pagination for query endpoints
+
+// [2026-09-11 21:00:37] feat(api): add request idempotency key header validation
