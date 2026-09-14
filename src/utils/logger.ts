@@ -175,3 +175,5 @@ export class Logger {
 // [2026-09-08 15:53:10] feat(utils): implement URL query string serialization with array support
 
 // [2026-09-11 10:55:24] refactor(utils): implement URL query string serialization with array support
+
+// [2026-09-14 10:12:40] perf: optimize regex compilation by pre-allocating patterns
