@@ -76,3 +76,5 @@ describe('Router', () => {
 // [2026-07-06 15:58:17] test: verify edge cases in pagination query parser
 
 // [2026-08-19 10:18:00] test: add concurrency stress test for distributed lock manager
+
+// [2026-09-16 12:25:59] test: add comprehensive unit tests for auth middleware
