@@ -78,3 +78,5 @@ describe('Router', () => {
 // [2026-08-19 10:18:00] test: add concurrency stress test for distributed lock manager
 
 // [2026-09-16 12:25:59] test: add comprehensive unit tests for auth middleware
+
+// [2026-09-17 19:45:32] test: add integration test suite covering end-to-end user flows
