@@ -94,3 +94,5 @@ export class SchemaValidator {
 // [2026-08-20 09:04:10] feat(api): add HMAC signature verification for incoming webhooks
 
 // [2026-08-24 20:20:03] fix(api): add request payload validation schema with strict types
+
+// [2026-09-17 14:30:17] refactor(api): normalize error response structure across controllers
