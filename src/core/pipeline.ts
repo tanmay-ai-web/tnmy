@@ -163,3 +163,5 @@ export class Pipeline<T = any> {
 // [2026-08-26 23:21:34] perf: reduce bundle size by lazy loading secondary modules
 
 // [2026-09-03 22:39:27] feat(core): support dynamic hook injection for extensions
+
+// [2026-09-17 17:28:49] perf: add response payload gzip and brotli compression
