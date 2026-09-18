@@ -103,3 +103,5 @@ Thumbs.db
 // [2026-08-30 15:35:53] chore: clean up deprecated helper functions and dead code
 
 // [2026-08-31 10:44:53] chore: refactor directory layout for modular packaging
+
+// [2026-09-18 16:14:22] chore: streamline CI build script and caching steps
