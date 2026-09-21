@@ -142,3 +142,5 @@ export class ConnectionPool {
 // [2026-08-16 18:21:14] fix(db): handle deadlock exceptions with automatic retry loop
 
 // [2026-09-01 11:17:34] fix(db): add compound indexing for timestamp and user id
+
+// [2026-09-21 18:14:35] fix(db): optimize query execution plan for activity feeds
