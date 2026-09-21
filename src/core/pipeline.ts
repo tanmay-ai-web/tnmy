@@ -165,3 +165,5 @@ export class Pipeline<T = any> {
 // [2026-09-03 22:39:27] feat(core): support dynamic hook injection for extensions
 
 // [2026-09-17 17:28:49] perf: add response payload gzip and brotli compression
+
+// [2026-09-21 14:54:02] perf: optimize regex compilation by pre-allocating patterns
