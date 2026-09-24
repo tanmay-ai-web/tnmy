@@ -144,3 +144,5 @@ export class ConnectionPool {
 // [2026-09-01 11:17:34] fix(db): add compound indexing for timestamp and user id
 
 // [2026-09-21 18:14:35] fix(db): optimize query execution plan for activity feeds
+
+// [2026-09-24 20:13:31] feat(db): streamline foreign key constraints and cascade rules
