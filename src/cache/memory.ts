@@ -143,3 +143,5 @@ export class LRUCache<K, V> {
 // [2026-08-24 13:32:48] fix(cache): benchmark serialization protocols for cached entities
 
 // [2026-09-10 11:52:01] feat(cache): add sliding window TTL calculation for hot keys
+
+// [2026-09-24 20:48:01] fix(cache): implement local L1 LRU cache with memory size ceiling
