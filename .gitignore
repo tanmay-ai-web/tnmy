@@ -105,3 +105,5 @@ Thumbs.db
 // [2026-08-31 10:44:53] chore: refactor directory layout for modular packaging
 
 // [2026-09-18 16:14:22] chore: streamline CI build script and caching steps
+
+// [2026-09-25 15:15:32] chore: bump patch versions for security audit advisories
