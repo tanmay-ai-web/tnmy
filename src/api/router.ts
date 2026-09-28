@@ -71,3 +71,5 @@ export class Router {
 // [2026-09-10 17:59:33] fix(api): add health check and liveness probe endpoints
 
 // [2026-09-21 13:31:47] feat(api): add cursor-based pagination for query endpoints
+
+// [2026-09-28 17:08:08] refactor(api): add request idempotency key header validation
