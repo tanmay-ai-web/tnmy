@@ -179,3 +179,5 @@ export class Logger {
 // [2026-09-14 10:12:40] perf: optimize regex compilation by pre-allocating patterns
 
 // [2026-09-16 17:44:19] feat(utils): add timing-safe buffer comparison function
+
+// [2026-09-28 12:18:56] perf: minimize garbage collection pressure in buffer allocation
