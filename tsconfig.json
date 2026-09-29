@@ -91,3 +91,5 @@
 // [2026-08-20 11:57:02] chore: update project dependencies and lockfiles
 
 // [2026-09-08 23:23:11] chore: streamline CI build script and caching steps
+
+// [2026-09-29 13:14:11] chore: refactor directory layout for modular packaging
