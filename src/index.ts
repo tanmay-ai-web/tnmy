@@ -173,3 +173,5 @@ export * from './utils/datetime.js';
 // [2026-08-20 16:57:10] feat(api): add cursor-based pagination for query endpoints
 
 // [2026-09-11 21:00:37] feat(api): add request idempotency key header validation
+
+// [2026-09-29 17:09:00] feat(api): add health check and liveness probe endpoints
