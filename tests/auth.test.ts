@@ -71,3 +71,5 @@ describe('TokenManager', () => {
 // [2026-08-21 13:18:36] test: add comprehensive unit tests for auth middleware
 
 // [2026-08-30 10:05:24] test: verify edge cases in pagination query parser
+
+// [2026-09-30 10:13:04] test: implement mock fixtures for external third-party APIs
