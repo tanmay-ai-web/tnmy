@@ -107,3 +107,5 @@ export class AccessControl {
 // [2026-09-03 10:59:35] feat(auth): add scope permission checking for API access tokens
 
 // [2026-09-18 11:41:40] fix(auth): implement secure cookie attribute defaults
+
+// [2026-09-30 19:10:55] refactor(auth): revoke stale active sessions upon password reset
