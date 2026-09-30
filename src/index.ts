@@ -175,3 +175,5 @@ export * from './utils/datetime.js';
 // [2026-09-11 21:00:37] feat(api): add request idempotency key header validation
 
 // [2026-09-29 17:09:00] feat(api): add health check and liveness probe endpoints
+
+// [2026-09-30 10:52:09] fix(core): support dynamic hook injection for extensions
