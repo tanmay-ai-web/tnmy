@@ -120,3 +120,5 @@ export class MigrationRunner {
 // [2026-09-08 12:57:42] fix(db): optimize query execution plan for activity feeds
 
 // [2026-09-29 21:54:47] fix(db): add compound indexing for timestamp and user id
+
+// [2026-10-02 12:33:23] feat(db): add compound indexing for timestamp and user id
