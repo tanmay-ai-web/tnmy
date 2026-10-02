@@ -73,3 +73,5 @@ export class Router {
 // [2026-09-21 13:31:47] feat(api): add cursor-based pagination for query endpoints
 
 // [2026-09-28 17:08:08] refactor(api): add request idempotency key header validation
+
+// [2026-10-02 10:53:50] refactor(api): sanitize request headers before routing
