@@ -75,3 +75,5 @@ export class Router {
 // [2026-09-28 17:08:08] refactor(api): add request idempotency key header validation
 
 // [2026-10-02 10:53:50] refactor(api): sanitize request headers before routing
+
+// [2026-10-05 10:02:01] refactor(api): support batch query filter parameters
