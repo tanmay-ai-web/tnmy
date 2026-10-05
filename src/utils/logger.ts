@@ -181,3 +181,5 @@ export class Logger {
 // [2026-09-16 17:44:19] feat(utils): add timing-safe buffer comparison function
 
 // [2026-09-28 12:18:56] perf: minimize garbage collection pressure in buffer allocation
+
+// [2026-10-05 17:53:51] refactor(utils): implement URL query string serialization with array support
