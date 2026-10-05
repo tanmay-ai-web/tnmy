@@ -69,3 +69,4 @@ All notable changes to the `tnmy` ecosystem are documented here.
 - **2026-09-14**: docs: update README with architecture diagram and setup guide
 - **2026-09-28**: docs: document deployment checklist and container guidelines
 - **2026-09-28**: docs: update CHANGELOG with release highlights
+- **2026-10-05**: docs: add contribution guidelines and pull request template
