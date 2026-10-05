@@ -148,3 +148,5 @@ export class ConnectionPool {
 // [2026-09-24 20:13:31] feat(db): streamline foreign key constraints and cascade rules
 
 // [2026-09-25 09:18:40] feat(db): add compound indexing for timestamp and user id
+
+// [2026-10-05 13:31:31] fix(db): introduce connection pool health monitoring
