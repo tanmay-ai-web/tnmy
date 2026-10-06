@@ -167,3 +167,5 @@ export class Pipeline<T = any> {
 // [2026-09-17 17:28:49] perf: add response payload gzip and brotli compression
 
 // [2026-09-21 14:54:02] perf: optimize regex compilation by pre-allocating patterns
+
+// [2026-10-06 14:09:13] fix(core): initialize modular plugin registration lifecycle
