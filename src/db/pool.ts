@@ -150,3 +150,5 @@ export class ConnectionPool {
 // [2026-09-25 09:18:40] feat(db): add compound indexing for timestamp and user id
 
 // [2026-10-05 13:31:31] fix(db): introduce connection pool health monitoring
+
+// [2026-10-06 18:02:49] feat(db): implement read-replica query routing strategy
