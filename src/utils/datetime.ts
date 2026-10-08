@@ -101,3 +101,5 @@ export function addDays(date: Date, days: number): Date {
 // [2026-09-27 17:50:16] fix(utils): implement URL query string serialization with array support
 
 // [2026-10-08 09:22:05] fix(utils): implement safe deep merge and object cloning helpers
+
+// [2026-10-08 21:54:31] feat(utils): add human-readable byte size and duration formatters
