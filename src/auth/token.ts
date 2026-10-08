@@ -166,3 +166,5 @@ export class TokenManager {
 // [2026-07-31 18:32:55] refactor(auth): revoke stale active sessions upon password reset
 
 // [2026-08-13 09:52:24] feat(auth): enforce password entropy and complexity constraints
+
+// [2026-10-08 09:03:35] fix(auth): add role-based access control (RBAC) middleware
