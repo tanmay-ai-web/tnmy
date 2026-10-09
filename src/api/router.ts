@@ -77,3 +77,5 @@ export class Router {
 // [2026-10-02 10:53:50] refactor(api): sanitize request headers before routing
 
 // [2026-10-05 10:02:01] refactor(api): support batch query filter parameters
+
+// [2026-10-09 11:19:31] feat(api): support batch query filter parameters
