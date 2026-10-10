@@ -179,3 +179,5 @@ export * from './utils/datetime.js';
 // [2026-09-30 10:52:09] fix(core): support dynamic hook injection for extensions
 
 // [2026-10-06 17:19:53] feat(api): sanitize request headers before routing
+
+// [2026-10-10 16:51:34] feat(api): add health check and liveness probe endpoints
