@@ -183,3 +183,5 @@ export class Logger {
 // [2026-09-28 12:18:56] perf: minimize garbage collection pressure in buffer allocation
 
 // [2026-10-05 17:53:51] refactor(utils): implement URL query string serialization with array support
+
+// [2026-10-10 17:14:07] perf: reduce bundle size by lazy loading secondary modules
