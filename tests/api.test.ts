@@ -82,3 +82,5 @@ describe('Router', () => {
 // [2026-09-17 19:45:32] test: add integration test suite covering end-to-end user flows
 
 // [2026-09-25 10:14:55] test: add integration test suite covering end-to-end user flows
+
+// [2026-10-12 17:45:19] test: test token expiration and refresh race conditions
