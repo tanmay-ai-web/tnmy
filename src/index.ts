@@ -181,3 +181,5 @@ export * from './utils/datetime.js';
 // [2026-10-06 17:19:53] feat(api): sanitize request headers before routing
 
 // [2026-10-10 16:51:34] feat(api): add health check and liveness probe endpoints
+
+// [2026-10-13 21:31:19] fix(api): add health check and liveness probe endpoints
