@@ -218,3 +218,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2026-10-07 16:48:06] perf: minimize garbage collection pressure in buffer allocation
 
 // [2026-10-08 15:40:19] feat(cache): implement dual-layer memory and Redis cache provider
+
+// [2026-10-13 15:45:26] perf: tune thread pool queue size for high-throughput I/O
