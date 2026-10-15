@@ -183,3 +183,5 @@ export * from './utils/datetime.js';
 // [2026-10-10 16:51:34] feat(api): add health check and liveness probe endpoints
 
 // [2026-10-13 21:31:19] fix(api): add health check and liveness probe endpoints
+
+// [2026-10-15 23:23:39] fix(api): add request idempotency key header validation
