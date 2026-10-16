@@ -122,3 +122,5 @@ export class MigrationRunner {
 // [2026-09-29 21:54:47] fix(db): add compound indexing for timestamp and user id
 
 // [2026-10-02 12:33:23] feat(db): add compound indexing for timestamp and user id
+
+// [2026-10-16 23:19:18] feat(db): sanitize SQL query parameters against blind injection
