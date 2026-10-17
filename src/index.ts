@@ -187,3 +187,5 @@ export * from './utils/datetime.js';
 // [2026-10-15 23:23:39] fix(api): add request idempotency key header validation
 
 // [2026-10-16 09:50:27] refactor(api): add HMAC signature verification for incoming webhooks
+
+// [2026-10-17 16:38:45] feat(api): add health check and liveness probe endpoints
