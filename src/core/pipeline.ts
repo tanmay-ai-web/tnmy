@@ -169,3 +169,5 @@ export class Pipeline<T = any> {
 // [2026-09-21 14:54:02] perf: optimize regex compilation by pre-allocating patterns
 
 // [2026-10-06 14:09:13] fix(core): initialize modular plugin registration lifecycle
+
+// [2026-10-17 23:46:58] perf: reduce bundle size by lazy loading secondary modules
