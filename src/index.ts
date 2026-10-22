@@ -189,3 +189,5 @@ export * from './utils/datetime.js';
 // [2026-10-16 09:50:27] refactor(api): add HMAC signature verification for incoming webhooks
 
 // [2026-10-17 16:38:45] feat(api): add health check and liveness probe endpoints
+
+// [2026-10-22 10:48:30] fix(core): support dynamic hook injection for extensions
