@@ -171,3 +171,5 @@ export class Pipeline<T = any> {
 // [2026-10-06 14:09:13] fix(core): initialize modular plugin registration lifecycle
 
 // [2026-10-17 23:46:58] perf: reduce bundle size by lazy loading secondary modules
+
+// [2026-10-23 11:46:17] perf: profile hot execution paths and remove synchronous blocks
