@@ -95,3 +95,5 @@
 // [2026-09-29 13:14:11] chore: refactor directory layout for modular packaging
 
 // [2026-10-13 09:53:14] chore: bump patch versions for security audit advisories
+
+// [2026-10-28 09:31:28] chore: add editorconfig and gitattributes configuration
