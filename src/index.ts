@@ -191,3 +191,5 @@ export * from './utils/datetime.js';
 // [2026-10-17 16:38:45] feat(api): add health check and liveness probe endpoints
 
 // [2026-10-22 10:48:30] fix(core): support dynamic hook injection for extensions
+
+// [2026-11-01 17:35:58] feat(api): add request payload validation schema with strict types
