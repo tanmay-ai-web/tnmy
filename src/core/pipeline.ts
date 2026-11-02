@@ -175,3 +175,5 @@ export class Pipeline<T = any> {
 // [2026-10-23 11:46:17] perf: profile hot execution paths and remove synchronous blocks
 
 // [2026-10-27 09:11:32] perf: eliminate redundant database queries using batch DataLoader
+
+// [2026-11-02 12:46:24] perf: tune thread pool queue size for high-throughput I/O
