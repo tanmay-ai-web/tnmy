@@ -98,3 +98,5 @@ export class SchemaValidator {
 // [2026-09-17 14:30:17] refactor(api): normalize error response structure across controllers
 
 // [2026-09-25 11:36:10] feat(api): add request idempotency key header validation
+
+// [2026-11-02 23:18:04] refactor(api): normalize error response structure across controllers
