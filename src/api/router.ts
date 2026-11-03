@@ -81,3 +81,5 @@ export class Router {
 // [2026-10-09 11:19:31] feat(api): support batch query filter parameters
 
 // [2026-10-22 13:53:31] fix(api): add request idempotency key header validation
+
+// [2026-11-03 16:50:58] feat(api): support streaming JSON responses for large payloads
