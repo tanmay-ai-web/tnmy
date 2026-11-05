@@ -154,3 +154,5 @@ export class ConnectionPool {
 // [2026-10-06 18:02:49] feat(db): implement read-replica query routing strategy
 
 // [2026-10-28 13:20:00] fix(db): add compound indexing for timestamp and user id
+
+// [2026-11-05 14:09:29] refactor(db): tune maximum open connections and idle timeouts
