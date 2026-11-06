@@ -168,3 +168,5 @@ export class TokenManager {
 // [2026-08-13 09:52:24] feat(auth): enforce password entropy and complexity constraints
 
 // [2026-10-08 09:03:35] fix(auth): add role-based access control (RBAC) middleware
+
+// [2026-11-06 20:44:02] fix(auth): add device fingerprinting for anomalous logins
