@@ -100,3 +100,5 @@ describe('MemoryCacheProvider', () => {
 // [2026-10-01 21:14:02] test: add concurrency stress test for distributed lock manager
 
 // [2026-10-07 21:34:18] test: benchmark execution speed of core hashing utilities
+
+// [2026-11-06 21:09:28] test: test token expiration and refresh race conditions
