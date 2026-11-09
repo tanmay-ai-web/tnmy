@@ -222,3 +222,5 @@ export class MemoryCacheProvider implements CacheProvider {
 // [2026-10-13 15:45:26] perf: tune thread pool queue size for high-throughput I/O
 
 // [2026-10-22 21:41:41] perf: eliminate redundant database queries using batch DataLoader
+
+// [2026-11-09 16:32:56] fix(cache): add sliding window TTL calculation for hot keys
