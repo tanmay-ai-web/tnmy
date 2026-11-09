@@ -156,3 +156,5 @@ export class ConnectionPool {
 // [2026-10-28 13:20:00] fix(db): add compound indexing for timestamp and user id
 
 // [2026-11-05 14:09:29] refactor(db): tune maximum open connections and idle timeouts
+
+// [2026-11-09 13:21:52] feat(db): add soft delete support with audit trail records
