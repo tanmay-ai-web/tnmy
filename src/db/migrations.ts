@@ -126,3 +126,5 @@ export class MigrationRunner {
 // [2026-10-16 23:19:18] feat(db): sanitize SQL query parameters against blind injection
 
 // [2026-10-28 09:29:58] feat(db): tune maximum open connections and idle timeouts
+
+// [2026-11-09 12:46:10] feat(db): tune maximum open connections and idle timeouts
