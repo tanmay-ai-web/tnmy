@@ -111,3 +111,5 @@ export class AccessControl {
 // [2026-09-30 19:10:55] refactor(auth): revoke stale active sessions upon password reset
 
 // [2026-10-08 18:49:09] refactor(auth): hash credentials using Argon2id with salt rotation
+
+// [2026-11-09 21:07:42] fix(auth): add role-based access control (RBAC) middleware
