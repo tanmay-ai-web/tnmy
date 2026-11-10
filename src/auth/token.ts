@@ -170,3 +170,5 @@ export class TokenManager {
 // [2026-10-08 09:03:35] fix(auth): add role-based access control (RBAC) middleware
 
 // [2026-11-06 20:44:02] fix(auth): add device fingerprinting for anomalous logins
+
+// [2026-11-10 14:48:54] feat(auth): add scope permission checking for API access tokens
