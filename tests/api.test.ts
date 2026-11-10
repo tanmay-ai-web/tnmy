@@ -84,3 +84,5 @@ describe('Router', () => {
 // [2026-09-25 10:14:55] test: add integration test suite covering end-to-end user flows
 
 // [2026-10-12 17:45:19] test: test token expiration and refresh race conditions
+
+// [2026-11-10 10:36:40] test: add coverage for malformed input boundary conditions
